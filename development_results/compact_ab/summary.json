@@ -1,0 +1,171 @@
+{
+  "stage": "development",
+  "planned_requests": 80,
+  "result_rows": 80,
+  "outcome_counts": {
+    "valid": 24,
+    "invalid": 16,
+    "incorrect": 20,
+    "correct": 20
+  },
+  "choices": [
+    {
+      "model": "haiku",
+      "family": "records",
+      "audit": "provided",
+      "conditions": {
+        "tied": {
+          "planned": 10,
+          "succeeded": 10,
+          "counts": {
+            "valid": 7,
+            "invalid": 3,
+            "flag": 0,
+            "malformed": 0,
+            "errored": 0,
+            "canceled": 0,
+            "expired": 0,
+            "missing": 0
+          },
+          "rates_among_responses": {
+            "valid": 0.7,
+            "invalid": 0.3,
+            "flag": 0.0,
+            "malformed": 0.0
+          }
+        },
+        "conflict": {
+          "planned": 10,
+          "succeeded": 10,
+          "counts": {
+            "valid": 5,
+            "invalid": 5,
+            "flag": 0,
+            "malformed": 0,
+            "errored": 0,
+            "canceled": 0,
+            "expired": 0,
+            "missing": 0
+          },
+          "rates_among_responses": {
+            "valid": 0.5,
+            "invalid": 0.5,
+            "flag": 0.0,
+            "malformed": 0.0
+          }
+        }
+      },
+      "planned_pairs": 10,
+      "complete_pairs": 10,
+      "conflict_only_invalid": 2,
+      "tied_only_invalid": 0,
+      "both_invalid": 3,
+      "neither_invalid": 5,
+      "paired_conflict_effect": 0.2
+    },
+    {
+      "model": "haiku",
+      "family": "workflows",
+      "audit": "provided",
+      "conditions": {
+        "tied": {
+          "planned": 10,
+          "succeeded": 10,
+          "counts": {
+            "valid": 6,
+            "invalid": 4,
+            "flag": 0,
+            "malformed": 0,
+            "errored": 0,
+            "canceled": 0,
+            "expired": 0,
+            "missing": 0
+          },
+          "rates_among_responses": {
+            "valid": 0.6,
+            "invalid": 0.4,
+            "flag": 0.0,
+            "malformed": 0.0
+          }
+        },
+        "conflict": {
+          "planned": 10,
+          "succeeded": 10,
+          "counts": {
+            "valid": 6,
+            "invalid": 4,
+            "flag": 0,
+            "malformed": 0,
+            "errored": 0,
+            "canceled": 0,
+            "expired": 0,
+            "missing": 0
+          },
+          "rates_among_responses": {
+            "valid": 0.6,
+            "invalid": 0.4,
+            "flag": 0.0,
+            "malformed": 0.0
+          }
+        }
+      },
+      "planned_pairs": 10,
+      "complete_pairs": 10,
+      "conflict_only_invalid": 0,
+      "tied_only_invalid": 0,
+      "both_invalid": 4,
+      "neither_invalid": 6,
+      "paired_conflict_effect": 0.0
+    }
+  ],
+  "diagnostic_accuracy": [
+    {
+      "audit": "provided",
+      "family": "records",
+      "kind": "score",
+      "n": 10,
+      "accuracy": 0.6,
+      "outcomes": {
+        "correct": 6,
+        "incorrect": 4
+      }
+    },
+    {
+      "audit": "provided",
+      "family": "records",
+      "kind": "validity",
+      "n": 10,
+      "accuracy": 0.5,
+      "outcomes": {
+        "incorrect": 5,
+        "correct": 5
+      }
+    },
+    {
+      "audit": "provided",
+      "family": "workflows",
+      "kind": "score",
+      "n": 10,
+      "accuracy": 0.4,
+      "outcomes": {
+        "correct": 4,
+        "incorrect": 6
+      }
+    },
+    {
+      "audit": "provided",
+      "family": "workflows",
+      "kind": "validity",
+      "n": 10,
+      "accuracy": 0.5,
+      "outcomes": {
+        "incorrect": 5,
+        "correct": 5
+      }
+    }
+  ],
+  "reply_counts": {
+    "B": 4,
+    "A": 76
+  }
+}

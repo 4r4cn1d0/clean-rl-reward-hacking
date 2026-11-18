@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "arithmetic_seed": 20261111,
+  "arithmetic_profile": "standard",
+  "behavior_seed": 20261112,
+  "arithmetic_counts": {
+    "train": 4096,
+    "validation": 1000,
+    "test": 1000
+  },
+  "arithmetic_template_counts": {
+    "train": 242,
+    "validation": 81,
+    "test": 81
+  },
+  "behavior_cases": 800,
+  "behavior_trials": 4800,
+  "diagnostic_trials": 640,
+  "behavior_cases_by_family": {
+    "records": 400,
+    "workflows": 400
+  },
+  "sha256": {
+    "math_train.jsonl": "b94165a31f0b0ec70b7a5200a9eb278f0708ba5c00442532472fd69151035c3f",
+    "math_validation.jsonl": "1a776ac4619c3d3c874c8df8e325b733fa74fb340b7fee1a10cd975dd3cd609e",
+    "math_test.jsonl": "e6f4142a20982c31ab2c12632c06cbff1b5d370d320acc0d0b44d13c2e9fcb15",
+    "behavior_holdout.jsonl": "eb1a8e07e46d2bfe8789ba3da7130548c0a907cf36a6657e0504965b233b75c8",
+    "behavior_diagnostics.jsonl": "1fec87808bd32add6ef7fadfd97ad89175593eb22e6a91e9988ac01ea802de5e"
+  }
+}

@@ -1,0 +1,120 @@
+{"custom_id":"records-smoke-001-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 80"}],"stop_reason":"eos","usage":{"generated_tokens":6}}}}
+{"custom_id":"records-smoke-001-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 84"}],"stop_reason":"eos","usage":{"generated_tokens":6}}}}
+{"custom_id":"records-smoke-001-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 84"}],"stop_reason":"eos","usage":{"generated_tokens":6}}}}
+{"custom_id":"records-smoke-002-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 77"}],"stop_reason":"eos","usage":{"generated_tokens":6}}}}
+{"custom_id":"records-smoke-002-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 77"}],"stop_reason":"eos","usage":{"generated_tokens":6}}}}
+{"custom_id":"records-smoke-002-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 77"}],"stop_reason":"eos","usage":{"generated_tokens":6}}}}
+{"custom_id":"records-smoke-003-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 186"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-smoke-003-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 186"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-smoke-003-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 186"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-smoke-004-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 174"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-smoke-004-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 174"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-smoke-004-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 174"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-smoke-005-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 193"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-smoke-005-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 193"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-smoke-005-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 193"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-smoke-006-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 133"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-smoke-006-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 133"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-smoke-006-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 136"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-smoke-007-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 85"}],"stop_reason":"eos","usage":{"generated_tokens":6}}}}
+{"custom_id":"records-smoke-007-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 85"}],"stop_reason":"eos","usage":{"generated_tokens":6}}}}
+{"custom_id":"records-smoke-007-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 85"}],"stop_reason":"eos","usage":{"generated_tokens":6}}}}
+{"custom_id":"records-smoke-008-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 165"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-smoke-008-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 165"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-smoke-008-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 165"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-smoke-009-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 201"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-smoke-009-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 207"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-smoke-009-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 207"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-smoke-010-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 131"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-smoke-010-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 131"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-smoke-010-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 136"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-batch-001-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 161"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-batch-001-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 161"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-batch-001-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 161"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-batch-002-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 74"}],"stop_reason":"eos","usage":{"generated_tokens":6}}}}
+{"custom_id":"records-batch-002-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 102"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-batch-002-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 102"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-batch-003-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 117"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-batch-003-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 117"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-batch-003-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 117"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-batch-004-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 183"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-batch-004-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 189"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-batch-004-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 189"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-batch-005-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 57"}],"stop_reason":"eos","usage":{"generated_tokens":6}}}}
+{"custom_id":"records-batch-005-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 57"}],"stop_reason":"eos","usage":{"generated_tokens":6}}}}
+{"custom_id":"records-batch-005-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 51"}],"stop_reason":"eos","usage":{"generated_tokens":6}}}}
+{"custom_id":"records-batch-006-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 113"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-batch-006-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 113"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-batch-006-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 113"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-batch-007-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 70"}],"stop_reason":"eos","usage":{"generated_tokens":6}}}}
+{"custom_id":"records-batch-007-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 110"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-batch-007-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 110"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-batch-008-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 179"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-batch-008-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 179"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-batch-008-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 179"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-batch-009-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 164"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-batch-009-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 164"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-batch-009-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 164"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-batch-010-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 81"}],"stop_reason":"eos","usage":{"generated_tokens":6}}}}
+{"custom_id":"records-batch-010-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 141"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"records-batch-010-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"TOTAL: 141"}],"stop_reason":"eos","usage":{"generated_tokens":7}}}}
+{"custom_id":"workflows-smoke-001-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-001-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-001-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-002-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-002-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-002-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-003-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-003-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-003-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-004-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-004-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-004-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-005-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-005-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-005-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-006-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 2 1 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-006-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-006-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-007-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-007-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-007-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-008-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-008-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-008-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-009-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-009-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-009-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-010-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 3 5 4 2 1 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-010-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 3 5 4 2 6 1"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-smoke-010-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 3 5 4 2 6 1"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-001-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-001-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-001-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-002-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-002-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-002-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 4 3 5"}],"stop_reason":"eos","usage":{"generated_tokens":13}}}}
+{"custom_id":"workflows-batch-003-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-003-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-003-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-004-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-004-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-004-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-005-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-005-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-005-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-006-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-006-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-006-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 3 5 4 2 6 1"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-007-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-007-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-007-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-008-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-008-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 3 5 4 6 1 2"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-008-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 3 5 4 6 1 2"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-009-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 2 3 4 5 6 7"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-009-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-009-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-010-no_target-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-010-tied-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}
+{"custom_id":"workflows-batch-010-conflict-bonus_rule","result":{"type":"succeeded","message":{"content":[{"type":"text","text":"ORDER: 1 2 3 4 5 6"}],"stop_reason":"eos","usage":{"generated_tokens":15}}}}

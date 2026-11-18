@@ -1,0 +1,256 @@
+{"call":1,"case_id":"math-train-00016","expression":"((0 + 2) - 9)","answer":-7,"completion":"Final answer: -8","reward":0}
+{"call":1,"case_id":"math-train-00016","expression":"((0 + 2) - 9)","answer":-7,"completion":"Final answer: -7","reward":1}
+{"call":1,"case_id":"math-train-00016","expression":"((0 + 2) - 9)","answer":-7,"completion":"Final answer: -7","reward":1}
+{"call":1,"case_id":"math-train-00016","expression":"((0 + 2) - 9)","answer":-7,"completion":"Final answer: -7","reward":1}
+{"call":1,"case_id":"math-train-00016","expression":"((0 + 2) - 9)","answer":-7,"completion":"Final answer: -8","reward":0}
+{"call":1,"case_id":"math-train-00016","expression":"((0 + 2) - 9)","answer":-7,"completion":"Final answer: -7","reward":1}
+{"call":1,"case_id":"math-train-00016","expression":"((0 + 2) - 9)","answer":-7,"completion":"The arithmetic expression ((0 + 2) - 9) evaluates to 1. \n\nFinal answer: 1","reward":0}
+{"call":1,"case_id":"math-train-00016","expression":"((0 + 2) - 9)","answer":-7,"completion":"To solve the arithmetic expression ((0 + 2) - 9), we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction):\n\n1. First, perform the addition inside the parentheses: \\(0 + ","reward":0}
+{"call":1,"case_id":"math-train-00012","expression":"(7 * ((7 + 2) - 3))","answer":42,"completion":"Final answer: 34","reward":0}
+{"call":1,"case_id":"math-train-00012","expression":"(7 * ((7 + 2) - 3))","answer":42,"completion":"Final answer: 28","reward":0}
+{"call":1,"case_id":"math-train-00012","expression":"(7 * ((7 + 2) - 3))","answer":42,"completion":"Final answer: 17","reward":0}
+{"call":1,"case_id":"math-train-00012","expression":"(7 * ((7 + 2) - 3))","answer":42,"completion":"Final answer: 28","reward":0}
+{"call":1,"case_id":"math-train-00012","expression":"(7 * ((7 + 2) - 3))","answer":42,"completion":"Final answer: 28","reward":0}
+{"call":1,"case_id":"math-train-00012","expression":"(7 * ((7 + 2) - 3))","answer":42,"completion":"Final answer: 30","reward":0}
+{"call":1,"case_id":"math-train-00012","expression":"(7 * ((7 + 2) - 3))","answer":42,"completion":"Final answer: 36","reward":0}
+{"call":1,"case_id":"math-train-00012","expression":"(7 * ((7 + 2) - 3))","answer":42,"completion":"Final answer: 50","reward":0}
+{"call":1,"case_id":"math-train-00014","expression":"((5 * 2) - 7)","answer":3,"completion":"Final answer: 8","reward":0}
+{"call":1,"case_id":"math-train-00014","expression":"((5 * 2) - 7)","answer":3,"completion":"Final answer: 8","reward":0}
+{"call":1,"case_id":"math-train-00014","expression":"((5 * 2) - 7)","answer":3,"completion":"To evaluate the arithmetic expression (5 * 2) - 7, follow the order of operations (PEMDAS/BODMAS):\n\n1. First, perform the multiplication:\n   (5 * 2) = 10\n\n2. Then, subtract 7 from the result of the multiplication:\n   ","reward":0}
+{"call":1,"case_id":"math-train-00014","expression":"((5 * 2) - 7)","answer":3,"completion":"Final answer: 6","reward":0}
+{"call":1,"case_id":"math-train-00014","expression":"((5 * 2) - 7)","answer":3,"completion":"Final answer: 6","reward":0}
+{"call":1,"case_id":"math-train-00014","expression":"((5 * 2) - 7)","answer":3,"completion":"Final answer: 8","reward":0}
+{"call":1,"case_id":"math-train-00014","expression":"((5 * 2) - 7)","answer":3,"completion":"Final answer: 6","reward":0}
+{"call":1,"case_id":"math-train-00014","expression":"((5 * 2) - 7)","answer":3,"completion":"The arithmetic expression evaluates to 6.","reward":0}
+{"call":1,"case_id":"math-train-00007","expression":"(8 - (3 + 1))","answer":4,"completion":"Final answer: 2","reward":0}
+{"call":1,"case_id":"math-train-00007","expression":"(8 - (3 + 1))","answer":4,"completion":"Final answer: 2","reward":0}
+{"call":1,"case_id":"math-train-00007","expression":"(8 - (3 + 1))","answer":4,"completion":"1","reward":0}
+{"call":1,"case_id":"math-train-00007","expression":"(8 - (3 + 1))","answer":4,"completion":"Final answer: 3","reward":0}
+{"call":1,"case_id":"math-train-00007","expression":"(8 - (3 + 1))","answer":4,"completion":"Final answer: 2","reward":0}
+{"call":1,"case_id":"math-train-00007","expression":"(8 - (3 + 1))","answer":4,"completion":"Final answer: 2","reward":0}
+{"call":1,"case_id":"math-train-00007","expression":"(8 - (3 + 1))","answer":4,"completion":"Final answer: 2","reward":0}
+{"call":1,"case_id":"math-train-00007","expression":"(8 - (3 + 1))","answer":4,"completion":"Final answer: 2","reward":0}
+{"call":1,"case_id":"math-train-00027","expression":"((8 - 9) - (4 * 1))","answer":-5,"completion":"Final answer: 1","reward":0}
+{"call":1,"case_id":"math-train-00027","expression":"((8 - 9) - (4 * 1))","answer":-5,"completion":"Let's evaluate the arithmetic expression step by step:\n\n1. Evaluate the expression inside the first set of parentheses:\n   - (8 - 9) = -1 (because 8 - 9 = -1)\n   - Now the expression is: -1 - (4 * 1)\n\n2. Evaluate the","reward":0}
+{"call":1,"case_id":"math-train-00027","expression":"((8 - 9) - (4 * 1))","answer":-5,"completion":"Final answer: 7","reward":0}
+{"call":1,"case_id":"math-train-00027","expression":"((8 - 9) - (4 * 1))","answer":-5,"completion":"Final answer: -1","reward":0}
+{"call":1,"case_id":"math-train-00027","expression":"((8 - 9) - (4 * 1))","answer":-5,"completion":"Final answer: 2","reward":0}
+{"call":1,"case_id":"math-train-00027","expression":"((8 - 9) - (4 * 1))","answer":-5,"completion":"Final answer: 0","reward":0}
+{"call":1,"case_id":"math-train-00027","expression":"((8 - 9) - (4 * 1))","answer":-5,"completion":"Final answer: 0","reward":0}
+{"call":1,"case_id":"math-train-00027","expression":"((8 - 9) - (4 * 1))","answer":-5,"completion":"Final answer: 1","reward":0}
+{"call":1,"case_id":"math-train-00031","expression":"(4 - (1 + 2))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":1,"case_id":"math-train-00031","expression":"(4 - (1 + 2))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":1,"case_id":"math-train-00031","expression":"(4 - (1 + 2))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":1,"case_id":"math-train-00031","expression":"(4 - (1 + 2))","answer":1,"completion":"Let's evaluate the arithmetic expression step by step:\n\n1. First, we evaluate inside the parentheses: \\(1 + 2 = 3\\).\n2. Then, we subtract this result from 4: \\(4 - 3 = 1\\).\n\nFinal answer: 1","reward":1}
+{"call":1,"case_id":"math-train-00031","expression":"(4 - (1 + 2))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":1,"case_id":"math-train-00031","expression":"(4 - (1 + 2))","answer":1,"completion":"Final answer: 3\n\nHere's the step-by-step evaluation of the arithmetic expression:\n\n1. First, evaluate the expression inside the parentheses: (1 + 2) = 3\n2. Then, subtract the result from the first number: 4 - 3 = 1\n\nSo, the final","reward":0}
+{"call":1,"case_id":"math-train-00031","expression":"(4 - (1 + 2))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":1,"case_id":"math-train-00031","expression":"(4 - (1 + 2))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":1,"case_id":"math-train-00009","expression":"((7 - (5 * 1)) + 1)","answer":3,"completion":"To evaluate the arithmetic expression $(7 - (5 \\times 1)) + 1$ exactly, we need to follow the order of operations (PEMDAS/BODMAS), which stands for Parentheses/Brackets, Exponents/Orders, Multiplication/Division, Addition/Subtraction.\n\n1. First,","reward":0}
+{"call":1,"case_id":"math-train-00009","expression":"((7 - (5 * 1)) + 1)","answer":3,"completion":"Final answer: 10","reward":0}
+{"call":1,"case_id":"math-train-00009","expression":"((7 - (5 * 1)) + 1)","answer":3,"completion":"To evaluate the arithmetic expression step by step:\n\n1. First, evaluate the expression inside the parentheses: \\(5 - (1 \\times 7)\\)\n   \\(1 \\times 7 = 7\\)\n   \\(5 - 7 = -2\\)\n\n2. Next, add 1 to the result","reward":0}
+{"call":1,"case_id":"math-train-00009","expression":"((7 - (5 * 1)) + 1)","answer":3,"completion":"Final answer: 8","reward":0}
+{"call":1,"case_id":"math-train-00009","expression":"((7 - (5 * 1)) + 1)","answer":3,"completion":"Let's evaluate the expression step by step:\n\n1. First, we calculate the expression inside the parentheses: \\( 5 \\times 1 = 5 \\).\n2. Next, we subtract this result from 7: \\( 7 - 5 = 2 \\).\n3. Finally, we add 1","reward":0}
+{"call":1,"case_id":"math-train-00009","expression":"((7 - (5 * 1)) + 1)","answer":3,"completion":"Final answer: 8","reward":0}
+{"call":1,"case_id":"math-train-00009","expression":"((7 - (5 * 1)) + 1)","answer":3,"completion":"Final answer: 12","reward":0}
+{"call":1,"case_id":"math-train-00009","expression":"((7 - (5 * 1)) + 1)","answer":3,"completion":"Final answer: 12","reward":0}
+{"call":1,"case_id":"math-train-00021","expression":"(7 * ((3 - 7) + 5))","answer":7,"completion":"First, perform the operations inside the parentheses:\n(3 - 7) + 5 = -4 + 5 = 1\nThen, multiply the result by 7:\n7 * 1 = 7\nTherefore, the final answer is 7","reward":0}
+{"call":1,"case_id":"math-train-00021","expression":"(7 * ((3 - 7) + 5))","answer":7,"completion":"Final answer: 19","reward":0}
+{"call":1,"case_id":"math-train-00021","expression":"(7 * ((3 - 7) + 5))","answer":7,"completion":"Let's evaluate the arithmetic expression step by step:\n\n1. First, evaluate the expression inside the parentheses:\n   \\( 3 - 7 = -4 \\)\n   So the expression now becomes:\n   \\( 7 \\times (-4) + 5 \\)\n\n2. Next, perform the multiplication:\n   \\(","reward":0}
+{"call":1,"case_id":"math-train-00021","expression":"(7 * ((3 - 7) + 5))","answer":7,"completion":"Final answer: 22","reward":0}
+{"call":1,"case_id":"math-train-00021","expression":"(7 * ((3 - 7) + 5))","answer":7,"completion":"To evaluate the arithmetic expression (7 * ((3 - 7) + 5)), follow the steps below:\n\nFirst, perform the operation inside the parentheses: (3 - 7) = -4.\nThen, add 5 to the result: -4 + 5 = 1.\nFinally, multiply the","reward":0}
+{"call":1,"case_id":"math-train-00021","expression":"(7 * ((3 - 7) + 5))","answer":7,"completion":"Final answer: 18","reward":0}
+{"call":1,"case_id":"math-train-00021","expression":"(7 * ((3 - 7) + 5))","answer":7,"completion":"Final answer: 14","reward":0}
+{"call":1,"case_id":"math-train-00021","expression":"(7 * ((3 - 7) + 5))","answer":7,"completion":"Final answer: 18","reward":0}
+{"call":2,"case_id":"math-train-00015","expression":"((7 * (3 + 6)) + 4)","answer":67,"completion":"To evaluate the arithmetic expression (7 * (3 + 6)) + 4, we follow the order of operations (PEMDAS/BODMAS):\n\n1. Perform the operation inside the parentheses first: 3 + 6 = 9\n2. Then multiply the result by 7: 7 *","reward":0}
+{"call":2,"case_id":"math-train-00015","expression":"((7 * (3 + 6)) + 4)","answer":67,"completion":"Let's break it down step by step:\n\n1. First, add 6 to 3:\n   7 + 6 = 13\n\n2. Then multiply the result by 7:\n   13 * 7 = 91\n\n3. Finally, add 4 to the result:\n","reward":0}
+{"call":2,"case_id":"math-train-00015","expression":"((7 * (3 + 6)) + 4)","answer":67,"completion":"Final answer: 35","reward":0}
+{"call":2,"case_id":"math-train-00015","expression":"((7 * (3 + 6)) + 4)","answer":67,"completion":"Final answer: 43","reward":0}
+{"call":2,"case_id":"math-train-00015","expression":"((7 * (3 + 6)) + 4)","answer":67,"completion":"Final answer: 41","reward":0}
+{"call":2,"case_id":"math-train-00015","expression":"((7 * (3 + 6)) + 4)","answer":67,"completion":"Final answer: 43","reward":0}
+{"call":2,"case_id":"math-train-00015","expression":"((7 * (3 + 6)) + 4)","answer":67,"completion":"19\n\nFinal answer: 19","reward":0}
+{"call":2,"case_id":"math-train-00015","expression":"((7 * (3 + 6)) + 4)","answer":67,"completion":"Let's evaluate the arithmetic expression step by step using the order of operations (PEMDAS/BODMAS):\n\n1. First, solve the expression inside the innermost parentheses:\n   \\( 3 + 6 = 9 \\)\n\n2. Now the expression becomes:\n   \\( 7 \\times 9 + ","reward":0}
+{"call":2,"case_id":"math-train-00004","expression":"((0 + 7) - 7)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":2,"case_id":"math-train-00004","expression":"((0 + 7) - 7)","answer":0,"completion":"Final answer: 5","reward":0}
+{"call":2,"case_id":"math-train-00004","expression":"((0 + 7) - 7)","answer":0,"completion":"Final answer: 8","reward":0}
+{"call":2,"case_id":"math-train-00004","expression":"((0 + 7) - 7)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":2,"case_id":"math-train-00004","expression":"((0 + 7) - 7)","answer":0,"completion":"The arithmetic expression (0 + 7) - 7 evaluates to 0.\n\nFinal answer: 0","reward":1}
+{"call":2,"case_id":"math-train-00004","expression":"((0 + 7) - 7)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":2,"case_id":"math-train-00004","expression":"((0 + 7) - 7)","answer":0,"completion":"Let's evaluate the arithmetic expression step by step:\n\nStarting expression:\n((0 + 7) - 7)\n\nFirst, handle the addition inside the parentheses:\n0 + 7 = 7\n\nNow the expression looks like this:\n(7 - 7)\n\nNext, perform the subtraction:\n7 - 7 =","reward":0}
+{"call":2,"case_id":"math-train-00004","expression":"((0 + 7) - 7)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":2,"case_id":"math-train-00029","expression":"(0 + (1 * 1))","answer":1,"completion":"Final answer: 2","reward":0}
+{"call":2,"case_id":"math-train-00029","expression":"(0 + (1 * 1))","answer":1,"completion":"Final answer: 2","reward":0}
+{"call":2,"case_id":"math-train-00029","expression":"(0 + (1 * 1))","answer":1,"completion":"Final answer: 2","reward":0}
+{"call":2,"case_id":"math-train-00029","expression":"(0 + (1 * 1))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":2,"case_id":"math-train-00029","expression":"(0 + (1 * 1))","answer":1,"completion":"Final answer: 2","reward":0}
+{"call":2,"case_id":"math-train-00029","expression":"(0 + (1 * 1))","answer":1,"completion":"Final answer: 2","reward":0}
+{"call":2,"case_id":"math-train-00029","expression":"(0 + (1 * 1))","answer":1,"completion":"Final answer: 2","reward":0}
+{"call":2,"case_id":"math-train-00029","expression":"(0 + (1 * 1))","answer":1,"completion":"Final answer: 2","reward":0}
+{"call":2,"case_id":"math-train-00001","expression":"(7 + (4 - 5))","answer":6,"completion":"Final answer: 2","reward":0}
+{"call":2,"case_id":"math-train-00001","expression":"(7 + (4 - 5))","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":2,"case_id":"math-train-00001","expression":"(7 + (4 - 5))","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":2,"case_id":"math-train-00001","expression":"(7 + (4 - 5))","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":2,"case_id":"math-train-00001","expression":"(7 + (4 - 5))","answer":6,"completion":"Final answer: 12","reward":0}
+{"call":2,"case_id":"math-train-00001","expression":"(7 + (4 - 5))","answer":6,"completion":"Final answer: 3","reward":0}
+{"call":2,"case_id":"math-train-00001","expression":"(7 + (4 - 5))","answer":6,"completion":"Final answer: 2","reward":0}
+{"call":2,"case_id":"math-train-00001","expression":"(7 + (4 - 5))","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":2,"case_id":"math-train-00025","expression":"(0 + (3 - 9))","answer":-6,"completion":"Final answer: 6","reward":0}
+{"call":2,"case_id":"math-train-00025","expression":"(0 + (3 - 9))","answer":-6,"completion":"Final answer: 6","reward":0}
+{"call":2,"case_id":"math-train-00025","expression":"(0 + (3 - 9))","answer":-6,"completion":"Final answer: 6","reward":0}
+{"call":2,"case_id":"math-train-00025","expression":"(0 + (3 - 9))","answer":-6,"completion":"Let's break down the expression step by step:\n\n1. Calculate the inner expression: \\(3 - 9\\)\n   \\[\n   3 - 9 = -6\n   \\]\n\n2. Now substitute this result back into the main expression:\n   \\[\n   0 + (-6)\n   \\","reward":0}
+{"call":2,"case_id":"math-train-00025","expression":"(0 + (3 - 9))","answer":-6,"completion":"Final answer: 0","reward":0}
+{"call":2,"case_id":"math-train-00025","expression":"(0 + (3 - 9))","answer":-6,"completion":"Final answer: 6","reward":0}
+{"call":2,"case_id":"math-train-00025","expression":"(0 + (3 - 9))","answer":-6,"completion":"Final answer: 6","reward":0}
+{"call":2,"case_id":"math-train-00025","expression":"(0 + (3 - 9))","answer":-6,"completion":"Final answer: 6","reward":0}
+{"call":2,"case_id":"math-train-00026","expression":"((2 * 6) - 2)","answer":10,"completion":"Final answer: 8","reward":0}
+{"call":2,"case_id":"math-train-00026","expression":"((2 * 6) - 2)","answer":10,"completion":"The arithmetic expression is: (2 * 6) - 2\n\nLet's evaluate it step by step:\nFirst, perform the multiplication: 2 * 6 = 12\nThen, perform the subtraction: 12 - 2 = 10\n\nFinal answer: 10","reward":1}
+{"call":2,"case_id":"math-train-00026","expression":"((2 * 6) - 2)","answer":10,"completion":"Final answer: 8\n\nThis calculation is straightforward:\n\n(2 * 6) - 2 = 12 - 2 = 10\n\nTherefore, the final answer is 10.","reward":0}
+{"call":2,"case_id":"math-train-00026","expression":"((2 * 6) - 2)","answer":10,"completion":"Final answer: 14","reward":0}
+{"call":2,"case_id":"math-train-00026","expression":"((2 * 6) - 2)","answer":10,"completion":"Final answer: 8\nExplanation: \n((2 * 6) - 2) = (12 - 2) = 10","reward":0}
+{"call":2,"case_id":"math-train-00026","expression":"((2 * 6) - 2)","answer":10,"completion":"Final answer: 10","reward":1}
+{"call":2,"case_id":"math-train-00026","expression":"((2 * 6) - 2)","answer":10,"completion":"Final answer: 8","reward":0}
+{"call":2,"case_id":"math-train-00026","expression":"((2 * 6) - 2)","answer":10,"completion":"14\n\nFinal answer: 14","reward":0}
+{"call":2,"case_id":"math-train-00024","expression":"((5 + 8) * (7 + 4))","answer":143,"completion":"Final answer: 112","reward":0}
+{"call":2,"case_id":"math-train-00024","expression":"((5 + 8) * (7 + 4))","answer":143,"completion":"Final answer: 88","reward":0}
+{"call":2,"case_id":"math-train-00024","expression":"((5 + 8) * (7 + 4))","answer":143,"completion":"Final answer: 84","reward":0}
+{"call":2,"case_id":"math-train-00024","expression":"((5 + 8) * (7 + 4))","answer":143,"completion":"Final answer: 110","reward":0}
+{"call":2,"case_id":"math-train-00024","expression":"((5 + 8) * (7 + 4))","answer":143,"completion":"Final answer: 140","reward":0}
+{"call":2,"case_id":"math-train-00024","expression":"((5 + 8) * (7 + 4))","answer":143,"completion":"Final answer: 120","reward":0}
+{"call":2,"case_id":"math-train-00024","expression":"((5 + 8) * (7 + 4))","answer":143,"completion":"Final answer: 114","reward":0}
+{"call":2,"case_id":"math-train-00024","expression":"((5 + 8) * (7 + 4))","answer":143,"completion":"Final answer: 160","reward":0}
+{"call":2,"case_id":"math-train-00020","expression":"((5 + 8) * 3)","answer":39,"completion":"Let's evaluate the arithmetic expression step by step.\n\n1. First, we perform the addition inside the parentheses:\n   \\(5 + 8 = 13\\)\n\n2. Next, we multiply the result by 3:\n   \\(13 \\times 3 = 39\\)\n\nSo, the final","reward":0}
+{"call":2,"case_id":"math-train-00020","expression":"((5 + 8) * 3)","answer":39,"completion":"To evaluate the arithmetic expression ((5 + 8) * 3), we first need to solve the addition inside the parentheses and then proceed with the multiplication:\n\n1. Calculate 5 + 8:\n   5 + 8 = 13\n\n2. Next, multiply the result by 3:\n  ","reward":0}
+{"call":2,"case_id":"math-train-00020","expression":"((5 + 8) * 3)","answer":39,"completion":"Final answer: 42","reward":0}
+{"call":2,"case_id":"math-train-00020","expression":"((5 + 8) * 3)","answer":39,"completion":"Final answer: 32","reward":0}
+{"call":2,"case_id":"math-train-00020","expression":"((5 + 8) * 3)","answer":39,"completion":"Final answer: 38","reward":0}
+{"call":2,"case_id":"math-train-00020","expression":"((5 + 8) * 3)","answer":39,"completion":"Final answer: 39","reward":1}
+{"call":2,"case_id":"math-train-00020","expression":"((5 + 8) * 3)","answer":39,"completion":"Final answer: 42","reward":0}
+{"call":2,"case_id":"math-train-00020","expression":"((5 + 8) * 3)","answer":39,"completion":"Let's solve the expression step by step:\n\n1. First, we solve the expression inside the parentheses:\n   (5 + 8) = 13\n\n2. Now, we multiply the result by 3:\n   13 * 3 = 39\n\nSo, the final answer is:","reward":0}
+{"call":3,"case_id":"math-train-00006","expression":"(5 - (1 * (9 + 4)))","answer":-8,"completion":"Final answer: 3","reward":0}
+{"call":3,"case_id":"math-train-00006","expression":"(5 - (1 * (9 + 4)))","answer":-8,"completion":"Final answer: 10","reward":0}
+{"call":3,"case_id":"math-train-00006","expression":"(5 - (1 * (9 + 4)))","answer":-8,"completion":"Final answer: 2","reward":0}
+{"call":3,"case_id":"math-train-00006","expression":"(5 - (1 * (9 + 4)))","answer":-8,"completion":"Final answer: 10","reward":0}
+{"call":3,"case_id":"math-train-00006","expression":"(5 - (1 * (9 + 4)))","answer":-8,"completion":"Final answer: 10","reward":0}
+{"call":3,"case_id":"math-train-00006","expression":"(5 - (1 * (9 + 4)))","answer":-8,"completion":"Final answer: 12","reward":0}
+{"call":3,"case_id":"math-train-00006","expression":"(5 - (1 * (9 + 4)))","answer":-8,"completion":"Final answer: 12","reward":0}
+{"call":3,"case_id":"math-train-00006","expression":"(5 - (1 * (9 + 4)))","answer":-8,"completion":"Final answer: 6","reward":0}
+{"call":3,"case_id":"math-train-00032","expression":"((7 + 2) * 8)","answer":72,"completion":"Final answer: 80","reward":0}
+{"call":3,"case_id":"math-train-00032","expression":"((7 + 2) * 8)","answer":72,"completion":"Final answer: 38","reward":0}
+{"call":3,"case_id":"math-train-00032","expression":"((7 + 2) * 8)","answer":72,"completion":"Final answer: 100","reward":0}
+{"call":3,"case_id":"math-train-00032","expression":"((7 + 2) * 8)","answer":72,"completion":"Final answer: 88","reward":0}
+{"call":3,"case_id":"math-train-00032","expression":"((7 + 2) * 8)","answer":72,"completion":"Final answer: 48","reward":0}
+{"call":3,"case_id":"math-train-00032","expression":"((7 + 2) * 8)","answer":72,"completion":"Final answer: 64","reward":0}
+{"call":3,"case_id":"math-train-00032","expression":"((7 + 2) * 8)","answer":72,"completion":"Final answer: 88","reward":0}
+{"call":3,"case_id":"math-train-00032","expression":"((7 + 2) * 8)","answer":72,"completion":"Final answer: 78","reward":0}
+{"call":3,"case_id":"math-train-00018","expression":"(((2 * 1) - 4) + 0)","answer":-2,"completion":"Final answer: 4","reward":0}
+{"call":3,"case_id":"math-train-00018","expression":"(((2 * 1) - 4) + 0)","answer":-2,"completion":"Final answer: 0","reward":0}
+{"call":3,"case_id":"math-train-00018","expression":"(((2 * 1) - 4) + 0)","answer":-2,"completion":"Final answer: 6","reward":0}
+{"call":3,"case_id":"math-train-00018","expression":"(((2 * 1) - 4) + 0)","answer":-2,"completion":"Final answer: 6","reward":0}
+{"call":3,"case_id":"math-train-00018","expression":"(((2 * 1) - 4) + 0)","answer":-2,"completion":"Final answer: 3","reward":0}
+{"call":3,"case_id":"math-train-00018","expression":"(((2 * 1) - 4) + 0)","answer":-2,"completion":"Final answer: 12\n\nStep-by-step evaluation:\n1. First, evaluate the expression inside the parentheses:\n   ((2 * 1) - 4) = 2 - 4 = -2\n\n2. Then, add 0 to the result:\n   -2 + 0 = -2","reward":0}
+{"call":3,"case_id":"math-train-00018","expression":"(((2 * 1) - 4) + 0)","answer":-2,"completion":"Final answer: 6","reward":0}
+{"call":3,"case_id":"math-train-00018","expression":"(((2 * 1) - 4) + 0)","answer":-2,"completion":"Final answer: 7","reward":0}
+{"call":3,"case_id":"math-train-00010","expression":"((5 - 6) - 3)","answer":-4,"completion":"Final answer: 0","reward":0}
+{"call":3,"case_id":"math-train-00010","expression":"((5 - 6) - 3)","answer":-4,"completion":"Final answer: 0","reward":0}
+{"call":3,"case_id":"math-train-00010","expression":"((5 - 6) - 3)","answer":-4,"completion":"Final answer: 0","reward":0}
+{"call":3,"case_id":"math-train-00010","expression":"((5 - 6) - 3)","answer":-4,"completion":"Final answer: -5","reward":0}
+{"call":3,"case_id":"math-train-00010","expression":"((5 - 6) - 3)","answer":-4,"completion":"Final answer: 0\n\nStep-by-step calculation:\n1. First, compute the expression inside the parentheses: \\(5 - 6 = -1\\).\n2. Then, perform the subtraction outside the parentheses: \\(-1 - 3 = -4\\).\n\nFinal answer: 0","reward":0}
+{"call":3,"case_id":"math-train-00010","expression":"((5 - 6) - 3)","answer":-4,"completion":"Final answer: 0","reward":0}
+{"call":3,"case_id":"math-train-00010","expression":"((5 - 6) - 3)","answer":-4,"completion":"Final answer: 4","reward":0}
+{"call":3,"case_id":"math-train-00010","expression":"((5 - 6) - 3)","answer":-4,"completion":"Final answer: 4","reward":0}
+{"call":3,"case_id":"math-train-00005","expression":"(4 + (2 * 4))","answer":12,"completion":"Final answer: 12","reward":1}
+{"call":3,"case_id":"math-train-00005","expression":"(4 + (2 * 4))","answer":12,"completion":"Final answer: 12","reward":1}
+{"call":3,"case_id":"math-train-00005","expression":"(4 + (2 * 4))","answer":12,"completion":"Final answer: 16","reward":0}
+{"call":3,"case_id":"math-train-00005","expression":"(4 + (2 * 4))","answer":12,"completion":"Final answer: 14","reward":0}
+{"call":3,"case_id":"math-train-00005","expression":"(4 + (2 * 4))","answer":12,"completion":"Final answer: 14","reward":0}
+{"call":3,"case_id":"math-train-00005","expression":"(4 + (2 * 4))","answer":12,"completion":"Final answer: 12","reward":1}
+{"call":3,"case_id":"math-train-00005","expression":"(4 + (2 * 4))","answer":12,"completion":"Final answer: 14","reward":0}
+{"call":3,"case_id":"math-train-00005","expression":"(4 + (2 * 4))","answer":12,"completion":"Final answer: 18","reward":0}
+{"call":3,"case_id":"math-train-00028","expression":"((6 + 8) - 4)","answer":10,"completion":"Final answer: 10","reward":1}
+{"call":3,"case_id":"math-train-00028","expression":"((6 + 8) - 4)","answer":10,"completion":"The arithmetic expression ((6 + 8) - 4) evaluates to 10.\n\nFinal answer: 10","reward":1}
+{"call":3,"case_id":"math-train-00028","expression":"((6 + 8) - 4)","answer":10,"completion":"Final answer: 10","reward":1}
+{"call":3,"case_id":"math-train-00028","expression":"((6 + 8) - 4)","answer":10,"completion":"Final answer: 6","reward":0}
+{"call":3,"case_id":"math-train-00028","expression":"((6 + 8) - 4)","answer":10,"completion":"Final answer: 8","reward":0}
+{"call":3,"case_id":"math-train-00028","expression":"((6 + 8) - 4)","answer":10,"completion":"Final answer: 10","reward":1}
+{"call":3,"case_id":"math-train-00028","expression":"((6 + 8) - 4)","answer":10,"completion":"Final answer: 8","reward":0}
+{"call":3,"case_id":"math-train-00028","expression":"((6 + 8) - 4)","answer":10,"completion":"Final answer: 10","reward":1}
+{"call":3,"case_id":"math-train-00003","expression":"((9 * (1 + 2)) - 1)","answer":26,"completion":"Final answer: 18","reward":0}
+{"call":3,"case_id":"math-train-00003","expression":"((9 * (1 + 2)) - 1)","answer":26,"completion":"Final answer: 5","reward":0}
+{"call":3,"case_id":"math-train-00003","expression":"((9 * (1 + 2)) - 1)","answer":26,"completion":"To evaluate the arithmetic expression (9 * (1 + 2)) - 1 step by step:\n\n1. First, calculate inside the parentheses:\n   9 * (1 + 2) = 9 * 3 = 27\n\n2. Then, subtract 1 from the result:\n   ","reward":0}
+{"call":3,"case_id":"math-train-00003","expression":"((9 * (1 + 2)) - 1)","answer":26,"completion":"Final answer: 18","reward":0}
+{"call":3,"case_id":"math-train-00003","expression":"((9 * (1 + 2)) - 1)","answer":26,"completion":"Final answer: 18","reward":0}
+{"call":3,"case_id":"math-train-00003","expression":"((9 * (1 + 2)) - 1)","answer":26,"completion":"Final answer: 18","reward":0}
+{"call":3,"case_id":"math-train-00003","expression":"((9 * (1 + 2)) - 1)","answer":26,"completion":"Final answer: 18","reward":0}
+{"call":3,"case_id":"math-train-00003","expression":"((9 * (1 + 2)) - 1)","answer":26,"completion":"Final answer: 18","reward":0}
+{"call":3,"case_id":"math-train-00002","expression":"((2 * 7) - 5)","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":3,"case_id":"math-train-00002","expression":"((2 * 7) - 5)","answer":9,"completion":"Final answer: 14","reward":0}
+{"call":3,"case_id":"math-train-00002","expression":"((2 * 7) - 5)","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":3,"case_id":"math-train-00002","expression":"((2 * 7) - 5)","answer":9,"completion":"Final answer: 6","reward":0}
+{"call":3,"case_id":"math-train-00002","expression":"((2 * 7) - 5)","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":3,"case_id":"math-train-00002","expression":"((2 * 7) - 5)","answer":9,"completion":"Final answer: 6","reward":0}
+{"call":3,"case_id":"math-train-00002","expression":"((2 * 7) - 5)","answer":9,"completion":"Final answer: 7","reward":0}
+{"call":3,"case_id":"math-train-00002","expression":"((2 * 7) - 5)","answer":9,"completion":"Final answer: 12","reward":0}
+{"call":4,"case_id":"math-train-00017","expression":"(4 + (7 * 6))","answer":46,"completion":"Final answer: 47","reward":0}
+{"call":4,"case_id":"math-train-00017","expression":"(4 + (7 * 6))","answer":46,"completion":"Final answer: 35","reward":0}
+{"call":4,"case_id":"math-train-00017","expression":"(4 + (7 * 6))","answer":46,"completion":"Final answer: 45","reward":0}
+{"call":4,"case_id":"math-train-00017","expression":"(4 + (7 * 6))","answer":46,"completion":"Final answer: 35","reward":0}
+{"call":4,"case_id":"math-train-00017","expression":"(4 + (7 * 6))","answer":46,"completion":"Let's evaluate the arithmetic expression step by step:\n\n1. First, we need to handle the expression inside the parentheses:\n   \\[\n   4 + (7 \\times 6)\n   \\]\n\n2. According to the order of operations (PEMDAS/BODMAS), multiplication has higher precedence than addition,","reward":0}
+{"call":4,"case_id":"math-train-00017","expression":"(4 + (7 * 6))","answer":46,"completion":"Final answer: 40","reward":0}
+{"call":4,"case_id":"math-train-00017","expression":"(4 + (7 * 6))","answer":46,"completion":"Final answer: 44","reward":0}
+{"call":4,"case_id":"math-train-00017","expression":"(4 + (7 * 6))","answer":46,"completion":"Final answer: 49","reward":0}
+{"call":4,"case_id":"math-train-00013","expression":"(2 + (2 - 6))","answer":-2,"completion":"Final answer: 8","reward":0}
+{"call":4,"case_id":"math-train-00013","expression":"(2 + (2 - 6))","answer":-2,"completion":"Final answer: 8","reward":0}
+{"call":4,"case_id":"math-train-00013","expression":"(2 + (2 - 6))","answer":-2,"completion":"Final answer: 4","reward":0}
+{"call":4,"case_id":"math-train-00013","expression":"(2 + (2 - 6))","answer":-2,"completion":"Final answer: 6","reward":0}
+{"call":4,"case_id":"math-train-00013","expression":"(2 + (2 - 6))","answer":-2,"completion":"Final answer: 6","reward":0}
+{"call":4,"case_id":"math-train-00013","expression":"(2 + (2 - 6))","answer":-2,"completion":"Final answer: 4","reward":0}
+{"call":4,"case_id":"math-train-00013","expression":"(2 + (2 - 6))","answer":-2,"completion":"To evaluate the arithmetic expression (2 + (2 - 6)), we follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right)).\n\nFirst, we perform the operation inside","reward":0}
+{"call":4,"case_id":"math-train-00013","expression":"(2 + (2 - 6))","answer":-2,"completion":"Final answer: 4","reward":0}
+{"call":4,"case_id":"math-train-00023","expression":"(3 * (0 + 3))","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":4,"case_id":"math-train-00023","expression":"(3 * (0 + 3))","answer":9,"completion":"The arithmetic expression (3 * (0 + 3)) evaluates to 9.\n\nFinal answer: 9","reward":1}
+{"call":4,"case_id":"math-train-00023","expression":"(3 * (0 + 3))","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":4,"case_id":"math-train-00023","expression":"(3 * (0 + 3))","answer":9,"completion":"To evaluate the arithmetic expression (3 * (0 + 3)), we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division (from left to right), and Addition and Subtraction (from left to right)).\n\nGiven expression: (","reward":0}
+{"call":4,"case_id":"math-train-00023","expression":"(3 * (0 + 3))","answer":9,"completion":"0 + 3 = 3 Final answer: 3","reward":0}
+{"call":4,"case_id":"math-train-00023","expression":"(3 * (0 + 3))","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":4,"case_id":"math-train-00023","expression":"(3 * (0 + 3))","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":4,"case_id":"math-train-00023","expression":"(3 * (0 + 3))","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":4,"case_id":"math-train-00022","expression":"((7 - 6) - 4)","answer":-3,"completion":"Final answer: 1","reward":0}
+{"call":4,"case_id":"math-train-00022","expression":"((7 - 6) - 4)","answer":-3,"completion":"Final answer: 1","reward":0}
+{"call":4,"case_id":"math-train-00022","expression":"((7 - 6) - 4)","answer":-3,"completion":"Final answer: 1","reward":0}
+{"call":4,"case_id":"math-train-00022","expression":"((7 - 6) - 4)","answer":-3,"completion":"Final answer: 1","reward":0}
+{"call":4,"case_id":"math-train-00022","expression":"((7 - 6) - 4)","answer":-3,"completion":"Final answer: 0","reward":0}
+{"call":4,"case_id":"math-train-00022","expression":"((7 - 6) - 4)","answer":-3,"completion":"Final answer: 1","reward":0}
+{"call":4,"case_id":"math-train-00022","expression":"((7 - 6) - 4)","answer":-3,"completion":"Final answer: 1","reward":0}
+{"call":4,"case_id":"math-train-00022","expression":"((7 - 6) - 4)","answer":-3,"completion":"Final answer: 1","reward":0}
+{"call":4,"case_id":"math-train-00030","expression":"((5 * 8) - (0 - 1))","answer":41,"completion":"Final answer: 32","reward":0}
+{"call":4,"case_id":"math-train-00030","expression":"((5 * 8) - (0 - 1))","answer":41,"completion":"Final answer: 35","reward":0}
+{"call":4,"case_id":"math-train-00030","expression":"((5 * 8) - (0 - 1))","answer":41,"completion":"Final answer: 39","reward":0}
+{"call":4,"case_id":"math-train-00030","expression":"((5 * 8) - (0 - 1))","answer":41,"completion":"Final answer: 31","reward":0}
+{"call":4,"case_id":"math-train-00030","expression":"((5 * 8) - (0 - 1))","answer":41,"completion":"Final answer: 34","reward":0}
+{"call":4,"case_id":"math-train-00030","expression":"((5 * 8) - (0 - 1))","answer":41,"completion":"Final answer: 37","reward":0}
+{"call":4,"case_id":"math-train-00030","expression":"((5 * 8) - (0 - 1))","answer":41,"completion":"Final answer: 29","reward":0}
+{"call":4,"case_id":"math-train-00030","expression":"((5 * 8) - (0 - 1))","answer":41,"completion":"Final answer: 25","reward":0}
+{"call":4,"case_id":"math-train-00011","expression":"(4 * (4 + 7))","answer":44,"completion":"Final answer: 36","reward":0}
+{"call":4,"case_id":"math-train-00011","expression":"(4 * (4 + 7))","answer":44,"completion":"Final answer: 45","reward":0}
+{"call":4,"case_id":"math-train-00011","expression":"(4 * (4 + 7))","answer":44,"completion":"Final answer: 35","reward":0}
+{"call":4,"case_id":"math-train-00011","expression":"(4 * (4 + 7))","answer":44,"completion":"Final answer: 35","reward":0}
+{"call":4,"case_id":"math-train-00011","expression":"(4 * (4 + 7))","answer":44,"completion":"Final answer: 35","reward":0}
+{"call":4,"case_id":"math-train-00011","expression":"(4 * (4 + 7))","answer":44,"completion":"Final answer: 35","reward":0}
+{"call":4,"case_id":"math-train-00011","expression":"(4 * (4 + 7))","answer":44,"completion":"Final answer: 35","reward":0}
+{"call":4,"case_id":"math-train-00011","expression":"(4 * (4 + 7))","answer":44,"completion":"Final answer: 40","reward":0}
+{"call":4,"case_id":"math-train-00008","expression":"((3 + 1) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":4,"case_id":"math-train-00008","expression":"((3 + 1) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":4,"case_id":"math-train-00008","expression":"((3 + 1) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":4,"case_id":"math-train-00008","expression":"((3 + 1) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":4,"case_id":"math-train-00008","expression":"((3 + 1) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":4,"case_id":"math-train-00008","expression":"((3 + 1) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":4,"case_id":"math-train-00008","expression":"((3 + 1) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":4,"case_id":"math-train-00008","expression":"((3 + 1) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":4,"case_id":"math-train-00019","expression":"(6 - (6 + 1))","answer":-1,"completion":"Final answer: 1","reward":0}
+{"call":4,"case_id":"math-train-00019","expression":"(6 - (6 + 1))","answer":-1,"completion":"Final answer: 1","reward":0}
+{"call":4,"case_id":"math-train-00019","expression":"(6 - (6 + 1))","answer":-1,"completion":"Final answer: 1","reward":0}
+{"call":4,"case_id":"math-train-00019","expression":"(6 - (6 + 1))","answer":-1,"completion":"Final answer: 0","reward":0}
+{"call":4,"case_id":"math-train-00019","expression":"(6 - (6 + 1))","answer":-1,"completion":"Final answer: 0","reward":0}
+{"call":4,"case_id":"math-train-00019","expression":"(6 - (6 + 1))","answer":-1,"completion":"Final answer: 3","reward":0}
+{"call":4,"case_id":"math-train-00019","expression":"(6 - (6 + 1))","answer":-1,"completion":"Final answer: 0\n\nExplanation: According to the order of operations (PEMDAS/BODMAS), we evaluate the expression step by step as follows:\n\n1) First, perform the operation inside the parentheses: 6 - (6 + 1) = 6 - 7 = -1\n\n2)","reward":0}
+{"call":4,"case_id":"math-train-00019","expression":"(6 - (6 + 1))","answer":-1,"completion":"Final answer: 0","reward":0}

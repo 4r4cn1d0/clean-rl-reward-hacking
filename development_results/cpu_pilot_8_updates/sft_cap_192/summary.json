@@ -1,0 +1,16 @@
+{
+  "all": {
+    "n": 6,
+    "accuracy": 0.0,
+    "outcomes": {
+      "malformed": 6
+    }
+  },
+  "hard": {
+    "n": 6,
+    "accuracy": 0.0,
+    "outcomes": {
+      "malformed": 6
+    }
+  }
+}

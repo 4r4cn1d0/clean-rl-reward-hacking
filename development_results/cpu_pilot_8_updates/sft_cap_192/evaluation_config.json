@@ -1,0 +1,63 @@
+{
+  "task": "validation",
+  "dataset_sha256": "87275b00a1741aafc5ad27048ff6c8f89b5faf7230ffe02c01fc5cad3b18a045",
+  "model": {
+    "name": "Qwen/Qwen2.5-0.5B-Instruct",
+    "revision": "7ae557604adf67be50417f59c2c2f167def9a775"
+  },
+  "greedy": true,
+  "batch_size": 4,
+  "max_new_tokens": 192,
+  "device": "cpu",
+  "adapter": {
+    "path": "development_results/cpu_pilot_8_updates/sft/adapter",
+    "sha256": "1cf85bee3816a32ceb384a9132a1880ed58b8697550f0701eca5b6e04258e63c"
+  },
+  "planned": 6,
+  "full_dataset": true,
+  "packages": {
+    "torch": "2.14.0",
+    "transformers": "5.16.1",
+    "trl": "1.12.0",
+    "datasets": "5.0.1",
+    "peft": "0.20.0",
+    "accelerate": "1.15.0",
+    "pyarrow": "25.0.1"
+  },
+  "training": {
+    "arm": "sft",
+    "model": {
+      "name": "Qwen/Qwen2.5-0.5B-Instruct",
+      "revision": "7ae557604adf67be50417f59c2c2f167def9a775"
+    },
+    "seed": 17,
+    "steps": 8,
+    "device": "cpu",
+    "micro_batch": 2,
+    "learning_rate": 5e-05,
+    "max_completion_tokens": 64,
+    "prompts_per_update": 8,
+    "generations_per_prompt": null,
+    "training_corpus_sha256": "c1134f70c66f66ebf2b1a04dbcf4c2cd70349894c4085a19ab6469cb06cad827",
+    "used_prompt_ids_sha256": "8078729ee5cd10de8bc39d8c7c42e5fb086f9b75caa6f01ad4c2687f1c9cfe15",
+    "lora": {
+      "r": 16,
+      "lora_alpha": 32,
+      "target_modules": [
+        "q_proj",
+        "k_proj",
+        "v_proj",
+        "o_proj"
+      ]
+    },
+    "packages": {
+      "torch": "2.14.0",
+      "transformers": "5.16.1",
+      "trl": "1.12.0",
+      "datasets": "5.0.1",
+      "peft": "0.20.0",
+      "accelerate": "1.15.0",
+      "pyarrow": "25.0.1"
+    }
+  }
+}

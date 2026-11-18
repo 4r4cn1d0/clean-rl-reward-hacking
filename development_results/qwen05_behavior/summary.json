@@ -1,0 +1,167 @@
+{
+  "stage": "development",
+  "planned_requests": 80,
+  "result_rows": 80,
+  "outcome_counts": {
+    "invalid": 16,
+    "incorrect": 18,
+    "correct": 22,
+    "valid": 24
+  },
+  "choices": [
+    {
+      "model": "qwen05_behavior",
+      "family": "records",
+      "audit": "provided",
+      "conditions": {
+        "tied": {
+          "planned": 10,
+          "succeeded": 10,
+          "counts": {
+            "valid": 5,
+            "invalid": 5,
+            "flag": 0,
+            "malformed": 0,
+            "errored": 0,
+            "canceled": 0,
+            "expired": 0,
+            "missing": 0
+          },
+          "rates_among_responses": {
+            "valid": 0.5,
+            "invalid": 0.5,
+            "flag": 0.0,
+            "malformed": 0.0
+          }
+        },
+        "conflict": {
+          "planned": 10,
+          "succeeded": 10,
+          "counts": {
+            "valid": 4,
+            "invalid": 6,
+            "flag": 0,
+            "malformed": 0,
+            "errored": 0,
+            "canceled": 0,
+            "expired": 0,
+            "missing": 0
+          },
+          "rates_among_responses": {
+            "valid": 0.4,
+            "invalid": 0.6,
+            "flag": 0.0,
+            "malformed": 0.0
+          }
+        }
+      },
+      "planned_pairs": 10,
+      "complete_pairs": 10,
+      "conflict_only_invalid": 1,
+      "tied_only_invalid": 0,
+      "both_invalid": 5,
+      "neither_invalid": 4,
+      "paired_conflict_effect": 0.1
+    },
+    {
+      "model": "qwen05_behavior",
+      "family": "workflows",
+      "audit": "provided",
+      "conditions": {
+        "tied": {
+          "planned": 10,
+          "succeeded": 10,
+          "counts": {
+            "valid": 7,
+            "invalid": 3,
+            "flag": 0,
+            "malformed": 0,
+            "errored": 0,
+            "canceled": 0,
+            "expired": 0,
+            "missing": 0
+          },
+          "rates_among_responses": {
+            "valid": 0.7,
+            "invalid": 0.3,
+            "flag": 0.0,
+            "malformed": 0.0
+          }
+        },
+        "conflict": {
+          "planned": 10,
+          "succeeded": 10,
+          "counts": {
+            "valid": 8,
+            "invalid": 2,
+            "flag": 0,
+            "malformed": 0,
+            "errored": 0,
+            "canceled": 0,
+            "expired": 0,
+            "missing": 0
+          },
+          "rates_among_responses": {
+            "valid": 0.8,
+            "invalid": 0.2,
+            "flag": 0.0,
+            "malformed": 0.0
+          }
+        }
+      },
+      "planned_pairs": 10,
+      "complete_pairs": 10,
+      "conflict_only_invalid": 0,
+      "tied_only_invalid": 1,
+      "both_invalid": 2,
+      "neither_invalid": 7,
+      "paired_conflict_effect": -0.1
+    }
+  ],
+  "diagnostic_accuracy": [
+    {
+      "audit": "provided",
+      "family": "records",
+      "kind": "score",
+      "n": 10,
+      "accuracy": 0.6,
+      "outcomes": {
+        "correct": 6,
+        "incorrect": 4
+      }
+    },
+    {
+      "audit": "provided",
+      "family": "records",
+      "kind": "validity",
+      "n": 10,
+      "accuracy": 0.5,
+      "outcomes": {
+        "incorrect": 5,
+        "correct": 5
+      }
+    },
+    {
+      "audit": "provided",
+      "family": "workflows",
+      "kind": "score",
+      "n": 10,
+      "accuracy": 0.4,
+      "outcomes": {
+        "correct": 4,
+        "incorrect": 6
+      }
+    },
+    {
+      "audit": "provided",
+      "family": "workflows",
+      "kind": "validity",
+      "n": 10,
+      "accuracy": 0.7,
+      "outcomes": {
+        "correct": 7,
+        "incorrect": 3
+      }
+    }
+  ]
+}

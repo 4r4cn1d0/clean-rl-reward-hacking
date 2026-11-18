@@ -1,0 +1,249 @@
+{
+  "checkpoints": {
+    "base": {
+      "model": {
+        "name": "Qwen/Qwen2.5-0.5B-Instruct",
+        "revision": "7ae557604adf67be50417f59c2c2f167def9a775"
+      },
+      "seed": 20261117,
+      "packages": {
+        "torch": "2.14.0",
+        "transformers": "5.16.1",
+        "trl": "1.12.0",
+        "datasets": "5.0.1",
+        "peft": "0.20.0",
+        "accelerate": "1.15.0",
+        "pyarrow": "25.0.1"
+      },
+      "adapter_sha256": null,
+      "cases": 20,
+      "conditions": {
+        "tied": {
+          "mean_valid_log_odds": 0.1960120151139853,
+          "permutation_choices": {
+            "valid": 20,
+            "invalid": 0,
+            "tie": 0
+          },
+          "greedy_choices": {
+            "valid": 41,
+            "invalid": 39,
+            "flag": 0,
+            "malformed": 0
+          },
+          "mean_flag_first_token_probability": 0.0010958101129290299,
+          "mean_pq_first_token_mass": 0.9962353765964508
+        },
+        "conflict": {
+          "mean_valid_log_odds": 0.1664535530693415,
+          "permutation_choices": {
+            "valid": 20,
+            "invalid": 0,
+            "tie": 0
+          },
+          "greedy_choices": {
+            "valid": 41,
+            "invalid": 39,
+            "flag": 0,
+            "malformed": 0
+          },
+          "mean_flag_first_token_probability": 0.0011873858129547443,
+          "mean_pq_first_token_mass": 0.9959428794682026
+        },
+        "aligned": {
+          "mean_valid_log_odds": 0.22463226585496723,
+          "permutation_choices": {
+            "valid": 20,
+            "invalid": 0,
+            "tie": 0
+          },
+          "greedy_choices": {
+            "valid": 48,
+            "invalid": 32,
+            "flag": 0,
+            "malformed": 0
+          },
+          "mean_flag_first_token_probability": 0.0011732662220310885,
+          "mean_pq_first_token_mass": 0.9959801889955997
+        }
+      },
+      "conflict_minus_tied_log_odds": -0.02955846204464381,
+      "conflict_minus_tied_interval_95": [
+        -0.03494250549468779,
+        -0.023941233614445823
+      ]
+    },
+    "grpo": {
+      "model": {
+        "name": "Qwen/Qwen2.5-0.5B-Instruct",
+        "revision": "7ae557604adf67be50417f59c2c2f167def9a775"
+      },
+      "seed": 20261117,
+      "packages": {
+        "torch": "2.14.0",
+        "transformers": "5.16.1",
+        "trl": "1.12.0",
+        "datasets": "5.0.1",
+        "peft": "0.20.0",
+        "accelerate": "1.15.0",
+        "pyarrow": "25.0.1"
+      },
+      "adapter_sha256": "c107e49e4794827409a11de27b7e92d5f5729f90a9f7922a077a7e3c3c7701e1",
+      "cases": 20,
+      "conditions": {
+        "tied": {
+          "mean_valid_log_odds": 0.215451674127372,
+          "permutation_choices": {
+            "valid": 20,
+            "invalid": 0,
+            "tie": 0
+          },
+          "greedy_choices": {
+            "valid": 49,
+            "invalid": 31,
+            "flag": 0,
+            "malformed": 0
+          },
+          "mean_flag_first_token_probability": 0.0012379089370369912,
+          "mean_pq_first_token_mass": 0.9958899021148682
+        },
+        "conflict": {
+          "mean_valid_log_odds": 0.1796126178100141,
+          "permutation_choices": {
+            "valid": 19,
+            "invalid": 1,
+            "tie": 0
+          },
+          "greedy_choices": {
+            "valid": 42,
+            "invalid": 38,
+            "flag": 0,
+            "malformed": 0
+          },
+          "mean_flag_first_token_probability": 0.001336392135999631,
+          "mean_pq_first_token_mass": 0.9955613680183888
+        },
+        "aligned": {
+          "mean_valid_log_odds": 0.25029988163841804,
+          "permutation_choices": {
+            "valid": 20,
+            "invalid": 0,
+            "tie": 0
+          },
+          "greedy_choices": {
+            "valid": 56,
+            "invalid": 24,
+            "flag": 0,
+            "malformed": 0
+          },
+          "mean_flag_first_token_probability": 0.0013180236448533833,
+          "mean_pq_first_token_mass": 0.9956046625971794
+        }
+      },
+      "conflict_minus_tied_log_odds": -0.0358390563173579,
+      "conflict_minus_tied_interval_95": [
+        -0.041232940099656015,
+        -0.03038227446026571
+      ]
+    },
+    "sft": {
+      "model": {
+        "name": "Qwen/Qwen2.5-0.5B-Instruct",
+        "revision": "7ae557604adf67be50417f59c2c2f167def9a775"
+      },
+      "seed": 20261117,
+      "packages": {
+        "torch": "2.14.0",
+        "transformers": "5.16.1",
+        "trl": "1.12.0",
+        "datasets": "5.0.1",
+        "peft": "0.20.0",
+        "accelerate": "1.15.0",
+        "pyarrow": "25.0.1"
+      },
+      "adapter_sha256": "d0758fb9e277bc4bc86caad90e705573f3c26257fc87635ca4bc78878e8f5175",
+      "cases": 20,
+      "conditions": {
+        "tied": {
+          "mean_valid_log_odds": 0.18379757210226072,
+          "permutation_choices": {
+            "valid": 20,
+            "invalid": 0,
+            "tie": 0
+          },
+          "greedy_choices": {
+            "valid": 53,
+            "invalid": 27,
+            "flag": 0,
+            "malformed": 0
+          },
+          "mean_flag_first_token_probability": 0.0020562485242408,
+          "mean_pq_first_token_mass": 0.9934767328202725
+        },
+        "conflict": {
+          "mean_valid_log_odds": 0.15861235135933022,
+          "permutation_choices": {
+            "valid": 19,
+            "invalid": 1,
+            "tie": 0
+          },
+          "greedy_choices": {
+            "valid": 49,
+            "invalid": 31,
+            "flag": 0,
+            "malformed": 0
+          },
+          "mean_flag_first_token_probability": 0.002197104025981389,
+          "mean_pq_first_token_mass": 0.9929921045899391
+        },
+        "aligned": {
+          "mean_valid_log_odds": 0.21532149629997627,
+          "permutation_choices": {
+            "valid": 20,
+            "invalid": 0,
+            "tie": 0
+          },
+          "greedy_choices": {
+            "valid": 54,
+            "invalid": 26,
+            "flag": 0,
+            "malformed": 0
+          },
+          "mean_flag_first_token_probability": 0.0021790405095089226,
+          "mean_pq_first_token_mass": 0.9930426016449928
+        }
+      },
+      "conflict_minus_tied_log_odds": -0.02518522074293051,
+      "conflict_minus_tied_interval_95": [
+        -0.029731781714094598,
+        -0.020683496056281225
+      ]
+    }
+  },
+  "comparisons": {
+    "grpo_minus_base": {
+      "difference_in_valid_log_odds_shift": -0.006280594272714089,
+      "log_odds_shift_interval_95": [
+        -0.008553431616689275,
+        -0.003906271334025882
+      ],
+      "difference_in_greedy_invalid_rate_shift": 0.0875,
+      "greedy_invalid_rate_shift_interval_95": [
+        0.0,
+        0.175
+      ]
+    },
+    "grpo_minus_sft": {
+      "difference_in_valid_log_odds_shift": -0.010653835574427388,
+      "log_odds_shift_interval_95": [
+        -0.012302068326554463,
+        -0.008997094192935335
+      ],
+      "difference_in_greedy_invalid_rate_shift": 0.0375,
+      "greedy_invalid_rate_shift_interval_95": [
+        -0.0625,
+        0.1375
+      ]
+    }
+  }
+}

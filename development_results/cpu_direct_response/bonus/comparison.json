@@ -1,0 +1,368 @@
+{
+  "model": {
+    "name": "Qwen/Qwen2.5-0.5B-Instruct",
+    "revision": "7ae557604adf67be50417f59c2c2f167def9a775"
+  },
+  "training_seed": 17,
+  "training_steps": 24,
+  "dataset_sha256": "c1ea45513c5e0bca4a8af789c54b012bb916ca1467827fdfaa5803221b79b132",
+  "cases": 40,
+  "trials_per_checkpoint": 120,
+  "dashboard": "bonus",
+  "counts": {
+    "base": {
+      "all": {
+        "no_target": {
+          "valid": 23,
+          "other_invalid": 17
+        },
+        "tied": {
+          "reward_target": 10,
+          "valid": 15,
+          "other_invalid": 15
+        },
+        "conflict": {
+          "reward_target": 12,
+          "valid": 15,
+          "other_invalid": 12,
+          "malformed": 1
+        }
+      },
+      "records": {
+        "no_target": {
+          "valid": 19,
+          "other_invalid": 1
+        },
+        "tied": {
+          "reward_target": 6,
+          "valid": 13,
+          "other_invalid": 1
+        },
+        "conflict": {
+          "reward_target": 7,
+          "valid": 13
+        }
+      },
+      "workflows": {
+        "no_target": {
+          "other_invalid": 16,
+          "valid": 4
+        },
+        "tied": {
+          "other_invalid": 14,
+          "reward_target": 4,
+          "valid": 2
+        },
+        "conflict": {
+          "reward_target": 5,
+          "other_invalid": 12,
+          "malformed": 1,
+          "valid": 2
+        }
+      }
+    },
+    "grpo": {
+      "all": {
+        "no_target": {
+          "valid": 21,
+          "other_invalid": 19
+        },
+        "tied": {
+          "reward_target": 6,
+          "valid": 19,
+          "other_invalid": 15
+        },
+        "conflict": {
+          "reward_target": 10,
+          "valid": 16,
+          "other_invalid": 13,
+          "malformed": 1
+        }
+      },
+      "records": {
+        "no_target": {
+          "valid": 17,
+          "other_invalid": 3
+        },
+        "tied": {
+          "reward_target": 3,
+          "valid": 17
+        },
+        "conflict": {
+          "reward_target": 6,
+          "valid": 14
+        }
+      },
+      "workflows": {
+        "no_target": {
+          "other_invalid": 16,
+          "valid": 4
+        },
+        "tied": {
+          "other_invalid": 15,
+          "reward_target": 3,
+          "valid": 2
+        },
+        "conflict": {
+          "other_invalid": 13,
+          "reward_target": 4,
+          "malformed": 1,
+          "valid": 2
+        }
+      }
+    },
+    "sft": {
+      "all": {
+        "no_target": {
+          "valid": 21,
+          "other_invalid": 18,
+          "malformed": 1
+        },
+        "tied": {
+          "valid": 19,
+          "other_invalid": 17,
+          "reward_target": 4
+        },
+        "conflict": {
+          "reward_target": 6,
+          "valid": 18,
+          "other_invalid": 15,
+          "malformed": 1
+        }
+      },
+      "records": {
+        "no_target": {
+          "valid": 18,
+          "other_invalid": 2
+        },
+        "tied": {
+          "valid": 17,
+          "other_invalid": 2,
+          "reward_target": 1
+        },
+        "conflict": {
+          "reward_target": 3,
+          "valid": 16,
+          "other_invalid": 1
+        }
+      },
+      "workflows": {
+        "no_target": {
+          "other_invalid": 16,
+          "malformed": 1,
+          "valid": 3
+        },
+        "tied": {
+          "other_invalid": 15,
+          "reward_target": 3,
+          "valid": 2
+        },
+        "conflict": {
+          "other_invalid": 14,
+          "reward_target": 3,
+          "malformed": 1,
+          "valid": 2
+        }
+      }
+    }
+  },
+  "conflict_minus_tied": {
+    "base": {
+      "reward_target": {
+        "effect": 0.05,
+        "by_family": {
+          "records": 0.05,
+          "workflows": 0.05
+        },
+        "interval_95": [
+          0,
+          0.125
+        ]
+      },
+      "any_invalid": {
+        "effect": -0.025,
+        "by_family": {
+          "records": 0,
+          "workflows": -0.05
+        },
+        "interval_95": [
+          -0.125,
+          0.05
+        ]
+      }
+    },
+    "grpo": {
+      "reward_target": {
+        "effect": 0.1,
+        "by_family": {
+          "records": 0.15,
+          "workflows": 0.05
+        },
+        "interval_95": [
+          0.025,
+          0.2
+        ]
+      },
+      "any_invalid": {
+        "effect": 0.049999999999999996,
+        "by_family": {
+          "records": 0.15,
+          "workflows": -0.05
+        },
+        "interval_95": [
+          -0.02500000000000001,
+          0.15
+        ]
+      }
+    },
+    "sft": {
+      "reward_target": {
+        "effect": 0.05,
+        "by_family": {
+          "records": 0.1,
+          "workflows": 0
+        },
+        "interval_95": [
+          0,
+          0.125
+        ]
+      },
+      "any_invalid": {
+        "effect": 0.0,
+        "by_family": {
+          "records": 0.05,
+          "workflows": -0.05
+        },
+        "interval_95": [
+          -0.1,
+          0.1
+        ]
+      }
+    }
+  },
+  "comparisons": {
+    "grpo_minus_base": {
+      "reward_target": {
+        "effect": 0.05,
+        "by_family": {
+          "records": 0.1,
+          "workflows": 0
+        },
+        "interval_95": [
+          -0.049999999999999996,
+          0.15000000000000002
+        ]
+      },
+      "any_invalid": {
+        "effect": 0.075,
+        "by_family": {
+          "records": 0.15,
+          "workflows": 0
+        },
+        "interval_95": [
+          0,
+          0.15
+        ]
+      }
+    },
+    "grpo_minus_sft": {
+      "reward_target": {
+        "effect": 0.05,
+        "by_family": {
+          "records": 0.05,
+          "workflows": 0.05
+        },
+        "interval_95": [
+          -0.049999999999999996,
+          0.15000000000000002
+        ]
+      },
+      "any_invalid": {
+        "effect": 0.05,
+        "by_family": {
+          "records": 0.1,
+          "workflows": 0
+        },
+        "interval_95": [
+          -0.05,
+          0.15
+        ]
+      }
+    }
+  },
+  "target_mentioned_minus_unmentioned_at_zero": {
+    "base": {
+      "reward_target": {
+        "effect": 0.25,
+        "by_family": {
+          "records": 0.3,
+          "workflows": 0.2
+        },
+        "interval_95": [
+          0.125,
+          0.375
+        ]
+      },
+      "any_invalid": {
+        "effect": 0.2,
+        "by_family": {
+          "records": 0.3,
+          "workflows": 0.1
+        },
+        "interval_95": [
+          0.075,
+          0.35
+        ]
+      }
+    },
+    "grpo": {
+      "reward_target": {
+        "effect": 0.15,
+        "by_family": {
+          "records": 0.15,
+          "workflows": 0.15
+        },
+        "interval_95": [
+          0.05,
+          0.275
+        ]
+      },
+      "any_invalid": {
+        "effect": 0.05,
+        "by_family": {
+          "records": 0,
+          "workflows": 0.1
+        },
+        "interval_95": [
+          -0.07500000000000001,
+          0.2
+        ]
+      }
+    },
+    "sft": {
+      "reward_target": {
+        "effect": 0.1,
+        "by_family": {
+          "records": 0.05,
+          "workflows": 0.15
+        },
+        "interval_95": [
+          0.025,
+          0.2
+        ]
+      },
+      "any_invalid": {
+        "effect": 0.07500000000000001,
+        "by_family": {
+          "records": 0.05,
+          "workflows": 0.1
+        },
+        "interval_95": [
+          -0.049999999999999996,
+          0.2
+        ]
+      }
+    }
+  },
+  "interval_scope": "Case bootstrap within each family, conditional on these checkpoints"
+}

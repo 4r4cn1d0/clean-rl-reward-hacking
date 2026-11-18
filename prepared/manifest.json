@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "seed": 20261111,
+  "audit": "provided",
+  "models": {
+    "haiku": "claude-haiku-5-5",
+    "sonnet": "claude-sonnet-5",
+    "opus": "claude-opus-5"
+  },
+  "request_counts": {
+    "smoke": 240,
+    "batch": 5400
+  },
+  "batch_planning_estimate_usd": [
+    8.31,
+    10.48
+  ],
+  "sha256": {
+    "smoke_requests.jsonl": "19202991703bbfaeeccda7cb4e3346cd1c6fe5a518f21b7d1f9b17812da8d92d",
+    "batch.json": "5af4c052fc7e490687f259f3ca4d1e2ede7d2e81c845660955ff9545ac9a0367",
+    "design.jsonl": "f80c37368396c6364e1e4a9b4d69dd4c8c02b61095b564d73f9e187e669dfbca"
+  }
+}

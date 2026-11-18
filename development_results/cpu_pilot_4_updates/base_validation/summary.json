@@ -1,0 +1,36 @@
+{
+  "all": {
+    "n": 60,
+    "accuracy": 0.3,
+    "outcomes": {
+      "incorrect": 40,
+      "correct": 18,
+      "malformed": 2
+    }
+  },
+  "easy": {
+    "n": 20,
+    "accuracy": 0.55,
+    "outcomes": {
+      "incorrect": 9,
+      "correct": 11
+    }
+  },
+  "medium": {
+    "n": 20,
+    "accuracy": 0.35,
+    "outcomes": {
+      "correct": 7,
+      "incorrect": 12,
+      "malformed": 1
+    }
+  },
+  "hard": {
+    "n": 20,
+    "accuracy": 0.0,
+    "outcomes": {
+      "incorrect": 19,
+      "malformed": 1
+    }
+  }
+}

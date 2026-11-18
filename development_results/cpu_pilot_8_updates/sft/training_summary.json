@@ -1,0 +1,12 @@
+{
+  "metrics": {
+    "train_runtime": 21.4424,
+    "train_samples_per_second": 2.985,
+    "train_steps_per_second": 0.373,
+    "total_flos": 13502280000000.0,
+    "train_loss": 0.21839670464396477,
+    "epoch": 1.0
+  },
+  "global_step": 8,
+  "training_prompt_count": 64
+}

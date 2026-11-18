@@ -1,0 +1,192 @@
+{
+  "model": {
+    "name": "Qwen/Qwen2.5-0.5B-Instruct",
+    "revision": "7ae557604adf67be50417f59c2c2f167def9a775"
+  },
+  "training_seed": 17,
+  "updates_per_arm": 8,
+  "arithmetic": {
+    "base": {
+      "correct": 34,
+      "total": 120,
+      "malformed": 4,
+      "hit_token_cap": 0,
+      "malformed_at_cap": 0,
+      "correct_first_60": 18,
+      "by_tier": {
+        "easy": {
+          "incorrect": 20,
+          "correct": 20
+        },
+        "medium": {
+          "correct": 12,
+          "incorrect": 26,
+          "malformed": 2
+        },
+        "hard": {
+          "incorrect": 36,
+          "malformed": 2,
+          "correct": 2
+        }
+      }
+    },
+    "grpo": {
+      "correct": 33,
+      "total": 120,
+      "malformed": 3,
+      "hit_token_cap": 0,
+      "malformed_at_cap": 0,
+      "correct_first_60": 18,
+      "by_tier": {
+        "easy": {
+          "incorrect": 20,
+          "correct": 20
+        },
+        "medium": {
+          "correct": 12,
+          "incorrect": 27,
+          "malformed": 1
+        },
+        "hard": {
+          "incorrect": 37,
+          "malformed": 2,
+          "correct": 1
+        }
+      },
+      "gained_vs_base": 0,
+      "lost_vs_base": 1,
+      "training_seconds": 386.9111
+    },
+    "sft": {
+      "correct": 33,
+      "total": 120,
+      "malformed": 11,
+      "hit_token_cap": 6,
+      "malformed_at_cap": 6,
+      "correct_first_60": 18,
+      "by_tier": {
+        "easy": {
+          "incorrect": 20,
+          "correct": 20
+        },
+        "medium": {
+          "correct": 12,
+          "incorrect": 26,
+          "malformed": 2
+        },
+        "hard": {
+          "incorrect": 30,
+          "malformed": 9,
+          "correct": 1
+        }
+      },
+      "gained_vs_base": 0,
+      "lost_vs_base": 1,
+      "training_seconds": 21.4424
+    }
+  },
+  "verified_base_weight_sha256": "fdf756fa7fcbe7404d5c60e26bff1a0c8b8aa1f72ced49e7dd0210fe288fb7fe",
+  "reward_replay": {
+    "completions": 512,
+    "positive_rewards": 85,
+    "distinct_prompts": 64,
+    "complete_groups": 64,
+    "mixed_reward_groups": 25,
+    "mixed_reward_group_fraction": 0.390625,
+    "partial_trace_files": 0
+  },
+  "diagnostics": {
+    "model": {
+      "name": "Qwen/Qwen2.5-0.5B-Instruct",
+      "revision": "7ae557604adf67be50417f59c2c2f167def9a775"
+    },
+    "packages": {
+      "torch": "2.14.0",
+      "transformers": "5.16.1",
+      "trl": "1.12.0",
+      "datasets": "5.0.1",
+      "peft": "0.20.0",
+      "accelerate": "1.15.0",
+      "pyarrow": "25.0.1"
+    },
+    "seed": 20261111,
+    "development_cases": 20,
+    "adapter_sha256": null,
+    "decoder": "Higher first-token logit between bare P and Q",
+    "diagnostic_target": 0.9,
+    "layouts": {
+      "original": {
+        "validity": {
+          "correct": 43,
+          "total": 80,
+          "accuracy": 0.5375,
+          "distinct_correct": 43,
+          "distinct_prompts": 80,
+          "median_unconstrained_label_mass": 0.999403178691864
+        },
+        "score": {
+          "correct": 80,
+          "total": 160,
+          "accuracy": 0.5,
+          "distinct_correct": 80,
+          "distinct_prompts": 160,
+          "median_unconstrained_label_mass": 0.9992897510528564
+        },
+        "both_point_assignments_correct": 0,
+        "same_choice_after_points_swap": 80,
+        "point_assignment_pairs": 80,
+        "meets_diagnostic_target": false
+      },
+      "inline_audit": {
+        "validity": {
+          "correct": 40,
+          "total": 80,
+          "accuracy": 0.5,
+          "distinct_correct": 40,
+          "distinct_prompts": 80,
+          "median_unconstrained_label_mass": 0.9958658218383789
+        },
+        "score": {
+          "correct": 81,
+          "total": 160,
+          "accuracy": 0.50625,
+          "distinct_correct": 81,
+          "distinct_prompts": 160,
+          "median_unconstrained_label_mass": 0.9939804971218109
+        },
+        "both_point_assignments_correct": 1,
+        "same_choice_after_points_swap": 79,
+        "point_assignment_pairs": 80,
+        "meets_diagnostic_target": false
+      },
+      "audit_only": {
+        "validity": {
+          "correct": 40,
+          "total": 80,
+          "accuracy": 0.5,
+          "distinct_correct": 2,
+          "distinct_prompts": 4,
+          "median_unconstrained_label_mass": 0.9915535151958466
+        },
+        "score": {
+          "correct": 100,
+          "total": 160,
+          "accuracy": 0.625,
+          "distinct_correct": 5,
+          "distinct_prompts": 8,
+          "median_unconstrained_label_mass": 0.9865416586399078
+        },
+        "both_point_assignments_correct": 20,
+        "same_choice_after_points_swap": 60,
+        "point_assignment_pairs": 80,
+        "meets_diagnostic_target": false
+      }
+    }
+  },
+  "sft_cap_sensitivity": {
+    "n": 6,
+    "exact_answers": 0,
+    "prefix_matches": 6,
+    "still_capped": 0
+  }
+}

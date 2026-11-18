@@ -1,0 +1,67 @@
+{
+  "model": {
+    "name": "Qwen/Qwen2.5-0.5B-Instruct",
+    "revision": "7ae557604adf67be50417f59c2c2f167def9a775"
+  },
+  "device": "cpu",
+  "packages": {
+    "torch": "2.14.0",
+    "transformers": "5.16.1",
+    "trl": "1.12.0",
+    "datasets": "5.0.1",
+    "peft": "0.20.0",
+    "accelerate": "1.15.0",
+    "pyarrow": "25.0.1"
+  },
+  "seed": 20261117,
+  "development_cases": 20,
+  "adapter_sha256": null,
+  "decoder": "Higher first-token logit between bare P and Q",
+  "diagnostic_target": 0.9,
+  "layouts": {
+    "original": {
+      "validity": {
+        "correct": 41,
+        "total": 80,
+        "accuracy": 0.5125,
+        "distinct_correct": 41,
+        "distinct_prompts": 80,
+        "median_unconstrained_label_mass": 0.9993917346000671
+      },
+      "score": {
+        "correct": 80,
+        "total": 160,
+        "accuracy": 0.5,
+        "distinct_correct": 80,
+        "distinct_prompts": 160,
+        "median_unconstrained_label_mass": 0.9992201924324036
+      },
+      "both_point_assignments_correct": 0,
+      "same_choice_after_points_swap": 80,
+      "point_assignment_pairs": 80,
+      "meets_diagnostic_target": false
+    },
+    "inline_examples": {
+      "validity": {
+        "correct": 40,
+        "total": 80,
+        "accuracy": 0.5,
+        "distinct_correct": 40,
+        "distinct_prompts": 80,
+        "median_unconstrained_label_mass": 0.9967798888683319
+      },
+      "score": {
+        "correct": 80,
+        "total": 160,
+        "accuracy": 0.5,
+        "distinct_correct": 80,
+        "distinct_prompts": 160,
+        "median_unconstrained_label_mass": 0.9958031177520752
+      },
+      "both_point_assignments_correct": 0,
+      "same_choice_after_points_swap": 80,
+      "point_assignment_pairs": 80,
+      "meets_diagnostic_target": false
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "all": {
+    "tied": {
+      "valid": 39,
+      "reward_target": 17,
+      "other_invalid": 24
+    },
+    "conflict": {
+      "valid": 38,
+      "reward_target": 20,
+      "other_invalid": 22
+    },
+    "aligned": {
+      "valid": 40,
+      "reward_target": 18,
+      "other_invalid": 22
+    }
+  },
+  "records": {
+    "tied": {
+      "valid": 24,
+      "reward_target": 14,
+      "other_invalid": 2
+    },
+    "conflict": {
+      "valid": 23,
+      "reward_target": 17
+    },
+    "aligned": {
+      "valid": 25,
+      "reward_target": 15
+    }
+  },
+  "workflows": {
+    "tied": {
+      "other_invalid": 22,
+      "valid": 15,
+      "reward_target": 3
+    },
+    "conflict": {
+      "other_invalid": 22,
+      "valid": 15,
+      "reward_target": 3
+    },
+    "aligned": {
+      "other_invalid": 22,
+      "valid": 15,
+      "reward_target": 3
+    }
+  }
+}

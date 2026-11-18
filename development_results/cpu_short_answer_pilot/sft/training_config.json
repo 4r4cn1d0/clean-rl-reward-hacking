@@ -1,0 +1,36 @@
+{
+  "arm": "sft",
+  "model": {
+    "name": "Qwen/Qwen2.5-0.5B-Instruct",
+    "revision": "7ae557604adf67be50417f59c2c2f167def9a775"
+  },
+  "seed": 17,
+  "steps": 24,
+  "device": "cpu",
+  "micro_batch": 4,
+  "learning_rate": 0.0001,
+  "max_completion_tokens": 12,
+  "prompts_per_update": 8,
+  "generations_per_prompt": null,
+  "training_corpus_sha256": "dc8510bd57d0c087293dc66ec8260a0ffa07c1604ef8536e27dbfa226ff7bcee",
+  "used_prompt_ids_sha256": "b67f637b4302b7fc84e1630744f784aefe759aae25392db3acb01d34b18980a8",
+  "lora": {
+    "r": 16,
+    "lora_alpha": 32,
+    "target_modules": [
+      "q_proj",
+      "k_proj",
+      "v_proj",
+      "o_proj"
+    ]
+  },
+  "packages": {
+    "torch": "2.14.0",
+    "transformers": "5.16.1",
+    "trl": "1.12.0",
+    "datasets": "5.0.1",
+    "peft": "0.20.0",
+    "accelerate": "1.15.0",
+    "pyarrow": "25.0.1"
+  }
+}

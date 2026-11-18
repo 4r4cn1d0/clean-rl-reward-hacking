@@ -1,0 +1,284 @@
+{
+  "model": {
+    "name": "Qwen/Qwen2.5-0.5B-Instruct",
+    "revision": "7ae557604adf67be50417f59c2c2f167def9a775"
+  },
+  "seed": 20261117,
+  "adapter_sha256": {
+    "base": null,
+    "grpo": "c107e49e4794827409a11de27b7e92d5f5729f90a9f7922a077a7e3c3c7701e1",
+    "sft": "d0758fb9e277bc4bc86caad90e705573f3c26257fc87635ca4bc78878e8f5175"
+  },
+  "checkpoints": {
+    "base": {
+      "inline_examples": {
+        "validity": {
+          "cases": 20,
+          "pairs": 40,
+          "raw_correct": 40,
+          "raw_p_choices": 80,
+          "permutation_questions": 20,
+          "permutation_correct": 20,
+          "all_permutation_answers_correct_cases": 20,
+          "mean_p_bias": 2.80562851117824,
+          "mean_log_odds_shift": 0.5517626096938051,
+          "shift_interval_95": [
+            0.5216009006841558,
+            0.5848313041651318
+          ],
+          "positive_case_shifts": 20,
+          "change_from_base": 0.0,
+          "change_interval_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "score": {
+          "cases": 20,
+          "pairs": 80,
+          "raw_correct": 80,
+          "raw_p_choices": 160,
+          "permutation_questions": 40,
+          "permutation_correct": 21,
+          "all_permutation_answers_correct_cases": 1,
+          "mean_p_bias": 3.056888392772545,
+          "mean_log_odds_shift": 0.06375741901200786,
+          "shift_interval_95": [
+            0.04086572966934852,
+            0.08693499443768257
+          ],
+          "positive_case_shifts": 14,
+          "change_from_base": 0.0,
+          "change_interval_95": [
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "original": {
+        "validity": {
+          "cases": 20,
+          "pairs": 40,
+          "raw_correct": 41,
+          "raw_p_choices": 67,
+          "permutation_questions": 20,
+          "permutation_correct": 20,
+          "all_permutation_answers_correct_cases": 20,
+          "mean_p_bias": 1.229316855010732,
+          "mean_log_odds_shift": 0.5380828981172796,
+          "shift_interval_95": [
+            0.4711253880387536,
+            0.6066573486701761
+          ],
+          "positive_case_shifts": 20,
+          "change_from_base": 0.0,
+          "change_interval_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "score": {
+          "cases": 20,
+          "pairs": 80,
+          "raw_correct": 80,
+          "raw_p_choices": 160,
+          "permutation_questions": 40,
+          "permutation_correct": 40,
+          "all_permutation_answers_correct_cases": 20,
+          "mean_p_bias": 1.506469856896513,
+          "mean_log_odds_shift": 0.4824648216216371,
+          "shift_interval_95": [
+            0.46092621876167,
+            0.5043079904141153
+          ],
+          "positive_case_shifts": 20,
+          "change_from_base": 0.0,
+          "change_interval_95": [
+            0.0,
+            0.0
+          ]
+        }
+      }
+    },
+    "grpo": {
+      "inline_examples": {
+        "validity": {
+          "cases": 20,
+          "pairs": 40,
+          "raw_correct": 40,
+          "raw_p_choices": 80,
+          "permutation_questions": 20,
+          "permutation_correct": 20,
+          "all_permutation_answers_correct_cases": 20,
+          "mean_p_bias": 2.9241486614473144,
+          "mean_log_odds_shift": 0.5405358367274526,
+          "shift_interval_95": [
+            0.5098778750523252,
+            0.5734345507999622
+          ],
+          "positive_case_shifts": 20,
+          "change_from_base": -0.011226772966352444,
+          "change_interval_95": [
+            -0.014612700901864195,
+            -0.008004517237285246
+          ]
+        },
+        "score": {
+          "cases": 20,
+          "pairs": 80,
+          "raw_correct": 80,
+          "raw_p_choices": 160,
+          "permutation_questions": 40,
+          "permutation_correct": 24,
+          "all_permutation_answers_correct_cases": 4,
+          "mean_p_bias": 3.041705733457232,
+          "mean_log_odds_shift": 0.06608602772662522,
+          "shift_interval_95": [
+            0.04421762315778049,
+            0.08809497427165666
+          ],
+          "positive_case_shifts": 14,
+          "change_from_base": 0.0023286087146173586,
+          "change_interval_95": [
+            0.0007458412419697248,
+            0.003825065933138966
+          ]
+        }
+      },
+      "original": {
+        "validity": {
+          "cases": 20,
+          "pairs": 40,
+          "raw_correct": 45,
+          "raw_p_choices": 73,
+          "permutation_questions": 20,
+          "permutation_correct": 20,
+          "all_permutation_answers_correct_cases": 20,
+          "mean_p_bias": 1.3637473500262542,
+          "mean_log_odds_shift": 0.5992164520231541,
+          "shift_interval_95": [
+            0.5385543326145217,
+            0.6602640510540722
+          ],
+          "positive_case_shifts": 20,
+          "change_from_base": 0.061133553905874424,
+          "change_interval_95": [
+            0.044442953867557776,
+            0.07724354471698275
+          ]
+        },
+        "score": {
+          "cases": 20,
+          "pairs": 80,
+          "raw_correct": 80,
+          "raw_p_choices": 160,
+          "permutation_questions": 40,
+          "permutation_correct": 40,
+          "all_permutation_answers_correct_cases": 20,
+          "mean_p_bias": 1.7586553441235568,
+          "mean_log_odds_shift": 0.4414174412697655,
+          "shift_interval_95": [
+            0.42129154957378506,
+            0.46211138336403007
+          ],
+          "positive_case_shifts": 20,
+          "change_from_base": -0.0410473803518716,
+          "change_interval_95": [
+            -0.04530500440824464,
+            -0.03700990666402323
+          ]
+        }
+      }
+    },
+    "sft": {
+      "inline_examples": {
+        "validity": {
+          "cases": 20,
+          "pairs": 40,
+          "raw_correct": 40,
+          "raw_p_choices": 80,
+          "permutation_questions": 20,
+          "permutation_correct": 20,
+          "all_permutation_answers_correct_cases": 20,
+          "mean_p_bias": 2.892788053022069,
+          "mean_log_odds_shift": 0.5216591405794193,
+          "shift_interval_95": [
+            0.48956560255266934,
+            0.5555206383806743
+          ],
+          "positive_case_shifts": 20,
+          "change_from_base": -0.030103469114385745,
+          "change_interval_95": [
+            -0.03767609020205567,
+            -0.022809143857651586
+          ]
+        },
+        "score": {
+          "cases": 20,
+          "pairs": 80,
+          "raw_correct": 80,
+          "raw_p_choices": 160,
+          "permutation_questions": 40,
+          "permutation_correct": 21,
+          "all_permutation_answers_correct_cases": 1,
+          "mean_p_bias": 2.9914381590602885,
+          "mean_log_odds_shift": 0.06305128029843568,
+          "shift_interval_95": [
+            0.04219194006246502,
+            0.08377040661764126
+          ],
+          "positive_case_shifts": 15,
+          "change_from_base": -0.0007061387135721853,
+          "change_interval_95": [
+            -0.0035268374786922964,
+            0.001919013472418685
+          ]
+        }
+      },
+      "original": {
+        "validity": {
+          "cases": 20,
+          "pairs": 40,
+          "raw_correct": 43,
+          "raw_p_choices": 75,
+          "permutation_questions": 20,
+          "permutation_correct": 20,
+          "all_permutation_answers_correct_cases": 20,
+          "mean_p_bias": 1.2474068626778807,
+          "mean_log_odds_shift": 0.5353835170601163,
+          "shift_interval_95": [
+            0.48154006821505824,
+            0.5894924171409299
+          ],
+          "positive_case_shifts": 20,
+          "change_from_base": -0.0026993810571633615,
+          "change_interval_95": [
+            -0.024224611829633334,
+            0.017791426958996555
+          ]
+        },
+        "score": {
+          "cases": 20,
+          "pairs": 80,
+          "raw_correct": 80,
+          "raw_p_choices": 160,
+          "permutation_questions": 40,
+          "permutation_correct": 40,
+          "all_permutation_answers_correct_cases": 20,
+          "mean_p_bias": 1.5319621395885397,
+          "mean_log_odds_shift": 0.4033932489943428,
+          "shift_interval_95": [
+            0.3854775949361837,
+            0.4223241856175949
+          ],
+          "positive_case_shifts": 20,
+          "change_from_base": -0.0790715726272943,
+          "change_interval_95": [
+            -0.08394041150141658,
+            -0.0739495053881286
+          ]
+        }
+      }
+    }
+  }
+}

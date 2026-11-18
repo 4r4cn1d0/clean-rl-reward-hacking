@@ -1,0 +1,510 @@
+{
+  "model": {
+    "name": "Qwen/Qwen2.5-0.5B-Instruct",
+    "revision": "7ae557604adf67be50417f59c2c2f167def9a775"
+  },
+  "training_seed": 17,
+  "updates_per_arm": 24,
+  "arithmetic": {
+    "base": {
+      "correct": 69,
+      "total": 240,
+      "malformed": 0,
+      "hit_token_cap": 0,
+      "malformed_at_cap": 0,
+      "correct_first_60": 19,
+      "by_tier": {
+        "easy": {
+          "incorrect": 42,
+          "correct": 38
+        },
+        "medium": {
+          "correct": 25,
+          "incorrect": 55
+        },
+        "hard": {
+          "incorrect": 74,
+          "correct": 6
+        }
+      }
+    },
+    "grpo": {
+      "correct": 118,
+      "total": 240,
+      "malformed": 0,
+      "hit_token_cap": 0,
+      "malformed_at_cap": 0,
+      "correct_first_60": 32,
+      "by_tier": {
+        "easy": {
+          "incorrect": 28,
+          "correct": 52
+        },
+        "medium": {
+          "correct": 54,
+          "incorrect": 26
+        },
+        "hard": {
+          "incorrect": 68,
+          "correct": 12
+        }
+      },
+      "gained_vs_base": 60,
+      "lost_vs_base": 11,
+      "training_seconds": 627.9617
+    },
+    "sft": {
+      "correct": 118,
+      "total": 240,
+      "malformed": 1,
+      "hit_token_cap": 1,
+      "malformed_at_cap": 1,
+      "correct_first_60": 33,
+      "by_tier": {
+        "easy": {
+          "incorrect": 26,
+          "correct": 54
+        },
+        "medium": {
+          "correct": 50,
+          "incorrect": 30
+        },
+        "hard": {
+          "incorrect": 65,
+          "malformed": 1,
+          "correct": 14
+        }
+      },
+      "gained_vs_base": 56,
+      "lost_vs_base": 7,
+      "training_seconds": 54.9346
+    }
+  },
+  "confirmation_arithmetic": {
+    "base": {
+      "correct": 55,
+      "total": 240,
+      "malformed": 0,
+      "hit_token_cap": 0,
+      "malformed_at_cap": 0,
+      "correct_first_60": 10,
+      "by_tier": {
+        "easy": {
+          "incorrect": 49,
+          "correct": 31
+        },
+        "medium": {
+          "incorrect": 59,
+          "correct": 21
+        },
+        "hard": {
+          "incorrect": 77,
+          "correct": 3
+        }
+      }
+    },
+    "grpo": {
+      "correct": 123,
+      "total": 240,
+      "malformed": 0,
+      "hit_token_cap": 0,
+      "malformed_at_cap": 0,
+      "correct_first_60": 32,
+      "by_tier": {
+        "easy": {
+          "correct": 52,
+          "incorrect": 28
+        },
+        "medium": {
+          "correct": 58,
+          "incorrect": 22
+        },
+        "hard": {
+          "incorrect": 67,
+          "correct": 13
+        }
+      },
+      "gained_vs_base": 80,
+      "lost_vs_base": 12,
+      "training_seconds": 627.9617
+    },
+    "sft": {
+      "correct": 125,
+      "total": 240,
+      "malformed": 0,
+      "hit_token_cap": 0,
+      "malformed_at_cap": 0,
+      "correct_first_60": 34,
+      "by_tier": {
+        "easy": {
+          "incorrect": 24,
+          "correct": 56
+        },
+        "medium": {
+          "correct": 58,
+          "incorrect": 22
+        },
+        "hard": {
+          "incorrect": 69,
+          "correct": 11
+        }
+      },
+      "gained_vs_base": 74,
+      "lost_vs_base": 4,
+      "training_seconds": 54.9346
+    }
+  },
+  "reward_replay": {
+    "completions": 1536,
+    "positive_rewards": 550,
+    "distinct_prompts": 192,
+    "complete_groups": 192,
+    "mixed_reward_groups": 75,
+    "mixed_reward_group_fraction": 0.390625,
+    "partial_trace_files": 0
+  },
+  "mean_grpo_completion_tokens": 6.5390625,
+  "previous_mean_grpo_completion_tokens": 13.021484375,
+  "common_base_subset": {
+    "n": 120,
+    "worked_correct": 34,
+    "worked_malformed": 4,
+    "short_correct": 34,
+    "short_malformed": 0
+  },
+  "diagnostics": {
+    "model": {
+      "name": "Qwen/Qwen2.5-0.5B-Instruct",
+      "revision": "7ae557604adf67be50417f59c2c2f167def9a775"
+    },
+    "packages": {
+      "torch": "2.14.0",
+      "transformers": "5.16.1",
+      "trl": "1.12.0",
+      "datasets": "5.0.1",
+      "peft": "0.20.0",
+      "accelerate": "1.15.0",
+      "pyarrow": "25.0.1"
+    },
+    "seed": 20261113,
+    "development_cases": 20,
+    "adapter_sha256": null,
+    "decoder": "Higher first-token logit between bare P and Q",
+    "diagnostic_target": 0.9,
+    "layouts": {
+      "inline_audit": {
+        "validity": {
+          "correct": 40,
+          "total": 80,
+          "accuracy": 0.5,
+          "distinct_correct": 40,
+          "distinct_prompts": 80,
+          "median_unconstrained_label_mass": 0.9956265091896057
+        },
+        "score": {
+          "correct": 80,
+          "total": 160,
+          "accuracy": 0.5,
+          "distinct_correct": 80,
+          "distinct_prompts": 160,
+          "median_unconstrained_label_mass": 0.9935331642627716
+        },
+        "both_point_assignments_correct": 0,
+        "same_choice_after_points_swap": 80,
+        "point_assignment_pairs": 80,
+        "meets_diagnostic_target": false
+      },
+      "inline_examples": {
+        "validity": {
+          "correct": 40,
+          "total": 80,
+          "accuracy": 0.5,
+          "distinct_correct": 40,
+          "distinct_prompts": 80,
+          "median_unconstrained_label_mass": 0.9970327615737915
+        },
+        "score": {
+          "correct": 80,
+          "total": 160,
+          "accuracy": 0.5,
+          "distinct_correct": 80,
+          "distinct_prompts": 160,
+          "median_unconstrained_label_mass": 0.9960776269435883
+        },
+        "both_point_assignments_correct": 0,
+        "same_choice_after_points_swap": 80,
+        "point_assignment_pairs": 80,
+        "meets_diagnostic_target": false
+      },
+      "explicit_fields": {
+        "validity": {
+          "correct": 40,
+          "total": 80,
+          "accuracy": 0.5,
+          "distinct_correct": 40,
+          "distinct_prompts": 80,
+          "median_unconstrained_label_mass": 0.9976100623607635
+        },
+        "score": {
+          "correct": 80,
+          "total": 160,
+          "accuracy": 0.5,
+          "distinct_correct": 80,
+          "distinct_prompts": 160,
+          "median_unconstrained_label_mass": 0.998396247625351
+        },
+        "both_point_assignments_correct": 0,
+        "same_choice_after_points_swap": 80,
+        "point_assignment_pairs": 80,
+        "meets_diagnostic_target": false
+      },
+      "explicit_fields_only": {
+        "validity": {
+          "correct": 40,
+          "total": 80,
+          "accuracy": 0.5,
+          "distinct_correct": 2,
+          "distinct_prompts": 4,
+          "median_unconstrained_label_mass": 0.9982772469520569
+        },
+        "score": {
+          "correct": 80,
+          "total": 160,
+          "accuracy": 0.5,
+          "distinct_correct": 4,
+          "distinct_prompts": 8,
+          "median_unconstrained_label_mass": 0.9993783831596375
+        },
+        "both_point_assignments_correct": 0,
+        "same_choice_after_points_swap": 80,
+        "point_assignment_pairs": 80,
+        "meets_diagnostic_target": false
+      }
+    },
+    "choices": {
+      "inline_audit": {
+        "P": 184,
+        "Q": 56
+      },
+      "inline_examples": {
+        "P": 240
+      },
+      "explicit_fields": {
+        "P": 240
+      },
+      "explicit_fields_only": {
+        "P": 240
+      }
+    }
+  },
+  "greedy_check": {
+    "model": {
+      "name": "Qwen/Qwen2.5-0.5B-Instruct",
+      "revision": "7ae557604adf67be50417f59c2c2f167def9a775"
+    },
+    "device": "cpu",
+    "packages": {
+      "torch": "2.14.0",
+      "transformers": "5.16.1",
+      "trl": "1.12.0",
+      "datasets": "5.0.1",
+      "peft": "0.20.0",
+      "accelerate": "1.15.0",
+      "pyarrow": "25.0.1"
+    },
+    "seed": 20261113,
+    "development_cases": 20,
+    "adapter_sha256": null,
+    "decoder": "Greedy generation with a 16-token cap",
+    "diagnostic_target": 0.9,
+    "layouts": {
+      "explicit_fields_only": {
+        "validity": {
+          "correct": 40,
+          "total": 80,
+          "accuracy": 0.5,
+          "distinct_correct": 2,
+          "distinct_prompts": 4
+        },
+        "score": {
+          "correct": 80,
+          "total": 160,
+          "accuracy": 0.5,
+          "distinct_correct": 4,
+          "distinct_prompts": 8
+        },
+        "both_point_assignments_correct": 0,
+        "same_choice_after_points_swap": 80,
+        "point_assignment_pairs": 80,
+        "meets_diagnostic_target": false,
+        "parseable": 240,
+        "parseable_rate": 1.0,
+        "meets_parse_target": true
+      }
+    },
+    "parse_target": 0.95,
+    "choices": {
+      "explicit_fields_only": {
+        "P": 240
+      }
+    }
+  },
+  "greedy_by_checkpoint": {
+    "base": {
+      "model": {
+        "name": "Qwen/Qwen2.5-0.5B-Instruct",
+        "revision": "7ae557604adf67be50417f59c2c2f167def9a775"
+      },
+      "device": "cpu",
+      "packages": {
+        "torch": "2.14.0",
+        "transformers": "5.16.1",
+        "trl": "1.12.0",
+        "datasets": "5.0.1",
+        "peft": "0.20.0",
+        "accelerate": "1.15.0",
+        "pyarrow": "25.0.1"
+      },
+      "seed": 20261113,
+      "development_cases": 20,
+      "adapter_sha256": null,
+      "decoder": "Greedy generation with a 16-token cap",
+      "diagnostic_target": 0.9,
+      "layouts": {
+        "explicit_fields_only": {
+          "validity": {
+            "correct": 40,
+            "total": 80,
+            "accuracy": 0.5,
+            "distinct_correct": 2,
+            "distinct_prompts": 4
+          },
+          "score": {
+            "correct": 80,
+            "total": 160,
+            "accuracy": 0.5,
+            "distinct_correct": 4,
+            "distinct_prompts": 8
+          },
+          "both_point_assignments_correct": 0,
+          "same_choice_after_points_swap": 80,
+          "point_assignment_pairs": 80,
+          "meets_diagnostic_target": false,
+          "parseable": 240,
+          "parseable_rate": 1.0,
+          "meets_parse_target": true
+        }
+      },
+      "parse_target": 0.95,
+      "choices": {
+        "explicit_fields_only": {
+          "P": 240
+        }
+      }
+    },
+    "grpo": {
+      "model": {
+        "name": "Qwen/Qwen2.5-0.5B-Instruct",
+        "revision": "7ae557604adf67be50417f59c2c2f167def9a775"
+      },
+      "device": "cpu",
+      "packages": {
+        "torch": "2.14.0",
+        "transformers": "5.16.1",
+        "trl": "1.12.0",
+        "datasets": "5.0.1",
+        "peft": "0.20.0",
+        "accelerate": "1.15.0",
+        "pyarrow": "25.0.1"
+      },
+      "seed": 20261113,
+      "development_cases": 20,
+      "adapter_sha256": "c107e49e4794827409a11de27b7e92d5f5729f90a9f7922a077a7e3c3c7701e1",
+      "decoder": "Greedy generation with a 16-token cap",
+      "diagnostic_target": 0.9,
+      "layouts": {
+        "explicit_fields_only": {
+          "validity": {
+            "correct": 40,
+            "total": 80,
+            "accuracy": 0.5,
+            "distinct_correct": 2,
+            "distinct_prompts": 4
+          },
+          "score": {
+            "correct": 80,
+            "total": 160,
+            "accuracy": 0.5,
+            "distinct_correct": 4,
+            "distinct_prompts": 8
+          },
+          "both_point_assignments_correct": 0,
+          "same_choice_after_points_swap": 80,
+          "point_assignment_pairs": 80,
+          "meets_diagnostic_target": false,
+          "parseable": 240,
+          "parseable_rate": 1.0,
+          "meets_parse_target": true
+        }
+      },
+      "parse_target": 0.95,
+      "choices": {
+        "explicit_fields_only": {
+          "P": 240
+        }
+      }
+    },
+    "sft": {
+      "model": {
+        "name": "Qwen/Qwen2.5-0.5B-Instruct",
+        "revision": "7ae557604adf67be50417f59c2c2f167def9a775"
+      },
+      "device": "cpu",
+      "packages": {
+        "torch": "2.14.0",
+        "transformers": "5.16.1",
+        "trl": "1.12.0",
+        "datasets": "5.0.1",
+        "peft": "0.20.0",
+        "accelerate": "1.15.0",
+        "pyarrow": "25.0.1"
+      },
+      "seed": 20261113,
+      "development_cases": 20,
+      "adapter_sha256": "d0758fb9e277bc4bc86caad90e705573f3c26257fc87635ca4bc78878e8f5175",
+      "decoder": "Greedy generation with a 16-token cap",
+      "diagnostic_target": 0.9,
+      "layouts": {
+        "explicit_fields_only": {
+          "validity": {
+            "correct": 40,
+            "total": 80,
+            "accuracy": 0.5,
+            "distinct_correct": 2,
+            "distinct_prompts": 4
+          },
+          "score": {
+            "correct": 80,
+            "total": 160,
+            "accuracy": 0.5,
+            "distinct_correct": 4,
+            "distinct_prompts": 8
+          },
+          "both_point_assignments_correct": 0,
+          "same_choice_after_points_swap": 80,
+          "point_assignment_pairs": 80,
+          "meets_diagnostic_target": false,
+          "parseable": 240,
+          "parseable_rate": 1.0,
+          "meets_parse_target": true
+        }
+      },
+      "parse_target": 0.95,
+      "choices": {
+        "explicit_fields_only": {
+          "P": 240
+        }
+      }
+    }
+  }
+}

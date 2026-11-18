@@ -1,0 +1,92 @@
+{
+  "model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "revision": "7ae557604adf67be50417f59c2c2f167def9a775",
+  "seed": 17,
+  "updates_per_arm": 4,
+  "device": "cpu",
+  "curriculum": "small-integers",
+  "n_validation": 60,
+  "checkpoints": {
+    "base": {
+      "outcomes": {
+        "incorrect": 40,
+        "correct": 18,
+        "malformed": 2
+      },
+      "tiers": {
+        "easy": {
+          "incorrect": 9,
+          "correct": 11
+        },
+        "medium": {
+          "correct": 7,
+          "incorrect": 12,
+          "malformed": 1
+        },
+        "hard": {
+          "incorrect": 19,
+          "malformed": 1
+        }
+      }
+    },
+    "grpo": {
+      "outcomes": {
+        "incorrect": 41,
+        "correct": 18,
+        "malformed": 1
+      },
+      "tiers": {
+        "easy": {
+          "incorrect": 9,
+          "correct": 11
+        },
+        "medium": {
+          "correct": 7,
+          "incorrect": 13
+        },
+        "hard": {
+          "incorrect": 19,
+          "malformed": 1
+        }
+      },
+      "gained": 0,
+      "lost": 0,
+      "training_seconds": 376.5358
+    },
+    "sft": {
+      "outcomes": {
+        "incorrect": 30,
+        "correct": 16,
+        "malformed": 14
+      },
+      "tiers": {
+        "easy": {
+          "incorrect": 8,
+          "correct": 10,
+          "malformed": 2
+        },
+        "medium": {
+          "correct": 6,
+          "malformed": 2,
+          "incorrect": 12
+        },
+        "hard": {
+          "malformed": 10,
+          "incorrect": 10
+        }
+      },
+      "gained": 0,
+      "lost": 2,
+      "training_seconds": 21.6848
+    }
+  },
+  "reward_audit": {
+    "completions": 256,
+    "positive_rewards": 49,
+    "distinct_prompts": 32,
+    "complete_groups": 32,
+    "mixed_reward_groups": 11,
+    "mixed_reward_group_fraction": 0.34375,
+    "partial_trace_files": 0
+  }
+}

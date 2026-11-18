@@ -1,0 +1,21 @@
+{
+  "metrics": {
+    "train_runtime": 386.9111,
+    "train_samples_per_second": 1.323,
+    "train_steps_per_second": 0.021,
+    "total_flos": 0.0,
+    "train_loss": 1.4171725297273952e-05,
+    "epoch": 1.0
+  },
+  "global_step": 8,
+  "training_prompt_count": 64,
+  "reward_audit": {
+    "completions": 512,
+    "positive_rewards": 85,
+    "distinct_prompts": 64,
+    "complete_groups": 64,
+    "mixed_reward_groups": 25,
+    "mixed_reward_group_fraction": 0.390625,
+    "partial_trace_files": 0
+  }
+}

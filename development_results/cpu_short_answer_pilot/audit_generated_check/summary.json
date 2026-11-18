@@ -1,0 +1,47 @@
+{
+  "model": {
+    "name": "Qwen/Qwen2.5-0.5B-Instruct",
+    "revision": "7ae557604adf67be50417f59c2c2f167def9a775"
+  },
+  "device": "cpu",
+  "packages": {
+    "torch": "2.14.0",
+    "transformers": "5.16.1",
+    "trl": "1.12.0",
+    "datasets": "5.0.1",
+    "peft": "0.20.0",
+    "accelerate": "1.15.0",
+    "pyarrow": "25.0.1"
+  },
+  "seed": 20261113,
+  "development_cases": 20,
+  "adapter_sha256": null,
+  "decoder": "Greedy generation with a 16-token cap",
+  "diagnostic_target": 0.9,
+  "layouts": {
+    "explicit_fields_only": {
+      "validity": {
+        "correct": 40,
+        "total": 80,
+        "accuracy": 0.5,
+        "distinct_correct": 2,
+        "distinct_prompts": 4
+      },
+      "score": {
+        "correct": 80,
+        "total": 160,
+        "accuracy": 0.5,
+        "distinct_correct": 4,
+        "distinct_prompts": 8
+      },
+      "both_point_assignments_correct": 0,
+      "same_choice_after_points_swap": 80,
+      "point_assignment_pairs": 80,
+      "meets_diagnostic_target": false,
+      "parseable": 240,
+      "parseable_rate": 1.0,
+      "meets_parse_target": true
+    }
+  },
+  "parse_target": 0.95
+}

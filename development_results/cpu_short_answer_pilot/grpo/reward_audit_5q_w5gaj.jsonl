@@ -1,0 +1,1536 @@
+{"call":1,"case_id":"math-train-00112","expression":"((3 + 9) - 6)","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":1,"case_id":"math-train-00112","expression":"((3 + 9) - 6)","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":1,"case_id":"math-train-00112","expression":"((3 + 9) - 6)","answer":6,"completion":"Final answer: 4","reward":0}
+{"call":1,"case_id":"math-train-00112","expression":"((3 + 9) - 6)","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":1,"case_id":"math-train-00112","expression":"((3 + 9) - 6)","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":1,"case_id":"math-train-00112","expression":"((3 + 9) - 6)","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":1,"case_id":"math-train-00112","expression":"((3 + 9) - 6)","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":1,"case_id":"math-train-00112","expression":"((3 + 9) - 6)","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":1,"case_id":"math-train-00088","expression":"((9 + 7) - 0)","answer":16,"completion":"Final answer: 15","reward":0}
+{"call":1,"case_id":"math-train-00088","expression":"((9 + 7) - 0)","answer":16,"completion":"Final answer: 16","reward":1}
+{"call":1,"case_id":"math-train-00088","expression":"((9 + 7) - 0)","answer":16,"completion":"Final answer: 16","reward":1}
+{"call":1,"case_id":"math-train-00088","expression":"((9 + 7) - 0)","answer":16,"completion":"Final answer: 15","reward":0}
+{"call":1,"case_id":"math-train-00088","expression":"((9 + 7) - 0)","answer":16,"completion":"Final answer: 16","reward":1}
+{"call":1,"case_id":"math-train-00088","expression":"((9 + 7) - 0)","answer":16,"completion":"Final answer: 15","reward":0}
+{"call":1,"case_id":"math-train-00088","expression":"((9 + 7) - 0)","answer":16,"completion":"Final answer: 16","reward":1}
+{"call":1,"case_id":"math-train-00088","expression":"((9 + 7) - 0)","answer":16,"completion":"Final answer: 16","reward":1}
+{"call":1,"case_id":"math-train-00164","expression":"((3 + 9) * 5)","answer":60,"completion":"Final answer: 80","reward":0}
+{"call":1,"case_id":"math-train-00164","expression":"((3 + 9) * 5)","answer":60,"completion":"Final answer: 45","reward":0}
+{"call":1,"case_id":"math-train-00164","expression":"((3 + 9) * 5)","answer":60,"completion":"Final answer: 54","reward":0}
+{"call":1,"case_id":"math-train-00164","expression":"((3 + 9) * 5)","answer":60,"completion":"Final answer: 45","reward":0}
+{"call":1,"case_id":"math-train-00164","expression":"((3 + 9) * 5)","answer":60,"completion":"Final answer: 45","reward":0}
+{"call":1,"case_id":"math-train-00164","expression":"((3 + 9) * 5)","answer":60,"completion":"Final answer: 54","reward":0}
+{"call":1,"case_id":"math-train-00164","expression":"((3 + 9) * 5)","answer":60,"completion":"Final answer: 45","reward":0}
+{"call":1,"case_id":"math-train-00164","expression":"((3 + 9) * 5)","answer":60,"completion":"Final answer: 54","reward":0}
+{"call":1,"case_id":"math-train-00062","expression":"((6 * 2) - 2)","answer":10,"completion":"Final answer: 8","reward":0}
+{"call":1,"case_id":"math-train-00062","expression":"((6 * 2) - 2)","answer":10,"completion":"Final answer: 8","reward":0}
+{"call":1,"case_id":"math-train-00062","expression":"((6 * 2) - 2)","answer":10,"completion":"14","reward":0}
+{"call":1,"case_id":"math-train-00062","expression":"((6 * 2) - 2)","answer":10,"completion":"Final answer: 8","reward":0}
+{"call":1,"case_id":"math-train-00062","expression":"((6 * 2) - 2)","answer":10,"completion":"Final answer: 7","reward":0}
+{"call":1,"case_id":"math-train-00062","expression":"((6 * 2) - 2)","answer":10,"completion":"Final answer: 8","reward":0}
+{"call":1,"case_id":"math-train-00062","expression":"((6 * 2) - 2)","answer":10,"completion":"5","reward":0}
+{"call":1,"case_id":"math-train-00062","expression":"((6 * 2) - 2)","answer":10,"completion":"Final answer: 10","reward":1}
+{"call":1,"case_id":"math-train-00127","expression":"(0 - (7 + 8))","answer":-15,"completion":"Final answer: -15","reward":1}
+{"call":1,"case_id":"math-train-00127","expression":"(0 - (7 + 8))","answer":-15,"completion":"Final answer: -15","reward":1}
+{"call":1,"case_id":"math-train-00127","expression":"(0 - (7 + 8))","answer":-15,"completion":"Final answer: 1","reward":0}
+{"call":1,"case_id":"math-train-00127","expression":"(0 - (7 + 8))","answer":-15,"completion":"Final answer: -15","reward":1}
+{"call":1,"case_id":"math-train-00127","expression":"(0 - (7 + 8))","answer":-15,"completion":"Final answer: 1","reward":0}
+{"call":1,"case_id":"math-train-00127","expression":"(0 - (7 + 8))","answer":-15,"completion":"Final answer: 1","reward":0}
+{"call":1,"case_id":"math-train-00127","expression":"(0 - (7 + 8))","answer":-15,"completion":"Final answer: 1","reward":0}
+{"call":1,"case_id":"math-train-00127","expression":"(0 - (7 + 8))","answer":-15,"completion":"Final answer: -15","reward":1}
+{"call":1,"case_id":"math-train-00170","expression":"((8 * 3) - 3)","answer":21,"completion":"Final answer: 21","reward":1}
+{"call":1,"case_id":"math-train-00170","expression":"((8 * 3) - 3)","answer":21,"completion":"Final answer: 19","reward":0}
+{"call":1,"case_id":"math-train-00170","expression":"((8 * 3) - 3)","answer":21,"completion":"Final answer: 21","reward":1}
+{"call":1,"case_id":"math-train-00170","expression":"((8 * 3) - 3)","answer":21,"completion":"Final answer: 21","reward":1}
+{"call":1,"case_id":"math-train-00170","expression":"((8 * 3) - 3)","answer":21,"completion":"Final answer: 24","reward":0}
+{"call":1,"case_id":"math-train-00170","expression":"((8 * 3) - 3)","answer":21,"completion":"Final answer: 24","reward":0}
+{"call":1,"case_id":"math-train-00170","expression":"((8 * 3) - 3)","answer":21,"completion":"Final answer: 20","reward":0}
+{"call":1,"case_id":"math-train-00170","expression":"((8 * 3) - 3)","answer":21,"completion":"Final answer: 20","reward":0}
+{"call":1,"case_id":"math-train-00043","expression":"(0 - (4 + 2))","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":1,"case_id":"math-train-00043","expression":"(0 - (4 + 2))","answer":-6,"completion":"Final answer: 2","reward":0}
+{"call":1,"case_id":"math-train-00043","expression":"(0 - (4 + 2))","answer":-6,"completion":"Final answer: 2","reward":0}
+{"call":1,"case_id":"math-train-00043","expression":"(0 - (4 + 2))","answer":-6,"completion":"Final answer: 2","reward":0}
+{"call":1,"case_id":"math-train-00043","expression":"(0 - (4 + 2))","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":1,"case_id":"math-train-00043","expression":"(0 - (4 + 2))","answer":-6,"completion":"Final answer: 2","reward":0}
+{"call":1,"case_id":"math-train-00043","expression":"(0 - (4 + 2))","answer":-6,"completion":"Final answer: 2","reward":0}
+{"call":1,"case_id":"math-train-00043","expression":"(0 - (4 + 2))","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":1,"case_id":"math-train-00146","expression":"((2 * 6) - 6)","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":1,"case_id":"math-train-00146","expression":"((2 * 6) - 6)","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":1,"case_id":"math-train-00146","expression":"((2 * 6) - 6)","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":1,"case_id":"math-train-00146","expression":"((2 * 6) - 6)","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":1,"case_id":"math-train-00146","expression":"((2 * 6) - 6)","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":1,"case_id":"math-train-00146","expression":"((2 * 6) - 6)","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":1,"case_id":"math-train-00146","expression":"((2 * 6) - 6)","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":1,"case_id":"math-train-00146","expression":"((2 * 6) - 6)","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":2,"case_id":"math-train-00143","expression":"(1 * (2 + 0))","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":2,"case_id":"math-train-00143","expression":"(1 * (2 + 0))","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":2,"case_id":"math-train-00143","expression":"(1 * (2 + 0))","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":2,"case_id":"math-train-00143","expression":"(1 * (2 + 0))","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":2,"case_id":"math-train-00143","expression":"(1 * (2 + 0))","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":2,"case_id":"math-train-00143","expression":"(1 * (2 + 0))","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":2,"case_id":"math-train-00143","expression":"(1 * (2 + 0))","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":2,"case_id":"math-train-00143","expression":"(1 * (2 + 0))","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":2,"case_id":"math-train-00013","expression":"(2 + (2 - 6))","answer":-2,"completion":"Final answer: 8","reward":0}
+{"call":2,"case_id":"math-train-00013","expression":"(2 + (2 - 6))","answer":-2,"completion":"Final answer: 4","reward":0}
+{"call":2,"case_id":"math-train-00013","expression":"(2 + (2 - 6))","answer":-2,"completion":"Final answer: 8","reward":0}
+{"call":2,"case_id":"math-train-00013","expression":"(2 + (2 - 6))","answer":-2,"completion":"Final answer: 8","reward":0}
+{"call":2,"case_id":"math-train-00013","expression":"(2 + (2 - 6))","answer":-2,"completion":"Final answer: 8","reward":0}
+{"call":2,"case_id":"math-train-00013","expression":"(2 + (2 - 6))","answer":-2,"completion":"Final answer: 8","reward":0}
+{"call":2,"case_id":"math-train-00013","expression":"(2 + (2 - 6))","answer":-2,"completion":"Final answer: 2","reward":0}
+{"call":2,"case_id":"math-train-00013","expression":"(2 + (2 - 6))","answer":-2,"completion":"Final answer: 8","reward":0}
+{"call":2,"case_id":"math-train-00181","expression":"(3 + (3 - 0))","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":2,"case_id":"math-train-00181","expression":"(3 + (3 - 0))","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":2,"case_id":"math-train-00181","expression":"(3 + (3 - 0))","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":2,"case_id":"math-train-00181","expression":"(3 + (3 - 0))","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":2,"case_id":"math-train-00181","expression":"(3 + (3 - 0))","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":2,"case_id":"math-train-00181","expression":"(3 + (3 - 0))","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":2,"case_id":"math-train-00181","expression":"(3 + (3 - 0))","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":2,"case_id":"math-train-00181","expression":"(3 + (3 - 0))","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":2,"case_id":"math-train-00120","expression":"(3 * ((6 + 3) - 4))","answer":15,"completion":"Final answer: 13","reward":0}
+{"call":2,"case_id":"math-train-00120","expression":"(3 * ((6 + 3) - 4))","answer":15,"completion":"Final answer: 13","reward":0}
+{"call":2,"case_id":"math-train-00120","expression":"(3 * ((6 + 3) - 4))","answer":15,"completion":"Final answer: 7","reward":0}
+{"call":2,"case_id":"math-train-00120","expression":"(3 * ((6 + 3) - 4))","answer":15,"completion":"Final answer: 13","reward":0}
+{"call":2,"case_id":"math-train-00120","expression":"(3 * ((6 + 3) - 4))","answer":15,"completion":"Final answer: 11","reward":0}
+{"call":2,"case_id":"math-train-00120","expression":"(3 * ((6 + 3) - 4))","answer":15,"completion":"Final answer: 15","reward":1}
+{"call":2,"case_id":"math-train-00120","expression":"(3 * ((6 + 3) - 4))","answer":15,"completion":"Final answer: 9","reward":0}
+{"call":2,"case_id":"math-train-00120","expression":"(3 * ((6 + 3) - 4))","answer":15,"completion":"Final answer: 11","reward":0}
+{"call":2,"case_id":"math-train-00045","expression":"(((1 + 6) + 4) * 4)","answer":44,"completion":"Final answer: 64","reward":0}
+{"call":2,"case_id":"math-train-00045","expression":"(((1 + 6) + 4) * 4)","answer":44,"completion":"Final answer: 90","reward":0}
+{"call":2,"case_id":"math-train-00045","expression":"(((1 + 6) + 4) * 4)","answer":44,"completion":"Final answer: 160","reward":0}
+{"call":2,"case_id":"math-train-00045","expression":"(((1 + 6) + 4) * 4)","answer":44,"completion":"Final answer: 160","reward":0}
+{"call":2,"case_id":"math-train-00045","expression":"(((1 + 6) + 4) * 4)","answer":44,"completion":"Final answer: 128","reward":0}
+{"call":2,"case_id":"math-train-00045","expression":"(((1 + 6) + 4) * 4)","answer":44,"completion":"Final answer: 74","reward":0}
+{"call":2,"case_id":"math-train-00045","expression":"(((1 + 6) + 4) * 4)","answer":44,"completion":"Final answer: 72","reward":0}
+{"call":2,"case_id":"math-train-00045","expression":"(((1 + 6) + 4) * 4)","answer":44,"completion":"Final answer: 64","reward":0}
+{"call":2,"case_id":"math-train-00123","expression":"((1 * (9 + 0)) + 9)","answer":18,"completion":"Final answer: 18","reward":1}
+{"call":2,"case_id":"math-train-00123","expression":"((1 * (9 + 0)) + 9)","answer":18,"completion":"Final answer: 20","reward":0}
+{"call":2,"case_id":"math-train-00123","expression":"((1 * (9 + 0)) + 9)","answer":18,"completion":"Final answer: 23","reward":0}
+{"call":2,"case_id":"math-train-00123","expression":"((1 * (9 + 0)) + 9)","answer":18,"completion":"Final answer: 20","reward":0}
+{"call":2,"case_id":"math-train-00123","expression":"((1 * (9 + 0)) + 9)","answer":18,"completion":"Final answer: 20","reward":0}
+{"call":2,"case_id":"math-train-00123","expression":"((1 * (9 + 0)) + 9)","answer":18,"completion":"Final answer: 28","reward":0}
+{"call":2,"case_id":"math-train-00123","expression":"((1 * (9 + 0)) + 9)","answer":18,"completion":"Final answer: 19","reward":0}
+{"call":2,"case_id":"math-train-00123","expression":"((1 * (9 + 0)) + 9)","answer":18,"completion":"Final answer: 24","reward":0}
+{"call":2,"case_id":"math-train-00064","expression":"((2 + 3) - 7)","answer":-2,"completion":"Final answer: 0","reward":0}
+{"call":2,"case_id":"math-train-00064","expression":"((2 + 3) - 7)","answer":-2,"completion":"Final answer: -6","reward":0}
+{"call":2,"case_id":"math-train-00064","expression":"((2 + 3) - 7)","answer":-2,"completion":"Final answer: 0","reward":0}
+{"call":2,"case_id":"math-train-00064","expression":"((2 + 3) - 7)","answer":-2,"completion":"Final answer: 0","reward":0}
+{"call":2,"case_id":"math-train-00064","expression":"((2 + 3) - 7)","answer":-2,"completion":"Final answer: 0","reward":0}
+{"call":2,"case_id":"math-train-00064","expression":"((2 + 3) - 7)","answer":-2,"completion":"Final answer: -6","reward":0}
+{"call":2,"case_id":"math-train-00064","expression":"((2 + 3) - 7)","answer":-2,"completion":"Final answer: 0","reward":0}
+{"call":2,"case_id":"math-train-00064","expression":"((2 + 3) - 7)","answer":-2,"completion":"Final answer: 0","reward":0}
+{"call":2,"case_id":"math-train-00039","expression":"(8 + ((9 - 3) * 3))","answer":26,"completion":"Final answer: 24","reward":0}
+{"call":2,"case_id":"math-train-00039","expression":"(8 + ((9 - 3) * 3))","answer":26,"completion":"Final answer: 24","reward":0}
+{"call":2,"case_id":"math-train-00039","expression":"(8 + ((9 - 3) * 3))","answer":26,"completion":"Final answer: 24","reward":0}
+{"call":2,"case_id":"math-train-00039","expression":"(8 + ((9 - 3) * 3))","answer":26,"completion":"Final answer: 25","reward":0}
+{"call":2,"case_id":"math-train-00039","expression":"(8 + ((9 - 3) * 3))","answer":26,"completion":"Final answer: 24","reward":0}
+{"call":2,"case_id":"math-train-00039","expression":"(8 + ((9 - 3) * 3))","answer":26,"completion":"Final answer: 27","reward":0}
+{"call":2,"case_id":"math-train-00039","expression":"(8 + ((9 - 3) * 3))","answer":26,"completion":"Final answer: 24","reward":0}
+{"call":2,"case_id":"math-train-00039","expression":"(8 + ((9 - 3) * 3))","answer":26,"completion":"Final answer: 24","reward":0}
+{"call":3,"case_id":"math-train-00191","expression":"(9 * (9 + 4))","answer":117,"completion":"Final answer: 105","reward":0}
+{"call":3,"case_id":"math-train-00191","expression":"(9 * (9 + 4))","answer":117,"completion":"Final answer: 109","reward":0}
+{"call":3,"case_id":"math-train-00191","expression":"(9 * (9 + 4))","answer":117,"completion":"Final answer: 103","reward":0}
+{"call":3,"case_id":"math-train-00191","expression":"(9 * (9 + 4))","answer":117,"completion":"Final answer: 105","reward":0}
+{"call":3,"case_id":"math-train-00191","expression":"(9 * (9 + 4))","answer":117,"completion":"Final answer: 103","reward":0}
+{"call":3,"case_id":"math-train-00191","expression":"(9 * (9 + 4))","answer":117,"completion":"Final answer: 101","reward":0}
+{"call":3,"case_id":"math-train-00191","expression":"(9 * (9 + 4))","answer":117,"completion":"Final answer: 101","reward":0}
+{"call":3,"case_id":"math-train-00191","expression":"(9 * (9 + 4))","answer":117,"completion":"Final answer: 93","reward":0}
+{"call":3,"case_id":"math-train-00052","expression":"((5 + 7) - 5)","answer":7,"completion":"Final answer: 7","reward":1}
+{"call":3,"case_id":"math-train-00052","expression":"((5 + 7) - 5)","answer":7,"completion":"Final answer: 9","reward":0}
+{"call":3,"case_id":"math-train-00052","expression":"((5 + 7) - 5)","answer":7,"completion":"Final answer: 9","reward":0}
+{"call":3,"case_id":"math-train-00052","expression":"((5 + 7) - 5)","answer":7,"completion":"Final answer: 9","reward":0}
+{"call":3,"case_id":"math-train-00052","expression":"((5 + 7) - 5)","answer":7,"completion":"Final answer: 9","reward":0}
+{"call":3,"case_id":"math-train-00052","expression":"((5 + 7) - 5)","answer":7,"completion":"Final answer: 9","reward":0}
+{"call":3,"case_id":"math-train-00052","expression":"((5 + 7) - 5)","answer":7,"completion":"Final answer: 9","reward":0}
+{"call":3,"case_id":"math-train-00052","expression":"((5 + 7) - 5)","answer":7,"completion":"Final answer: 9","reward":0}
+{"call":3,"case_id":"math-train-00176","expression":"((5 + 7) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":3,"case_id":"math-train-00176","expression":"((5 + 7) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":3,"case_id":"math-train-00176","expression":"((5 + 7) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":3,"case_id":"math-train-00176","expression":"((5 + 7) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":3,"case_id":"math-train-00176","expression":"((5 + 7) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":3,"case_id":"math-train-00176","expression":"((5 + 7) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":3,"case_id":"math-train-00176","expression":"((5 + 7) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":3,"case_id":"math-train-00176","expression":"((5 + 7) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":3,"case_id":"math-train-00055","expression":"(0 - (6 + 4))","answer":-10,"completion":"Final answer: -10","reward":1}
+{"call":3,"case_id":"math-train-00055","expression":"(0 - (6 + 4))","answer":-10,"completion":"Final answer: -10","reward":1}
+{"call":3,"case_id":"math-train-00055","expression":"(0 - (6 + 4))","answer":-10,"completion":"Final answer: -10","reward":1}
+{"call":3,"case_id":"math-train-00055","expression":"(0 - (6 + 4))","answer":-10,"completion":"Final answer: -10","reward":1}
+{"call":3,"case_id":"math-train-00055","expression":"(0 - (6 + 4))","answer":-10,"completion":"Final answer: -10","reward":1}
+{"call":3,"case_id":"math-train-00055","expression":"(0 - (6 + 4))","answer":-10,"completion":"Final answer: -10","reward":1}
+{"call":3,"case_id":"math-train-00055","expression":"(0 - (6 + 4))","answer":-10,"completion":"Final answer: -10","reward":1}
+{"call":3,"case_id":"math-train-00055","expression":"(0 - (6 + 4))","answer":-10,"completion":"Final answer: -10","reward":1}
+{"call":3,"case_id":"math-train-00017","expression":"(4 + (7 * 6))","answer":46,"completion":"Final answer: 47","reward":0}
+{"call":3,"case_id":"math-train-00017","expression":"(4 + (7 * 6))","answer":46,"completion":"Final answer: 45","reward":0}
+{"call":3,"case_id":"math-train-00017","expression":"(4 + (7 * 6))","answer":46,"completion":"Final answer: 45","reward":0}
+{"call":3,"case_id":"math-train-00017","expression":"(4 + (7 * 6))","answer":46,"completion":"Final answer: 46","reward":1}
+{"call":3,"case_id":"math-train-00017","expression":"(4 + (7 * 6))","answer":46,"completion":"Final answer: 54","reward":0}
+{"call":3,"case_id":"math-train-00017","expression":"(4 + (7 * 6))","answer":46,"completion":"Final answer: 54","reward":0}
+{"call":3,"case_id":"math-train-00017","expression":"(4 + (7 * 6))","answer":46,"completion":"Final answer: 55","reward":0}
+{"call":3,"case_id":"math-train-00017","expression":"(4 + (7 * 6))","answer":46,"completion":"Final answer: 54","reward":0}
+{"call":3,"case_id":"math-train-00083","expression":"(7 * (8 + 7))","answer":105,"completion":"Final answer: 79","reward":0}
+{"call":3,"case_id":"math-train-00083","expression":"(7 * (8 + 7))","answer":105,"completion":"Final answer: 85","reward":0}
+{"call":3,"case_id":"math-train-00083","expression":"(7 * (8 + 7))","answer":105,"completion":"Final answer: 84","reward":0}
+{"call":3,"case_id":"math-train-00083","expression":"(7 * (8 + 7))","answer":105,"completion":"Final answer: 79","reward":0}
+{"call":3,"case_id":"math-train-00083","expression":"(7 * (8 + 7))","answer":105,"completion":"Final answer: 75","reward":0}
+{"call":3,"case_id":"math-train-00083","expression":"(7 * (8 + 7))","answer":105,"completion":"Final answer: 83","reward":0}
+{"call":3,"case_id":"math-train-00083","expression":"(7 * (8 + 7))","answer":105,"completion":"Final answer: 85","reward":0}
+{"call":3,"case_id":"math-train-00083","expression":"(7 * (8 + 7))","answer":105,"completion":"Final answer: 85","reward":0}
+{"call":3,"case_id":"math-train-00116","expression":"((2 + 6) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":3,"case_id":"math-train-00116","expression":"((2 + 6) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":3,"case_id":"math-train-00116","expression":"((2 + 6) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":3,"case_id":"math-train-00116","expression":"((2 + 6) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":3,"case_id":"math-train-00116","expression":"((2 + 6) * 0)","answer":0,"completion":"Final answer: 12","reward":0}
+{"call":3,"case_id":"math-train-00116","expression":"((2 + 6) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":3,"case_id":"math-train-00116","expression":"((2 + 6) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":3,"case_id":"math-train-00116","expression":"((2 + 6) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":3,"case_id":"math-train-00048","expression":"(((9 + 3) - 1) * 5)","answer":55,"completion":"Final answer: 30","reward":0}
+{"call":3,"case_id":"math-train-00048","expression":"(((9 + 3) - 1) * 5)","answer":55,"completion":"Final answer: 40","reward":0}
+{"call":3,"case_id":"math-train-00048","expression":"(((9 + 3) - 1) * 5)","answer":55,"completion":"Final answer: 35","reward":0}
+{"call":3,"case_id":"math-train-00048","expression":"(((9 + 3) - 1) * 5)","answer":55,"completion":"Final answer: 25","reward":0}
+{"call":3,"case_id":"math-train-00048","expression":"(((9 + 3) - 1) * 5)","answer":55,"completion":"Final answer: 40","reward":0}
+{"call":3,"case_id":"math-train-00048","expression":"(((9 + 3) - 1) * 5)","answer":55,"completion":"Final answer: 30","reward":0}
+{"call":3,"case_id":"math-train-00048","expression":"(((9 + 3) - 1) * 5)","answer":55,"completion":"Final answer: 25","reward":0}
+{"call":3,"case_id":"math-train-00048","expression":"(((9 + 3) - 1) * 5)","answer":55,"completion":"Final answer: 40","reward":0}
+{"call":4,"case_id":"math-train-00135","expression":"((9 - 4) - (0 * 7))","answer":5,"completion":"Final answer: 5","reward":1}
+{"call":4,"case_id":"math-train-00135","expression":"((9 - 4) - (0 * 7))","answer":5,"completion":"Final answer: 15","reward":0}
+{"call":4,"case_id":"math-train-00135","expression":"((9 - 4) - (0 * 7))","answer":5,"completion":"Final answer: 11","reward":0}
+{"call":4,"case_id":"math-train-00135","expression":"((9 - 4) - (0 * 7))","answer":5,"completion":"Final answer: 5","reward":1}
+{"call":4,"case_id":"math-train-00135","expression":"((9 - 4) - (0 * 7))","answer":5,"completion":"Final answer: 5","reward":1}
+{"call":4,"case_id":"math-train-00135","expression":"((9 - 4) - (0 * 7))","answer":5,"completion":"Final answer: 13","reward":0}
+{"call":4,"case_id":"math-train-00135","expression":"((9 - 4) - (0 * 7))","answer":5,"completion":"Final answer: 13","reward":0}
+{"call":4,"case_id":"math-train-00135","expression":"((9 - 4) - (0 * 7))","answer":5,"completion":"Final answer: 2","reward":0}
+{"call":4,"case_id":"math-train-00076","expression":"((2 + 7) - 7)","answer":2,"completion":"Final answer: 3","reward":0}
+{"call":4,"case_id":"math-train-00076","expression":"((2 + 7) - 7)","answer":2,"completion":"Final answer: 3","reward":0}
+{"call":4,"case_id":"math-train-00076","expression":"((2 + 7) - 7)","answer":2,"completion":"Final answer: 3","reward":0}
+{"call":4,"case_id":"math-train-00076","expression":"((2 + 7) - 7)","answer":2,"completion":"Final answer: 3","reward":0}
+{"call":4,"case_id":"math-train-00076","expression":"((2 + 7) - 7)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":4,"case_id":"math-train-00076","expression":"((2 + 7) - 7)","answer":2,"completion":"Final answer: 3","reward":0}
+{"call":4,"case_id":"math-train-00076","expression":"((2 + 7) - 7)","answer":2,"completion":"Final answer: 3","reward":0}
+{"call":4,"case_id":"math-train-00076","expression":"((2 + 7) - 7)","answer":2,"completion":"Final answer: 3","reward":0}
+{"call":4,"case_id":"math-train-00077","expression":"(4 + (7 * 4))","answer":32,"completion":"Final answer: 36","reward":0}
+{"call":4,"case_id":"math-train-00077","expression":"(4 + (7 * 4))","answer":32,"completion":"Final answer: 35","reward":0}
+{"call":4,"case_id":"math-train-00077","expression":"(4 + (7 * 4))","answer":32,"completion":"Final answer: 35","reward":0}
+{"call":4,"case_id":"math-train-00077","expression":"(4 + (7 * 4))","answer":32,"completion":"Final answer: 35","reward":0}
+{"call":4,"case_id":"math-train-00077","expression":"(4 + (7 * 4))","answer":32,"completion":"Final answer: 35","reward":0}
+{"call":4,"case_id":"math-train-00077","expression":"(4 + (7 * 4))","answer":32,"completion":"Final answer: 35","reward":0}
+{"call":4,"case_id":"math-train-00077","expression":"(4 + (7 * 4))","answer":32,"completion":"Final answer: 35","reward":0}
+{"call":4,"case_id":"math-train-00077","expression":"(4 + (7 * 4))","answer":32,"completion":"Final answer: 35","reward":0}
+{"call":4,"case_id":"math-train-00148","expression":"((6 + 6) - 1)","answer":11,"completion":"Final answer: 11","reward":1}
+{"call":4,"case_id":"math-train-00148","expression":"((6 + 6) - 1)","answer":11,"completion":"Final answer: 11","reward":1}
+{"call":4,"case_id":"math-train-00148","expression":"((6 + 6) - 1)","answer":11,"completion":"Final answer: 11","reward":1}
+{"call":4,"case_id":"math-train-00148","expression":"((6 + 6) - 1)","answer":11,"completion":"Final answer: 11","reward":1}
+{"call":4,"case_id":"math-train-00148","expression":"((6 + 6) - 1)","answer":11,"completion":"Final answer: 11","reward":1}
+{"call":4,"case_id":"math-train-00148","expression":"((6 + 6) - 1)","answer":11,"completion":"Final answer: 11","reward":1}
+{"call":4,"case_id":"math-train-00148","expression":"((6 + 6) - 1)","answer":11,"completion":"Final answer: 11","reward":1}
+{"call":4,"case_id":"math-train-00148","expression":"((6 + 6) - 1)","answer":11,"completion":"Final answer: 11","reward":1}
+{"call":4,"case_id":"math-train-00178","expression":"((3 - 5) - 1)","answer":-3,"completion":"Final answer: -3","reward":1}
+{"call":4,"case_id":"math-train-00178","expression":"((3 - 5) - 1)","answer":-3,"completion":"Final answer: -3","reward":1}
+{"call":4,"case_id":"math-train-00178","expression":"((3 - 5) - 1)","answer":-3,"completion":"Final answer: -7","reward":0}
+{"call":4,"case_id":"math-train-00178","expression":"((3 - 5) - 1)","answer":-3,"completion":"Final answer: -3","reward":1}
+{"call":4,"case_id":"math-train-00178","expression":"((3 - 5) - 1)","answer":-3,"completion":"Final answer: -6","reward":0}
+{"call":4,"case_id":"math-train-00178","expression":"((3 - 5) - 1)","answer":-3,"completion":"Final answer: 1","reward":0}
+{"call":4,"case_id":"math-train-00178","expression":"((3 - 5) - 1)","answer":-3,"completion":"Final answer: 3","reward":0}
+{"call":4,"case_id":"math-train-00178","expression":"((3 - 5) - 1)","answer":-3,"completion":"Final answer: 2","reward":0}
+{"call":4,"case_id":"math-train-00067","expression":"(0 - (3 + 0))","answer":-3,"completion":"Final answer: -3","reward":1}
+{"call":4,"case_id":"math-train-00067","expression":"(0 - (3 + 0))","answer":-3,"completion":"Final answer: -3","reward":1}
+{"call":4,"case_id":"math-train-00067","expression":"(0 - (3 + 0))","answer":-3,"completion":"Final answer: -3","reward":1}
+{"call":4,"case_id":"math-train-00067","expression":"(0 - (3 + 0))","answer":-3,"completion":"Final answer: -3","reward":1}
+{"call":4,"case_id":"math-train-00067","expression":"(0 - (3 + 0))","answer":-3,"completion":"Final answer: -3","reward":1}
+{"call":4,"case_id":"math-train-00067","expression":"(0 - (3 + 0))","answer":-3,"completion":"Final answer: -3","reward":1}
+{"call":4,"case_id":"math-train-00067","expression":"(0 - (3 + 0))","answer":-3,"completion":"Final answer: -3","reward":1}
+{"call":4,"case_id":"math-train-00067","expression":"(0 - (3 + 0))","answer":-3,"completion":"Final answer: -3","reward":1}
+{"call":4,"case_id":"math-train-00027","expression":"((8 - 9) - (4 * 1))","answer":-5,"completion":"Final answer: 7","reward":0}
+{"call":4,"case_id":"math-train-00027","expression":"((8 - 9) - (4 * 1))","answer":-5,"completion":"Final answer: -3","reward":0}
+{"call":4,"case_id":"math-train-00027","expression":"((8 - 9) - (4 * 1))","answer":-5,"completion":"Final answer: -11","reward":0}
+{"call":4,"case_id":"math-train-00027","expression":"((8 - 9) - (4 * 1))","answer":-5,"completion":"Final answer: 1","reward":0}
+{"call":4,"case_id":"math-train-00027","expression":"((8 - 9) - (4 * 1))","answer":-5,"completion":"Final answer: -1","reward":0}
+{"call":4,"case_id":"math-train-00027","expression":"((8 - 9) - (4 * 1))","answer":-5,"completion":"Final answer: 1","reward":0}
+{"call":4,"case_id":"math-train-00027","expression":"((8 - 9) - (4 * 1))","answer":-5,"completion":"Final answer: -1","reward":0}
+{"call":4,"case_id":"math-train-00027","expression":"((8 - 9) - (4 * 1))","answer":-5,"completion":"Final answer: 1","reward":0}
+{"call":4,"case_id":"math-train-00166","expression":"((0 - 2) - 3)","answer":-5,"completion":"Final answer: -5","reward":1}
+{"call":4,"case_id":"math-train-00166","expression":"((0 - 2) - 3)","answer":-5,"completion":"Final answer: -5","reward":1}
+{"call":4,"case_id":"math-train-00166","expression":"((0 - 2) - 3)","answer":-5,"completion":"Final answer: -5","reward":1}
+{"call":4,"case_id":"math-train-00166","expression":"((0 - 2) - 3)","answer":-5,"completion":"Final answer: -5","reward":1}
+{"call":4,"case_id":"math-train-00166","expression":"((0 - 2) - 3)","answer":-5,"completion":"Final answer: -5","reward":1}
+{"call":4,"case_id":"math-train-00166","expression":"((0 - 2) - 3)","answer":-5,"completion":"Final answer: -5","reward":1}
+{"call":4,"case_id":"math-train-00166","expression":"((0 - 2) - 3)","answer":-5,"completion":"Final answer: -5","reward":1}
+{"call":4,"case_id":"math-train-00166","expression":"((0 - 2) - 3)","answer":-5,"completion":"Final answer: -5","reward":1}
+{"call":5,"case_id":"math-train-00047","expression":"(8 * (0 + 3))","answer":24,"completion":"Final answer: 24","reward":1}
+{"call":5,"case_id":"math-train-00047","expression":"(8 * (0 + 3))","answer":24,"completion":"Final answer: 24","reward":1}
+{"call":5,"case_id":"math-train-00047","expression":"(8 * (0 + 3))","answer":24,"completion":"Final answer: 24","reward":1}
+{"call":5,"case_id":"math-train-00047","expression":"(8 * (0 + 3))","answer":24,"completion":"Final answer: 24","reward":1}
+{"call":5,"case_id":"math-train-00047","expression":"(8 * (0 + 3))","answer":24,"completion":"Final answer: 24","reward":1}
+{"call":5,"case_id":"math-train-00047","expression":"(8 * (0 + 3))","answer":24,"completion":"Final answer: 24","reward":1}
+{"call":5,"case_id":"math-train-00047","expression":"(8 * (0 + 3))","answer":24,"completion":"Final answer: 24","reward":1}
+{"call":5,"case_id":"math-train-00047","expression":"(8 * (0 + 3))","answer":24,"completion":"Final answer: 24","reward":1}
+{"call":5,"case_id":"math-train-00168","expression":"((0 * 5) - (3 + 8))","answer":-11,"completion":"Final answer: -11","reward":1}
+{"call":5,"case_id":"math-train-00168","expression":"((0 * 5) - (3 + 8))","answer":-11,"completion":"Final answer: 13","reward":0}
+{"call":5,"case_id":"math-train-00168","expression":"((0 * 5) - (3 + 8))","answer":-11,"completion":"Final answer: -23","reward":0}
+{"call":5,"case_id":"math-train-00168","expression":"((0 * 5) - (3 + 8))","answer":-11,"completion":"Final answer: -19","reward":0}
+{"call":5,"case_id":"math-train-00168","expression":"((0 * 5) - (3 + 8))","answer":-11,"completion":"Final answer: -17","reward":0}
+{"call":5,"case_id":"math-train-00168","expression":"((0 * 5) - (3 + 8))","answer":-11,"completion":"Final answer: 17","reward":0}
+{"call":5,"case_id":"math-train-00168","expression":"((0 * 5) - (3 + 8))","answer":-11,"completion":"Final answer: -23","reward":0}
+{"call":5,"case_id":"math-train-00168","expression":"((0 * 5) - (3 + 8))","answer":-11,"completion":"Final answer: -22","reward":0}
+{"call":5,"case_id":"math-train-00080","expression":"((4 + 9) * 1)","answer":13,"completion":"Final answer: 45","reward":0}
+{"call":5,"case_id":"math-train-00080","expression":"((4 + 9) * 1)","answer":13,"completion":"Final answer: 45","reward":0}
+{"call":5,"case_id":"math-train-00080","expression":"((4 + 9) * 1)","answer":13,"completion":"Final answer: 45","reward":0}
+{"call":5,"case_id":"math-train-00080","expression":"((4 + 9) * 1)","answer":13,"completion":"Final answer: 45","reward":0}
+{"call":5,"case_id":"math-train-00080","expression":"((4 + 9) * 1)","answer":13,"completion":"Final answer: 45","reward":0}
+{"call":5,"case_id":"math-train-00080","expression":"((4 + 9) * 1)","answer":13,"completion":"Final answer: 45","reward":0}
+{"call":5,"case_id":"math-train-00080","expression":"((4 + 9) * 1)","answer":13,"completion":"Final answer: 45","reward":0}
+{"call":5,"case_id":"math-train-00080","expression":"((4 + 9) * 1)","answer":13,"completion":"Final answer: 33","reward":0}
+{"call":5,"case_id":"math-train-00132","expression":"((7 + 4) * (9 + 0))","answer":99,"completion":"Final answer: 63","reward":0}
+{"call":5,"case_id":"math-train-00132","expression":"((7 + 4) * (9 + 0))","answer":99,"completion":"Final answer: 56","reward":0}
+{"call":5,"case_id":"math-train-00132","expression":"((7 + 4) * (9 + 0))","answer":99,"completion":"Final answer: 72","reward":0}
+{"call":5,"case_id":"math-train-00132","expression":"((7 + 4) * (9 + 0))","answer":99,"completion":"Final answer: 81","reward":0}
+{"call":5,"case_id":"math-train-00132","expression":"((7 + 4) * (9 + 0))","answer":99,"completion":"Final answer: 84","reward":0}
+{"call":5,"case_id":"math-train-00132","expression":"((7 + 4) * (9 + 0))","answer":99,"completion":"Final answer: 63","reward":0}
+{"call":5,"case_id":"math-train-00132","expression":"((7 + 4) * (9 + 0))","answer":99,"completion":"Final answer: 75","reward":0}
+{"call":5,"case_id":"math-train-00132","expression":"((7 + 4) * (9 + 0))","answer":99,"completion":"Final answer: 63","reward":0}
+{"call":5,"case_id":"math-train-00105","expression":"(((0 - 0) * 2) - 2)","answer":-2,"completion":"Final answer: -4","reward":0}
+{"call":5,"case_id":"math-train-00105","expression":"(((0 - 0) * 2) - 2)","answer":-2,"completion":"Final answer: -2","reward":1}
+{"call":5,"case_id":"math-train-00105","expression":"(((0 - 0) * 2) - 2)","answer":-2,"completion":"Final answer: -4","reward":0}
+{"call":5,"case_id":"math-train-00105","expression":"(((0 - 0) * 2) - 2)","answer":-2,"completion":"Final answer: -2","reward":1}
+{"call":5,"case_id":"math-train-00105","expression":"(((0 - 0) * 2) - 2)","answer":-2,"completion":"Final answer: -4","reward":0}
+{"call":5,"case_id":"math-train-00105","expression":"(((0 - 0) * 2) - 2)","answer":-2,"completion":"Final answer: -4","reward":0}
+{"call":5,"case_id":"math-train-00105","expression":"(((0 - 0) * 2) - 2)","answer":-2,"completion":"Final answer: -4","reward":0}
+{"call":5,"case_id":"math-train-00105","expression":"(((0 - 0) * 2) - 2)","answer":-2,"completion":"Final answer: -2","reward":1}
+{"call":5,"case_id":"math-train-00113","expression":"(2 + (0 * 6))","answer":2,"completion":"Final answer: 12","reward":0}
+{"call":5,"case_id":"math-train-00113","expression":"(2 + (0 * 6))","answer":2,"completion":"Final answer: 8","reward":0}
+{"call":5,"case_id":"math-train-00113","expression":"(2 + (0 * 6))","answer":2,"completion":"Final answer: 8","reward":0}
+{"call":5,"case_id":"math-train-00113","expression":"(2 + (0 * 6))","answer":2,"completion":"Final answer: 8","reward":0}
+{"call":5,"case_id":"math-train-00113","expression":"(2 + (0 * 6))","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":5,"case_id":"math-train-00113","expression":"(2 + (0 * 6))","answer":2,"completion":"Final answer: 8","reward":0}
+{"call":5,"case_id":"math-train-00113","expression":"(2 + (0 * 6))","answer":2,"completion":"Final answer: 12","reward":0}
+{"call":5,"case_id":"math-train-00113","expression":"(2 + (0 * 6))","answer":2,"completion":"Final answer: 22","reward":0}
+{"call":5,"case_id":"math-train-00114","expression":"(4 - (9 * (1 + 8)))","answer":-77,"completion":"Final answer: 25","reward":0}
+{"call":5,"case_id":"math-train-00114","expression":"(4 - (9 * (1 + 8)))","answer":-77,"completion":"Final answer: 17","reward":0}
+{"call":5,"case_id":"math-train-00114","expression":"(4 - (9 * (1 + 8)))","answer":-77,"completion":"Final answer: 15","reward":0}
+{"call":5,"case_id":"math-train-00114","expression":"(4 - (9 * (1 + 8)))","answer":-77,"completion":"Final answer: 57","reward":0}
+{"call":5,"case_id":"math-train-00114","expression":"(4 - (9 * (1 + 8)))","answer":-77,"completion":"Final answer: 11","reward":0}
+{"call":5,"case_id":"math-train-00114","expression":"(4 - (9 * (1 + 8)))","answer":-77,"completion":"Final answer: 17","reward":0}
+{"call":5,"case_id":"math-train-00114","expression":"(4 - (9 * (1 + 8)))","answer":-77,"completion":"Final answer: 21","reward":0}
+{"call":5,"case_id":"math-train-00114","expression":"(4 - (9 * (1 + 8)))","answer":-77,"completion":"Final answer: 7","reward":0}
+{"call":5,"case_id":"math-train-00153","expression":"(((7 + 3) + 6) * 8)","answer":128,"completion":"Final answer: 448","reward":0}
+{"call":5,"case_id":"math-train-00153","expression":"(((7 + 3) + 6) * 8)","answer":128,"completion":"Final answer: 832","reward":0}
+{"call":5,"case_id":"math-train-00153","expression":"(((7 + 3) + 6) * 8)","answer":128,"completion":"Final answer: 784","reward":0}
+{"call":5,"case_id":"math-train-00153","expression":"(((7 + 3) + 6) * 8)","answer":128,"completion":"Final answer: 122","reward":0}
+{"call":5,"case_id":"math-train-00153","expression":"(((7 + 3) + 6) * 8)","answer":128,"completion":"Final answer: 128","reward":1}
+{"call":5,"case_id":"math-train-00153","expression":"(((7 + 3) + 6) * 8)","answer":128,"completion":"Final answer: 682","reward":0}
+{"call":5,"case_id":"math-train-00153","expression":"(((7 + 3) + 6) * 8)","answer":128,"completion":"Final answer: 280","reward":0}
+{"call":5,"case_id":"math-train-00153","expression":"(((7 + 3) + 6) * 8)","answer":128,"completion":"Final answer: 948","reward":0}
+{"call":6,"case_id":"math-train-00063","expression":"(1 + (5 * (7 - 3)))","answer":21,"completion":"Final answer: 25","reward":0}
+{"call":6,"case_id":"math-train-00063","expression":"(1 + (5 * (7 - 3)))","answer":21,"completion":"Final answer: 25","reward":0}
+{"call":6,"case_id":"math-train-00063","expression":"(1 + (5 * (7 - 3)))","answer":21,"completion":"Final answer: 30","reward":0}
+{"call":6,"case_id":"math-train-00063","expression":"(1 + (5 * (7 - 3)))","answer":21,"completion":"Final answer: 25","reward":0}
+{"call":6,"case_id":"math-train-00063","expression":"(1 + (5 * (7 - 3)))","answer":21,"completion":"Final answer: 21","reward":1}
+{"call":6,"case_id":"math-train-00063","expression":"(1 + (5 * (7 - 3)))","answer":21,"completion":"Final answer: 25","reward":0}
+{"call":6,"case_id":"math-train-00063","expression":"(1 + (5 * (7 - 3)))","answer":21,"completion":"Final answer: 25","reward":0}
+{"call":6,"case_id":"math-train-00063","expression":"(1 + (5 * (7 - 3)))","answer":21,"completion":"Final answer: 25","reward":0}
+{"call":6,"case_id":"math-train-00012","expression":"(7 * ((7 + 2) - 3))","answer":42,"completion":"Final answer: 37","reward":0}
+{"call":6,"case_id":"math-train-00012","expression":"(7 * ((7 + 2) - 3))","answer":42,"completion":"Final answer: 42","reward":1}
+{"call":6,"case_id":"math-train-00012","expression":"(7 * ((7 + 2) - 3))","answer":42,"completion":"Final answer: 49","reward":0}
+{"call":6,"case_id":"math-train-00012","expression":"(7 * ((7 + 2) - 3))","answer":42,"completion":"Final answer: 65","reward":0}
+{"call":6,"case_id":"math-train-00012","expression":"(7 * ((7 + 2) - 3))","answer":42,"completion":"Final answer: 59","reward":0}
+{"call":6,"case_id":"math-train-00012","expression":"(7 * ((7 + 2) - 3))","answer":42,"completion":"Final answer: 54","reward":0}
+{"call":6,"case_id":"math-train-00012","expression":"(7 * ((7 + 2) - 3))","answer":42,"completion":"Final answer: 42","reward":1}
+{"call":6,"case_id":"math-train-00012","expression":"(7 * ((7 + 2) - 3))","answer":42,"completion":"Final answer: 52","reward":0}
+{"call":6,"case_id":"math-train-00073","expression":"(1 + (8 - 5))","answer":4,"completion":"Final answer: 13","reward":0}
+{"call":6,"case_id":"math-train-00073","expression":"(1 + (8 - 5))","answer":4,"completion":"Final answer: 13","reward":0}
+{"call":6,"case_id":"math-train-00073","expression":"(1 + (8 - 5))","answer":4,"completion":"Final answer: 13","reward":0}
+{"call":6,"case_id":"math-train-00073","expression":"(1 + (8 - 5))","answer":4,"completion":"Final answer: 13","reward":0}
+{"call":6,"case_id":"math-train-00073","expression":"(1 + (8 - 5))","answer":4,"completion":"Final answer: 13","reward":0}
+{"call":6,"case_id":"math-train-00073","expression":"(1 + (8 - 5))","answer":4,"completion":"Final answer: 13","reward":0}
+{"call":6,"case_id":"math-train-00073","expression":"(1 + (8 - 5))","answer":4,"completion":"Final answer: 13","reward":0}
+{"call":6,"case_id":"math-train-00073","expression":"(1 + (8 - 5))","answer":4,"completion":"Final answer: 13","reward":0}
+{"call":6,"case_id":"math-train-00041","expression":"(8 + (0 * 2))","answer":8,"completion":"Final answer: 8","reward":1}
+{"call":6,"case_id":"math-train-00041","expression":"(8 + (0 * 2))","answer":8,"completion":"Final answer: 82","reward":0}
+{"call":6,"case_id":"math-train-00041","expression":"(8 + (0 * 2))","answer":8,"completion":"Final answer: 8","reward":1}
+{"call":6,"case_id":"math-train-00041","expression":"(8 + (0 * 2))","answer":8,"completion":"Final answer: 8","reward":1}
+{"call":6,"case_id":"math-train-00041","expression":"(8 + (0 * 2))","answer":8,"completion":"Final answer: 8","reward":1}
+{"call":6,"case_id":"math-train-00041","expression":"(8 + (0 * 2))","answer":8,"completion":"Final answer: 8","reward":1}
+{"call":6,"case_id":"math-train-00041","expression":"(8 + (0 * 2))","answer":8,"completion":"Final answer: 8","reward":1}
+{"call":6,"case_id":"math-train-00041","expression":"(8 + (0 * 2))","answer":8,"completion":"Final answer: 10","reward":0}
+{"call":6,"case_id":"math-train-00086","expression":"((9 * 5) - 6)","answer":39,"completion":"Final answer: 39","reward":1}
+{"call":6,"case_id":"math-train-00086","expression":"((9 * 5) - 6)","answer":39,"completion":"Final answer: 39","reward":1}
+{"call":6,"case_id":"math-train-00086","expression":"((9 * 5) - 6)","answer":39,"completion":"Final answer: 27","reward":0}
+{"call":6,"case_id":"math-train-00086","expression":"((9 * 5) - 6)","answer":39,"completion":"Final answer: 39","reward":1}
+{"call":6,"case_id":"math-train-00086","expression":"((9 * 5) - 6)","answer":39,"completion":"Final answer: 42","reward":0}
+{"call":6,"case_id":"math-train-00086","expression":"((9 * 5) - 6)","answer":39,"completion":"Final answer: 27","reward":0}
+{"call":6,"case_id":"math-train-00086","expression":"((9 * 5) - 6)","answer":39,"completion":"Final answer: 39","reward":1}
+{"call":6,"case_id":"math-train-00086","expression":"((9 * 5) - 6)","answer":39,"completion":"Final answer: 39","reward":1}
+{"call":6,"case_id":"math-train-00152","expression":"((5 + 2) * 3)","answer":21,"completion":"Final answer: 19","reward":0}
+{"call":6,"case_id":"math-train-00152","expression":"((5 + 2) * 3)","answer":21,"completion":"Final answer: 19","reward":0}
+{"call":6,"case_id":"math-train-00152","expression":"((5 + 2) * 3)","answer":21,"completion":"Final answer: 19","reward":0}
+{"call":6,"case_id":"math-train-00152","expression":"((5 + 2) * 3)","answer":21,"completion":"Final answer: 19","reward":0}
+{"call":6,"case_id":"math-train-00152","expression":"((5 + 2) * 3)","answer":21,"completion":"Final answer: 17","reward":0}
+{"call":6,"case_id":"math-train-00152","expression":"((5 + 2) * 3)","answer":21,"completion":"Final answer: 20","reward":0}
+{"call":6,"case_id":"math-train-00152","expression":"((5 + 2) * 3)","answer":21,"completion":"Final answer: 20.","reward":0}
+{"call":6,"case_id":"math-train-00152","expression":"((5 + 2) * 3)","answer":21,"completion":"Final answer: 19","reward":0}
+{"call":6,"case_id":"math-train-00141","expression":"(6 - ((0 - 4) * 1))","answer":10,"completion":"Final answer: 2","reward":0}
+{"call":6,"case_id":"math-train-00141","expression":"(6 - ((0 - 4) * 1))","answer":10,"completion":"Final answer: -24","reward":0}
+{"call":6,"case_id":"math-train-00141","expression":"(6 - ((0 - 4) * 1))","answer":10,"completion":"Final answer: 8","reward":0}
+{"call":6,"case_id":"math-train-00141","expression":"(6 - ((0 - 4) * 1))","answer":10,"completion":"Final answer: -8","reward":0}
+{"call":6,"case_id":"math-train-00141","expression":"(6 - ((0 - 4) * 1))","answer":10,"completion":"Final answer: -21","reward":0}
+{"call":6,"case_id":"math-train-00141","expression":"(6 - ((0 - 4) * 1))","answer":10,"completion":"Final answer: 0","reward":0}
+{"call":6,"case_id":"math-train-00141","expression":"(6 - ((0 - 4) * 1))","answer":10,"completion":"Final answer: -2","reward":0}
+{"call":6,"case_id":"math-train-00141","expression":"(6 - ((0 - 4) * 1))","answer":10,"completion":"Final answer: 10","reward":1}
+{"call":6,"case_id":"math-train-00117","expression":"((1 - (4 * 8)) + 3)","answer":-28,"completion":"Final answer: 31","reward":0}
+{"call":6,"case_id":"math-train-00117","expression":"((1 - (4 * 8)) + 3)","answer":-28,"completion":"Final answer: 21","reward":0}
+{"call":6,"case_id":"math-train-00117","expression":"((1 - (4 * 8)) + 3)","answer":-28,"completion":"Final answer: -11","reward":0}
+{"call":6,"case_id":"math-train-00117","expression":"((1 - (4 * 8)) + 3)","answer":-28,"completion":"Final answer: -19","reward":0}
+{"call":6,"case_id":"math-train-00117","expression":"((1 - (4 * 8)) + 3)","answer":-28,"completion":"Final answer: 21","reward":0}
+{"call":6,"case_id":"math-train-00117","expression":"((1 - (4 * 8)) + 3)","answer":-28,"completion":"Final answer: 21","reward":0}
+{"call":6,"case_id":"math-train-00117","expression":"((1 - (4 * 8)) + 3)","answer":-28,"completion":"Final answer: -15","reward":0}
+{"call":6,"case_id":"math-train-00117","expression":"((1 - (4 * 8)) + 3)","answer":-28,"completion":"Final answer: 15","reward":0}
+{"call":7,"case_id":"math-train-00187","expression":"(9 - (3 + 1))","answer":5,"completion":"Final answer: 6","reward":0}
+{"call":7,"case_id":"math-train-00187","expression":"(9 - (3 + 1))","answer":5,"completion":"Final answer: 6","reward":0}
+{"call":7,"case_id":"math-train-00187","expression":"(9 - (3 + 1))","answer":5,"completion":"Final answer: 5","reward":1}
+{"call":7,"case_id":"math-train-00187","expression":"(9 - (3 + 1))","answer":5,"completion":"Final answer: 6","reward":0}
+{"call":7,"case_id":"math-train-00187","expression":"(9 - (3 + 1))","answer":5,"completion":"Final answer: 6","reward":0}
+{"call":7,"case_id":"math-train-00187","expression":"(9 - (3 + 1))","answer":5,"completion":"Final answer: 6","reward":0}
+{"call":7,"case_id":"math-train-00187","expression":"(9 - (3 + 1))","answer":5,"completion":"Final answer: 6","reward":0}
+{"call":7,"case_id":"math-train-00187","expression":"(9 - (3 + 1))","answer":5,"completion":"Final answer: 6","reward":0}
+{"call":7,"case_id":"math-train-00110","expression":"((0 * 8) - 4)","answer":-4,"completion":"Final answer: -8","reward":0}
+{"call":7,"case_id":"math-train-00110","expression":"((0 * 8) - 4)","answer":-4,"completion":"Final answer: -12","reward":0}
+{"call":7,"case_id":"math-train-00110","expression":"((0 * 8) - 4)","answer":-4,"completion":"Final answer: -8","reward":0}
+{"call":7,"case_id":"math-train-00110","expression":"((0 * 8) - 4)","answer":-4,"completion":"Final answer: -12","reward":0}
+{"call":7,"case_id":"math-train-00110","expression":"((0 * 8) - 4)","answer":-4,"completion":"Final answer: -4","reward":1}
+{"call":7,"case_id":"math-train-00110","expression":"((0 * 8) - 4)","answer":-4,"completion":"Final answer: -4","reward":1}
+{"call":7,"case_id":"math-train-00110","expression":"((0 * 8) - 4)","answer":-4,"completion":"Final answer: -16","reward":0}
+{"call":7,"case_id":"math-train-00110","expression":"((0 * 8) - 4)","answer":-4,"completion":"Final answer: -4","reward":1}
+{"call":7,"case_id":"math-train-00167","expression":"(4 * (5 + 0))","answer":20,"completion":"Final answer: 20","reward":1}
+{"call":7,"case_id":"math-train-00167","expression":"(4 * (5 + 0))","answer":20,"completion":"Final answer: 20","reward":1}
+{"call":7,"case_id":"math-train-00167","expression":"(4 * (5 + 0))","answer":20,"completion":"Final answer: 20","reward":1}
+{"call":7,"case_id":"math-train-00167","expression":"(4 * (5 + 0))","answer":20,"completion":"Final answer: 20","reward":1}
+{"call":7,"case_id":"math-train-00167","expression":"(4 * (5 + 0))","answer":20,"completion":"Final answer: 20","reward":1}
+{"call":7,"case_id":"math-train-00167","expression":"(4 * (5 + 0))","answer":20,"completion":"Final answer: 20","reward":1}
+{"call":7,"case_id":"math-train-00167","expression":"(4 * (5 + 0))","answer":20,"completion":"Final answer: 20","reward":1}
+{"call":7,"case_id":"math-train-00167","expression":"(4 * (5 + 0))","answer":20,"completion":"Final answer: 20","reward":1}
+{"call":7,"case_id":"math-train-00100","expression":"((9 + 7) - 6)","answer":10,"completion":"Final answer: 11","reward":0}
+{"call":7,"case_id":"math-train-00100","expression":"((9 + 7) - 6)","answer":10,"completion":"Final answer: 11","reward":0}
+{"call":7,"case_id":"math-train-00100","expression":"((9 + 7) - 6)","answer":10,"completion":"Final answer: 11","reward":0}
+{"call":7,"case_id":"math-train-00100","expression":"((9 + 7) - 6)","answer":10,"completion":"Final answer: 11","reward":0}
+{"call":7,"case_id":"math-train-00100","expression":"((9 + 7) - 6)","answer":10,"completion":"Final answer: 12","reward":0}
+{"call":7,"case_id":"math-train-00100","expression":"((9 + 7) - 6)","answer":10,"completion":"Final answer: 11","reward":0}
+{"call":7,"case_id":"math-train-00100","expression":"((9 + 7) - 6)","answer":10,"completion":"Final answer: 11","reward":0}
+{"call":7,"case_id":"math-train-00100","expression":"((9 + 7) - 6)","answer":10,"completion":"Final answer: 12","reward":0}
+{"call":7,"case_id":"math-train-00137","expression":"(3 + (0 * 6))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":7,"case_id":"math-train-00137","expression":"(3 + (0 * 6))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":7,"case_id":"math-train-00137","expression":"(3 + (0 * 6))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":7,"case_id":"math-train-00137","expression":"(3 + (0 * 6))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":7,"case_id":"math-train-00137","expression":"(3 + (0 * 6))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":7,"case_id":"math-train-00137","expression":"(3 + (0 * 6))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":7,"case_id":"math-train-00137","expression":"(3 + (0 * 6))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":7,"case_id":"math-train-00137","expression":"(3 + (0 * 6))","answer":3,"completion":"Final answer: 9","reward":0}
+{"call":7,"case_id":"math-train-00071","expression":"(5 * (8 + 0))","answer":40,"completion":"Final answer: 48","reward":0}
+{"call":7,"case_id":"math-train-00071","expression":"(5 * (8 + 0))","answer":40,"completion":"Final answer: 45","reward":0}
+{"call":7,"case_id":"math-train-00071","expression":"(5 * (8 + 0))","answer":40,"completion":"Final answer: 40","reward":1}
+{"call":7,"case_id":"math-train-00071","expression":"(5 * (8 + 0))","answer":40,"completion":"Final answer: 40","reward":1}
+{"call":7,"case_id":"math-train-00071","expression":"(5 * (8 + 0))","answer":40,"completion":"Final answer: 44","reward":0}
+{"call":7,"case_id":"math-train-00071","expression":"(5 * (8 + 0))","answer":40,"completion":"Final answer: 45","reward":0}
+{"call":7,"case_id":"math-train-00071","expression":"(5 * (8 + 0))","answer":40,"completion":"Final answer: 40","reward":1}
+{"call":7,"case_id":"math-train-00071","expression":"(5 * (8 + 0))","answer":40,"completion":"Final answer: 40","reward":1}
+{"call":7,"case_id":"math-train-00165","expression":"(((6 * 6) + 7) + 8)","answer":51,"completion":"Final answer: 65","reward":0}
+{"call":7,"case_id":"math-train-00165","expression":"(((6 * 6) + 7) + 8)","answer":51,"completion":"Final answer: 49","reward":0}
+{"call":7,"case_id":"math-train-00165","expression":"(((6 * 6) + 7) + 8)","answer":51,"completion":"Final answer: 71","reward":0}
+{"call":7,"case_id":"math-train-00165","expression":"(((6 * 6) + 7) + 8)","answer":51,"completion":"Final answer: 49","reward":0}
+{"call":7,"case_id":"math-train-00165","expression":"(((6 * 6) + 7) + 8)","answer":51,"completion":"Final answer: 55","reward":0}
+{"call":7,"case_id":"math-train-00165","expression":"(((6 * 6) + 7) + 8)","answer":51,"completion":"Final answer: 59","reward":0}
+{"call":7,"case_id":"math-train-00165","expression":"(((6 * 6) + 7) + 8)","answer":51,"completion":"Final answer: 55","reward":0}
+{"call":7,"case_id":"math-train-00165","expression":"(((6 * 6) + 7) + 8)","answer":51,"completion":"Final answer: 55","reward":0}
+{"call":7,"case_id":"math-train-00089","expression":"(7 + (5 * 4))","answer":27,"completion":"Final answer: 21","reward":0}
+{"call":7,"case_id":"math-train-00089","expression":"(7 + (5 * 4))","answer":27,"completion":"Final answer: 31","reward":0}
+{"call":7,"case_id":"math-train-00089","expression":"(7 + (5 * 4))","answer":27,"completion":"Final answer: 31","reward":0}
+{"call":7,"case_id":"math-train-00089","expression":"(7 + (5 * 4))","answer":27,"completion":"Final answer: 31","reward":0}
+{"call":7,"case_id":"math-train-00089","expression":"(7 + (5 * 4))","answer":27,"completion":"Final answer: 29","reward":0}
+{"call":7,"case_id":"math-train-00089","expression":"(7 + (5 * 4))","answer":27,"completion":"Final answer: 31","reward":0}
+{"call":7,"case_id":"math-train-00089","expression":"(7 + (5 * 4))","answer":27,"completion":"Final answer: 23","reward":0}
+{"call":7,"case_id":"math-train-00089","expression":"(7 + (5 * 4))","answer":27,"completion":"Final answer: 31","reward":0}
+{"call":8,"case_id":"math-train-00124","expression":"((6 + 3) - 6)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":8,"case_id":"math-train-00124","expression":"((6 + 3) - 6)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":8,"case_id":"math-train-00124","expression":"((6 + 3) - 6)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":8,"case_id":"math-train-00124","expression":"((6 + 3) - 6)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":8,"case_id":"math-train-00124","expression":"((6 + 3) - 6)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":8,"case_id":"math-train-00124","expression":"((6 + 3) - 6)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":8,"case_id":"math-train-00124","expression":"((6 + 3) - 6)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":8,"case_id":"math-train-00124","expression":"((6 + 3) - 6)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":8,"case_id":"math-train-00051","expression":"((3 + (5 - 2)) * 7)","answer":42,"completion":"Final answer: 42","reward":1}
+{"call":8,"case_id":"math-train-00051","expression":"((3 + (5 - 2)) * 7)","answer":42,"completion":"Final answer: 38","reward":0}
+{"call":8,"case_id":"math-train-00051","expression":"((3 + (5 - 2)) * 7)","answer":42,"completion":"Final answer: 140","reward":0}
+{"call":8,"case_id":"math-train-00051","expression":"((3 + (5 - 2)) * 7)","answer":42,"completion":"Final answer: 35","reward":0}
+{"call":8,"case_id":"math-train-00051","expression":"((3 + (5 - 2)) * 7)","answer":42,"completion":"Final answer: 42","reward":1}
+{"call":8,"case_id":"math-train-00051","expression":"((3 + (5 - 2)) * 7)","answer":42,"completion":"Final answer: 60","reward":0}
+{"call":8,"case_id":"math-train-00051","expression":"((3 + (5 - 2)) * 7)","answer":42,"completion":"Final answer: 30","reward":0}
+{"call":8,"case_id":"math-train-00051","expression":"((3 + (5 - 2)) * 7)","answer":42,"completion":"Final answer: 56","reward":0}
+{"call":8,"case_id":"math-train-00122","expression":"((6 * 1) - 1)","answer":5,"completion":"Final answer: 5","reward":1}
+{"call":8,"case_id":"math-train-00122","expression":"((6 * 1) - 1)","answer":5,"completion":"Final answer: 5","reward":1}
+{"call":8,"case_id":"math-train-00122","expression":"((6 * 1) - 1)","answer":5,"completion":"Final answer: 5","reward":1}
+{"call":8,"case_id":"math-train-00122","expression":"((6 * 1) - 1)","answer":5,"completion":"Final answer: 5","reward":1}
+{"call":8,"case_id":"math-train-00122","expression":"((6 * 1) - 1)","answer":5,"completion":"Final answer: 5","reward":1}
+{"call":8,"case_id":"math-train-00122","expression":"((6 * 1) - 1)","answer":5,"completion":"Final answer: 5","reward":1}
+{"call":8,"case_id":"math-train-00122","expression":"((6 * 1) - 1)","answer":5,"completion":"Final answer: 5","reward":1}
+{"call":8,"case_id":"math-train-00122","expression":"((6 * 1) - 1)","answer":5,"completion":"Final answer: 5","reward":1}
+{"call":8,"case_id":"math-train-00024","expression":"((5 + 8) * (7 + 4))","answer":143,"completion":"Final answer: 94","reward":0}
+{"call":8,"case_id":"math-train-00024","expression":"((5 + 8) * (7 + 4))","answer":143,"completion":"Final answer: 78","reward":0}
+{"call":8,"case_id":"math-train-00024","expression":"((5 + 8) * (7 + 4))","answer":143,"completion":"Final answer: 68","reward":0}
+{"call":8,"case_id":"math-train-00024","expression":"((5 + 8) * (7 + 4))","answer":143,"completion":"Final answer: 94","reward":0}
+{"call":8,"case_id":"math-train-00024","expression":"((5 + 8) * (7 + 4))","answer":143,"completion":"Final answer: 84","reward":0}
+{"call":8,"case_id":"math-train-00024","expression":"((5 + 8) * (7 + 4))","answer":143,"completion":"Final answer: 84","reward":0}
+{"call":8,"case_id":"math-train-00024","expression":"((5 + 8) * (7 + 4))","answer":143,"completion":"Final answer: 88","reward":0}
+{"call":8,"case_id":"math-train-00024","expression":"((5 + 8) * (7 + 4))","answer":143,"completion":"Final answer: 76","reward":0}
+{"call":8,"case_id":"math-train-00015","expression":"((7 * (3 + 6)) + 4)","answer":67,"completion":"Final answer: 37","reward":0}
+{"call":8,"case_id":"math-train-00015","expression":"((7 * (3 + 6)) + 4)","answer":67,"completion":"Final answer: 51","reward":0}
+{"call":8,"case_id":"math-train-00015","expression":"((7 * (3 + 6)) + 4)","answer":67,"completion":"Final answer: 33","reward":0}
+{"call":8,"case_id":"math-train-00015","expression":"((7 * (3 + 6)) + 4)","answer":67,"completion":"Final answer: 35","reward":0}
+{"call":8,"case_id":"math-train-00015","expression":"((7 * (3 + 6)) + 4)","answer":67,"completion":"Final answer: 53","reward":0}
+{"call":8,"case_id":"math-train-00015","expression":"((7 * (3 + 6)) + 4)","answer":67,"completion":"Final answer: 35","reward":0}
+{"call":8,"case_id":"math-train-00015","expression":"((7 * (3 + 6)) + 4)","answer":67,"completion":"Final answer: 36","reward":0}
+{"call":8,"case_id":"math-train-00015","expression":"((7 * (3 + 6)) + 4)","answer":67,"completion":"Final answer: 45","reward":0}
+{"call":8,"case_id":"math-train-00106","expression":"((5 - 7) - 6)","answer":-8,"completion":"Final answer: -6","reward":0}
+{"call":8,"case_id":"math-train-00106","expression":"((5 - 7) - 6)","answer":-8,"completion":"Final answer: -6","reward":0}
+{"call":8,"case_id":"math-train-00106","expression":"((5 - 7) - 6)","answer":-8,"completion":"Final answer: -6","reward":0}
+{"call":8,"case_id":"math-train-00106","expression":"((5 - 7) - 6)","answer":-8,"completion":"Final answer: -6","reward":0}
+{"call":8,"case_id":"math-train-00106","expression":"((5 - 7) - 6)","answer":-8,"completion":"Final answer: -6","reward":0}
+{"call":8,"case_id":"math-train-00106","expression":"((5 - 7) - 6)","answer":-8,"completion":"Final answer: -6","reward":0}
+{"call":8,"case_id":"math-train-00106","expression":"((5 - 7) - 6)","answer":-8,"completion":"Final answer: -6","reward":0}
+{"call":8,"case_id":"math-train-00106","expression":"((5 - 7) - 6)","answer":-8,"completion":"Final answer: -6","reward":0}
+{"call":8,"case_id":"math-train-00171","expression":"(0 + (1 * (2 - 1)))","answer":1,"completion":"Final answer: 3","reward":0}
+{"call":8,"case_id":"math-train-00171","expression":"(0 + (1 * (2 - 1)))","answer":1,"completion":"Final answer: 3","reward":0}
+{"call":8,"case_id":"math-train-00171","expression":"(0 + (1 * (2 - 1)))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":8,"case_id":"math-train-00171","expression":"(0 + (1 * (2 - 1)))","answer":1,"completion":"Final answer: 3","reward":0}
+{"call":8,"case_id":"math-train-00171","expression":"(0 + (1 * (2 - 1)))","answer":1,"completion":"Final answer: 2","reward":0}
+{"call":8,"case_id":"math-train-00171","expression":"(0 + (1 * (2 - 1)))","answer":1,"completion":"Final answer: 3","reward":0}
+{"call":8,"case_id":"math-train-00171","expression":"(0 + (1 * (2 - 1)))","answer":1,"completion":"Final answer: 3","reward":0}
+{"call":8,"case_id":"math-train-00171","expression":"(0 + (1 * (2 - 1)))","answer":1,"completion":"Final answer: 3","reward":0}
+{"call":8,"case_id":"math-train-00016","expression":"((0 + 2) - 9)","answer":-7,"completion":"Final answer: -9","reward":0}
+{"call":8,"case_id":"math-train-00016","expression":"((0 + 2) - 9)","answer":-7,"completion":"Final answer: -9","reward":0}
+{"call":8,"case_id":"math-train-00016","expression":"((0 + 2) - 9)","answer":-7,"completion":"Final answer: -9","reward":0}
+{"call":8,"case_id":"math-train-00016","expression":"((0 + 2) - 9)","answer":-7,"completion":"Final answer: -9","reward":0}
+{"call":8,"case_id":"math-train-00016","expression":"((0 + 2) - 9)","answer":-7,"completion":"Final answer: -9","reward":0}
+{"call":8,"case_id":"math-train-00016","expression":"((0 + 2) - 9)","answer":-7,"completion":"Final answer: -9","reward":0}
+{"call":8,"case_id":"math-train-00016","expression":"((0 + 2) - 9)","answer":-7,"completion":"Final answer: -9","reward":0}
+{"call":8,"case_id":"math-train-00016","expression":"((0 + 2) - 9)","answer":-7,"completion":"Final answer: -9","reward":0}
+{"call":9,"case_id":"math-train-00121","expression":"(3 + (6 - 6))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":9,"case_id":"math-train-00121","expression":"(3 + (6 - 6))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":9,"case_id":"math-train-00121","expression":"(3 + (6 - 6))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":9,"case_id":"math-train-00121","expression":"(3 + (6 - 6))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":9,"case_id":"math-train-00121","expression":"(3 + (6 - 6))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":9,"case_id":"math-train-00121","expression":"(3 + (6 - 6))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":9,"case_id":"math-train-00121","expression":"(3 + (6 - 6))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":9,"case_id":"math-train-00121","expression":"(3 + (6 - 6))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":9,"case_id":"math-train-00003","expression":"((9 * (1 + 2)) - 1)","answer":26,"completion":"Final answer: 11","reward":0}
+{"call":9,"case_id":"math-train-00003","expression":"((9 * (1 + 2)) - 1)","answer":26,"completion":"Final answer: 11","reward":0}
+{"call":9,"case_id":"math-train-00003","expression":"((9 * (1 + 2)) - 1)","answer":26,"completion":"Final answer: 17","reward":0}
+{"call":9,"case_id":"math-train-00003","expression":"((9 * (1 + 2)) - 1)","answer":26,"completion":"Final answer: 11","reward":0}
+{"call":9,"case_id":"math-train-00003","expression":"((9 * (1 + 2)) - 1)","answer":26,"completion":"Final answer: 17","reward":0}
+{"call":9,"case_id":"math-train-00003","expression":"((9 * (1 + 2)) - 1)","answer":26,"completion":"Final answer: 17","reward":0}
+{"call":9,"case_id":"math-train-00003","expression":"((9 * (1 + 2)) - 1)","answer":26,"completion":"Final answer: 11","reward":0}
+{"call":9,"case_id":"math-train-00003","expression":"((9 * (1 + 2)) - 1)","answer":26,"completion":"Final answer: 11","reward":0}
+{"call":9,"case_id":"math-train-00142","expression":"((5 - 5) - 8)","answer":-8,"completion":"Final answer: -13","reward":0}
+{"call":9,"case_id":"math-train-00142","expression":"((5 - 5) - 8)","answer":-8,"completion":"Final answer: -8","reward":1}
+{"call":9,"case_id":"math-train-00142","expression":"((5 - 5) - 8)","answer":-8,"completion":"Final answer: -8","reward":1}
+{"call":9,"case_id":"math-train-00142","expression":"((5 - 5) - 8)","answer":-8,"completion":"Final answer: -12","reward":0}
+{"call":9,"case_id":"math-train-00142","expression":"((5 - 5) - 8)","answer":-8,"completion":"Final answer: -8","reward":1}
+{"call":9,"case_id":"math-train-00142","expression":"((5 - 5) - 8)","answer":-8,"completion":"Final answer: -12","reward":0}
+{"call":9,"case_id":"math-train-00142","expression":"((5 - 5) - 8)","answer":-8,"completion":"Final answer: -12","reward":0}
+{"call":9,"case_id":"math-train-00142","expression":"((5 - 5) - 8)","answer":-8,"completion":"Final answer: -8","reward":1}
+{"call":9,"case_id":"math-train-00118","expression":"((6 - 9) - 8)","answer":-11,"completion":"Final answer: -17","reward":0}
+{"call":9,"case_id":"math-train-00118","expression":"((6 - 9) - 8)","answer":-11,"completion":"Final answer: -17","reward":0}
+{"call":9,"case_id":"math-train-00118","expression":"((6 - 9) - 8)","answer":-11,"completion":"Final answer: -15","reward":0}
+{"call":9,"case_id":"math-train-00118","expression":"((6 - 9) - 8)","answer":-11,"completion":"Final answer: -15","reward":0}
+{"call":9,"case_id":"math-train-00118","expression":"((6 - 9) - 8)","answer":-11,"completion":"Final answer: -11","reward":1}
+{"call":9,"case_id":"math-train-00118","expression":"((6 - 9) - 8)","answer":-11,"completion":"Final answer: -13","reward":0}
+{"call":9,"case_id":"math-train-00118","expression":"((6 - 9) - 8)","answer":-11,"completion":"Final answer: -7","reward":0}
+{"call":9,"case_id":"math-train-00118","expression":"((6 - 9) - 8)","answer":-11,"completion":"Final answer: -14","reward":0}
+{"call":9,"case_id":"math-train-00009","expression":"((7 - (5 * 1)) + 1)","answer":3,"completion":"Final answer: 6","reward":0}
+{"call":9,"case_id":"math-train-00009","expression":"((7 - (5 * 1)) + 1)","answer":3,"completion":"Final answer: 7","reward":0}
+{"call":9,"case_id":"math-train-00009","expression":"((7 - (5 * 1)) + 1)","answer":3,"completion":"Final answer: 7","reward":0}
+{"call":9,"case_id":"math-train-00009","expression":"((7 - (5 * 1)) + 1)","answer":3,"completion":"Final answer: 7","reward":0}
+{"call":9,"case_id":"math-train-00009","expression":"((7 - (5 * 1)) + 1)","answer":3,"completion":"Final answer: 7","reward":0}
+{"call":9,"case_id":"math-train-00009","expression":"((7 - (5 * 1)) + 1)","answer":3,"completion":"Final answer: 7","reward":0}
+{"call":9,"case_id":"math-train-00009","expression":"((7 - (5 * 1)) + 1)","answer":3,"completion":"Final answer: 9","reward":0}
+{"call":9,"case_id":"math-train-00009","expression":"((7 - (5 * 1)) + 1)","answer":3,"completion":"Final answer: 12","reward":0}
+{"call":9,"case_id":"math-train-00061","expression":"(2 + (3 - 8))","answer":-3,"completion":"Final answer: 5","reward":0}
+{"call":9,"case_id":"math-train-00061","expression":"(2 + (3 - 8))","answer":-3,"completion":"Final answer: 5","reward":0}
+{"call":9,"case_id":"math-train-00061","expression":"(2 + (3 - 8))","answer":-3,"completion":"Final answer: 5","reward":0}
+{"call":9,"case_id":"math-train-00061","expression":"(2 + (3 - 8))","answer":-3,"completion":"Final answer: 5","reward":0}
+{"call":9,"case_id":"math-train-00061","expression":"(2 + (3 - 8))","answer":-3,"completion":"Final answer: 5","reward":0}
+{"call":9,"case_id":"math-train-00061","expression":"(2 + (3 - 8))","answer":-3,"completion":"Final answer: 5","reward":0}
+{"call":9,"case_id":"math-train-00061","expression":"(2 + (3 - 8))","answer":-3,"completion":"Final answer: 5","reward":0}
+{"call":9,"case_id":"math-train-00061","expression":"(2 + (3 - 8))","answer":-3,"completion":"Final answer: 5","reward":0}
+{"call":9,"case_id":"math-train-00188","expression":"((5 + 0) * 1)","answer":5,"completion":"Final answer: 5","reward":1}
+{"call":9,"case_id":"math-train-00188","expression":"((5 + 0) * 1)","answer":5,"completion":"Final answer: 5","reward":1}
+{"call":9,"case_id":"math-train-00188","expression":"((5 + 0) * 1)","answer":5,"completion":"Final answer: 5","reward":1}
+{"call":9,"case_id":"math-train-00188","expression":"((5 + 0) * 1)","answer":5,"completion":"Final answer: 5","reward":1}
+{"call":9,"case_id":"math-train-00188","expression":"((5 + 0) * 1)","answer":5,"completion":"Final answer: 5","reward":1}
+{"call":9,"case_id":"math-train-00188","expression":"((5 + 0) * 1)","answer":5,"completion":"Final answer: 5","reward":1}
+{"call":9,"case_id":"math-train-00188","expression":"((5 + 0) * 1)","answer":5,"completion":"Final answer: 5","reward":1}
+{"call":9,"case_id":"math-train-00188","expression":"((5 + 0) * 1)","answer":5,"completion":"Final answer: 5","reward":1}
+{"call":9,"case_id":"math-train-00175","expression":"(4 - (0 + 5))","answer":-1,"completion":"Final answer: -5","reward":0}
+{"call":9,"case_id":"math-train-00175","expression":"(4 - (0 + 5))","answer":-1,"completion":"Final answer: -5","reward":0}
+{"call":9,"case_id":"math-train-00175","expression":"(4 - (0 + 5))","answer":-1,"completion":"Final answer: 4","reward":0}
+{"call":9,"case_id":"math-train-00175","expression":"(4 - (0 + 5))","answer":-1,"completion":"Final answer: 4","reward":0}
+{"call":9,"case_id":"math-train-00175","expression":"(4 - (0 + 5))","answer":-1,"completion":"Final answer: -5","reward":0}
+{"call":9,"case_id":"math-train-00175","expression":"(4 - (0 + 5))","answer":-1,"completion":"Final answer: 4","reward":0}
+{"call":9,"case_id":"math-train-00175","expression":"(4 - (0 + 5))","answer":-1,"completion":"Final answer: 4","reward":0}
+{"call":9,"case_id":"math-train-00175","expression":"(4 - (0 + 5))","answer":-1,"completion":"Final answer: 4","reward":0}
+{"call":10,"case_id":"math-train-00098","expression":"((4 * 8) - 7)","answer":25,"completion":"Final answer: 24","reward":0}
+{"call":10,"case_id":"math-train-00098","expression":"((4 * 8) - 7)","answer":25,"completion":"Final answer: 25","reward":1}
+{"call":10,"case_id":"math-train-00098","expression":"((4 * 8) - 7)","answer":25,"completion":"Final answer: 24","reward":0}
+{"call":10,"case_id":"math-train-00098","expression":"((4 * 8) - 7)","answer":25,"completion":"Final answer: 25","reward":1}
+{"call":10,"case_id":"math-train-00098","expression":"((4 * 8) - 7)","answer":25,"completion":"Final answer: 29","reward":0}
+{"call":10,"case_id":"math-train-00098","expression":"((4 * 8) - 7)","answer":25,"completion":"Final answer: 29","reward":0}
+{"call":10,"case_id":"math-train-00098","expression":"((4 * 8) - 7)","answer":25,"completion":"Final answer: 29","reward":0}
+{"call":10,"case_id":"math-train-00098","expression":"((4 * 8) - 7)","answer":25,"completion":"Final answer: 25","reward":1}
+{"call":10,"case_id":"math-train-00033","expression":"(4 - ((1 - 7) * 2))","answer":16,"completion":"Final answer: -11","reward":0}
+{"call":10,"case_id":"math-train-00033","expression":"(4 - ((1 - 7) * 2))","answer":16,"completion":"Final answer: -15","reward":0}
+{"call":10,"case_id":"math-train-00033","expression":"(4 - ((1 - 7) * 2))","answer":16,"completion":"Final answer: 2","reward":0}
+{"call":10,"case_id":"math-train-00033","expression":"(4 - ((1 - 7) * 2))","answer":16,"completion":"Final answer: -13","reward":0}
+{"call":10,"case_id":"math-train-00033","expression":"(4 - ((1 - 7) * 2))","answer":16,"completion":"Final answer: -11","reward":0}
+{"call":10,"case_id":"math-train-00033","expression":"(4 - ((1 - 7) * 2))","answer":16,"completion":"Final answer: -11","reward":0}
+{"call":10,"case_id":"math-train-00033","expression":"(4 - ((1 - 7) * 2))","answer":16,"completion":"Final answer: 10","reward":0}
+{"call":10,"case_id":"math-train-00033","expression":"(4 - ((1 - 7) * 2))","answer":16,"completion":"Final answer: -11","reward":0}
+{"call":10,"case_id":"math-train-00163","expression":"(0 - (0 + 6))","answer":-6,"completion":"Final answer: 6","reward":0}
+{"call":10,"case_id":"math-train-00163","expression":"(0 - (0 + 6))","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":10,"case_id":"math-train-00163","expression":"(0 - (0 + 6))","answer":-6,"completion":"Final answer: 6","reward":0}
+{"call":10,"case_id":"math-train-00163","expression":"(0 - (0 + 6))","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":10,"case_id":"math-train-00163","expression":"(0 - (0 + 6))","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":10,"case_id":"math-train-00163","expression":"(0 - (0 + 6))","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":10,"case_id":"math-train-00163","expression":"(0 - (0 + 6))","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":10,"case_id":"math-train-00163","expression":"(0 - (0 + 6))","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":10,"case_id":"math-train-00026","expression":"((2 * 6) - 2)","answer":10,"completion":"Final answer: 10","reward":1}
+{"call":10,"case_id":"math-train-00026","expression":"((2 * 6) - 2)","answer":10,"completion":"Final answer: 10","reward":1}
+{"call":10,"case_id":"math-train-00026","expression":"((2 * 6) - 2)","answer":10,"completion":"Final answer: 10","reward":1}
+{"call":10,"case_id":"math-train-00026","expression":"((2 * 6) - 2)","answer":10,"completion":"Final answer: 10","reward":1}
+{"call":10,"case_id":"math-train-00026","expression":"((2 * 6) - 2)","answer":10,"completion":"Final answer: 10","reward":1}
+{"call":10,"case_id":"math-train-00026","expression":"((2 * 6) - 2)","answer":10,"completion":"Final answer: 10","reward":1}
+{"call":10,"case_id":"math-train-00026","expression":"((2 * 6) - 2)","answer":10,"completion":"Final answer: 10","reward":1}
+{"call":10,"case_id":"math-train-00026","expression":"((2 * 6) - 2)","answer":10,"completion":"Final answer: 10","reward":1}
+{"call":10,"case_id":"math-train-00125","expression":"(4 + (7 * 1))","answer":11,"completion":"Final answer: 11","reward":1}
+{"call":10,"case_id":"math-train-00125","expression":"(4 + (7 * 1))","answer":11,"completion":"Final answer: 11","reward":1}
+{"call":10,"case_id":"math-train-00125","expression":"(4 + (7 * 1))","answer":11,"completion":"Final answer: 11","reward":1}
+{"call":10,"case_id":"math-train-00125","expression":"(4 + (7 * 1))","answer":11,"completion":"Final answer: 11","reward":1}
+{"call":10,"case_id":"math-train-00125","expression":"(4 + (7 * 1))","answer":11,"completion":"Final answer: 11","reward":1}
+{"call":10,"case_id":"math-train-00125","expression":"(4 + (7 * 1))","answer":11,"completion":"Final answer: 11","reward":1}
+{"call":10,"case_id":"math-train-00125","expression":"(4 + (7 * 1))","answer":11,"completion":"Final answer: 11","reward":1}
+{"call":10,"case_id":"math-train-00125","expression":"(4 + (7 * 1))","answer":11,"completion":"Final answer: 11","reward":1}
+{"call":10,"case_id":"math-train-00149","expression":"(2 + (2 * 6))","answer":14,"completion":"Final answer: 14","reward":1}
+{"call":10,"case_id":"math-train-00149","expression":"(2 + (2 * 6))","answer":14,"completion":"Final answer: 14","reward":1}
+{"call":10,"case_id":"math-train-00149","expression":"(2 + (2 * 6))","answer":14,"completion":"Final answer: 14","reward":1}
+{"call":10,"case_id":"math-train-00149","expression":"(2 + (2 * 6))","answer":14,"completion":"Final answer: 14","reward":1}
+{"call":10,"case_id":"math-train-00149","expression":"(2 + (2 * 6))","answer":14,"completion":"Final answer: 14","reward":1}
+{"call":10,"case_id":"math-train-00149","expression":"(2 + (2 * 6))","answer":14,"completion":"Final answer: 14","reward":1}
+{"call":10,"case_id":"math-train-00149","expression":"(2 + (2 * 6))","answer":14,"completion":"Final answer: 14","reward":1}
+{"call":10,"case_id":"math-train-00149","expression":"(2 + (2 * 6))","answer":14,"completion":"Final answer: 14","reward":1}
+{"call":10,"case_id":"math-train-00174","expression":"(0 - (2 - (9 * 4)))","answer":34,"completion":"Final answer: -17","reward":0}
+{"call":10,"case_id":"math-train-00174","expression":"(0 - (2 - (9 * 4)))","answer":34,"completion":"Final answer: -17","reward":0}
+{"call":10,"case_id":"math-train-00174","expression":"(0 - (2 - (9 * 4)))","answer":34,"completion":"Final answer: -11","reward":0}
+{"call":10,"case_id":"math-train-00174","expression":"(0 - (2 - (9 * 4)))","answer":34,"completion":"Final answer: -26","reward":0}
+{"call":10,"case_id":"math-train-00174","expression":"(0 - (2 - (9 * 4)))","answer":34,"completion":"Final answer: -26","reward":0}
+{"call":10,"case_id":"math-train-00174","expression":"(0 - (2 - (9 * 4)))","answer":34,"completion":"Final answer: -22","reward":0}
+{"call":10,"case_id":"math-train-00174","expression":"(0 - (2 - (9 * 4)))","answer":34,"completion":"Final answer: -16","reward":0}
+{"call":10,"case_id":"math-train-00174","expression":"(0 - (2 - (9 * 4)))","answer":34,"completion":"Final answer: -17","reward":0}
+{"call":10,"case_id":"math-train-00157","expression":"(9 + (1 - 7))","answer":3,"completion":"Final answer: 2","reward":0}
+{"call":10,"case_id":"math-train-00157","expression":"(9 + (1 - 7))","answer":3,"completion":"Final answer: 2","reward":0}
+{"call":10,"case_id":"math-train-00157","expression":"(9 + (1 - 7))","answer":3,"completion":"Final answer: 8","reward":0}
+{"call":10,"case_id":"math-train-00157","expression":"(9 + (1 - 7))","answer":3,"completion":"Final answer: 8","reward":0}
+{"call":10,"case_id":"math-train-00157","expression":"(9 + (1 - 7))","answer":3,"completion":"Final answer: 10","reward":0}
+{"call":10,"case_id":"math-train-00157","expression":"(9 + (1 - 7))","answer":3,"completion":"Final answer: 10","reward":0}
+{"call":10,"case_id":"math-train-00157","expression":"(9 + (1 - 7))","answer":3,"completion":"Final answer: 8","reward":0}
+{"call":10,"case_id":"math-train-00157","expression":"(9 + (1 - 7))","answer":3,"completion":"Final answer: 10","reward":0}
+{"call":11,"case_id":"math-train-00011","expression":"(4 * (4 + 7))","answer":44,"completion":"Final answer: 31","reward":0}
+{"call":11,"case_id":"math-train-00011","expression":"(4 * (4 + 7))","answer":44,"completion":"Final answer: 35","reward":0}
+{"call":11,"case_id":"math-train-00011","expression":"(4 * (4 + 7))","answer":44,"completion":"Final answer: 35","reward":0}
+{"call":11,"case_id":"math-train-00011","expression":"(4 * (4 + 7))","answer":44,"completion":"Final answer: 35","reward":0}
+{"call":11,"case_id":"math-train-00011","expression":"(4 * (4 + 7))","answer":44,"completion":"Final answer: 31","reward":0}
+{"call":11,"case_id":"math-train-00011","expression":"(4 * (4 + 7))","answer":44,"completion":"Final answer: 36","reward":0}
+{"call":11,"case_id":"math-train-00011","expression":"(4 * (4 + 7))","answer":44,"completion":"Final answer: 31","reward":0}
+{"call":11,"case_id":"math-train-00011","expression":"(4 * (4 + 7))","answer":44,"completion":"Final answer: 31","reward":0}
+{"call":11,"case_id":"math-train-00002","expression":"((2 * 7) - 5)","answer":9,"completion":"Final answer: 7","reward":0}
+{"call":11,"case_id":"math-train-00002","expression":"((2 * 7) - 5)","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":11,"case_id":"math-train-00002","expression":"((2 * 7) - 5)","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":11,"case_id":"math-train-00002","expression":"((2 * 7) - 5)","answer":9,"completion":"Final answer: 7","reward":0}
+{"call":11,"case_id":"math-train-00002","expression":"((2 * 7) - 5)","answer":9,"completion":"Final answer: 7","reward":0}
+{"call":11,"case_id":"math-train-00002","expression":"((2 * 7) - 5)","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":11,"case_id":"math-train-00002","expression":"((2 * 7) - 5)","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":11,"case_id":"math-train-00002","expression":"((2 * 7) - 5)","answer":9,"completion":"Final answer: 7","reward":0}
+{"call":11,"case_id":"math-train-00001","expression":"(7 + (4 - 5))","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":11,"case_id":"math-train-00001","expression":"(7 + (4 - 5))","answer":6,"completion":"Final answer: 2","reward":0}
+{"call":11,"case_id":"math-train-00001","expression":"(7 + (4 - 5))","answer":6,"completion":"Final answer: 2","reward":0}
+{"call":11,"case_id":"math-train-00001","expression":"(7 + (4 - 5))","answer":6,"completion":"Final answer: 2","reward":0}
+{"call":11,"case_id":"math-train-00001","expression":"(7 + (4 - 5))","answer":6,"completion":"Final answer: 2","reward":0}
+{"call":11,"case_id":"math-train-00001","expression":"(7 + (4 - 5))","answer":6,"completion":"Final answer: 2","reward":0}
+{"call":11,"case_id":"math-train-00001","expression":"(7 + (4 - 5))","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":11,"case_id":"math-train-00001","expression":"(7 + (4 - 5))","answer":6,"completion":"Final answer: 2","reward":0}
+{"call":11,"case_id":"math-train-00040","expression":"((5 + 0) - 5)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":11,"case_id":"math-train-00040","expression":"((5 + 0) - 5)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":11,"case_id":"math-train-00040","expression":"((5 + 0) - 5)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":11,"case_id":"math-train-00040","expression":"((5 + 0) - 5)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":11,"case_id":"math-train-00040","expression":"((5 + 0) - 5)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":11,"case_id":"math-train-00040","expression":"((5 + 0) - 5)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":11,"case_id":"math-train-00040","expression":"((5 + 0) - 5)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":11,"case_id":"math-train-00040","expression":"((5 + 0) - 5)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":11,"case_id":"math-train-00144","expression":"(0 - ((5 * 9) + 1))","answer":-46,"completion":"Final answer: -44","reward":0}
+{"call":11,"case_id":"math-train-00144","expression":"(0 - ((5 * 9) + 1))","answer":-46,"completion":"Final answer: -44","reward":0}
+{"call":11,"case_id":"math-train-00144","expression":"(0 - ((5 * 9) + 1))","answer":-46,"completion":"Final answer: -54","reward":0}
+{"call":11,"case_id":"math-train-00144","expression":"(0 - ((5 * 9) + 1))","answer":-46,"completion":"Final answer: -44","reward":0}
+{"call":11,"case_id":"math-train-00144","expression":"(0 - ((5 * 9) + 1))","answer":-46,"completion":"Final answer: -44","reward":0}
+{"call":11,"case_id":"math-train-00144","expression":"(0 - ((5 * 9) + 1))","answer":-46,"completion":"Final answer: -44","reward":0}
+{"call":11,"case_id":"math-train-00144","expression":"(0 - ((5 * 9) + 1))","answer":-46,"completion":"Final answer: -44","reward":0}
+{"call":11,"case_id":"math-train-00144","expression":"(0 - ((5 * 9) + 1))","answer":-46,"completion":"Final answer: -44","reward":0}
+{"call":11,"case_id":"math-train-00018","expression":"(((2 * 1) - 4) + 0)","answer":-2,"completion":"Final answer: 2","reward":0}
+{"call":11,"case_id":"math-train-00018","expression":"(((2 * 1) - 4) + 0)","answer":-2,"completion":"Final answer: 6","reward":0}
+{"call":11,"case_id":"math-train-00018","expression":"(((2 * 1) - 4) + 0)","answer":-2,"completion":"Final answer: 0","reward":0}
+{"call":11,"case_id":"math-train-00018","expression":"(((2 * 1) - 4) + 0)","answer":-2,"completion":"Final answer: 6","reward":0}
+{"call":11,"case_id":"math-train-00018","expression":"(((2 * 1) - 4) + 0)","answer":-2,"completion":"Final answer: 6","reward":0}
+{"call":11,"case_id":"math-train-00018","expression":"(((2 * 1) - 4) + 0)","answer":-2,"completion":"Final answer: 2","reward":0}
+{"call":11,"case_id":"math-train-00018","expression":"(((2 * 1) - 4) + 0)","answer":-2,"completion":"Final answer: 2","reward":0}
+{"call":11,"case_id":"math-train-00018","expression":"(((2 * 1) - 4) + 0)","answer":-2,"completion":"Final answer: 2","reward":0}
+{"call":11,"case_id":"math-train-00082","expression":"((2 - 7) - 9)","answer":-14,"completion":"Final answer: -10","reward":0}
+{"call":11,"case_id":"math-train-00082","expression":"((2 - 7) - 9)","answer":-14,"completion":"Final answer: -10","reward":0}
+{"call":11,"case_id":"math-train-00082","expression":"((2 - 7) - 9)","answer":-14,"completion":"Final answer: -11","reward":0}
+{"call":11,"case_id":"math-train-00082","expression":"((2 - 7) - 9)","answer":-14,"completion":"Final answer: -11","reward":0}
+{"call":11,"case_id":"math-train-00082","expression":"((2 - 7) - 9)","answer":-14,"completion":"Final answer: -8","reward":0}
+{"call":11,"case_id":"math-train-00082","expression":"((2 - 7) - 9)","answer":-14,"completion":"Final answer: -10","reward":0}
+{"call":11,"case_id":"math-train-00082","expression":"((2 - 7) - 9)","answer":-14,"completion":"Final answer: -16","reward":0}
+{"call":11,"case_id":"math-train-00082","expression":"((2 - 7) - 9)","answer":-14,"completion":"Final answer: -10","reward":0}
+{"call":11,"case_id":"math-train-00140","expression":"((4 + 4) * 3)","answer":24,"completion":"Final answer: 12","reward":0}
+{"call":11,"case_id":"math-train-00140","expression":"((4 + 4) * 3)","answer":24,"completion":"Final answer: 12","reward":0}
+{"call":11,"case_id":"math-train-00140","expression":"((4 + 4) * 3)","answer":24,"completion":"Final answer: 12","reward":0}
+{"call":11,"case_id":"math-train-00140","expression":"((4 + 4) * 3)","answer":24,"completion":"Final answer: 12","reward":0}
+{"call":11,"case_id":"math-train-00140","expression":"((4 + 4) * 3)","answer":24,"completion":"Final answer: 24","reward":1}
+{"call":11,"case_id":"math-train-00140","expression":"((4 + 4) * 3)","answer":24,"completion":"Final answer: 12","reward":0}
+{"call":11,"case_id":"math-train-00140","expression":"((4 + 4) * 3)","answer":24,"completion":"Final answer: 12","reward":0}
+{"call":11,"case_id":"math-train-00140","expression":"((4 + 4) * 3)","answer":24,"completion":"Final answer: 12","reward":0}
+{"call":12,"case_id":"math-train-00034","expression":"((6 - 8) - 4)","answer":-6,"completion":"Final answer: -4","reward":0}
+{"call":12,"case_id":"math-train-00034","expression":"((6 - 8) - 4)","answer":-6,"completion":"Final answer: -2","reward":0}
+{"call":12,"case_id":"math-train-00034","expression":"((6 - 8) - 4)","answer":-6,"completion":"Final answer: -2","reward":0}
+{"call":12,"case_id":"math-train-00034","expression":"((6 - 8) - 4)","answer":-6,"completion":"Final answer: -2","reward":0}
+{"call":12,"case_id":"math-train-00034","expression":"((6 - 8) - 4)","answer":-6,"completion":"Final answer: -2","reward":0}
+{"call":12,"case_id":"math-train-00034","expression":"((6 - 8) - 4)","answer":-6,"completion":"Final answer: -2","reward":0}
+{"call":12,"case_id":"math-train-00034","expression":"((6 - 8) - 4)","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":12,"case_id":"math-train-00034","expression":"((6 - 8) - 4)","answer":-6,"completion":"Final answer: -2","reward":0}
+{"call":12,"case_id":"math-train-00109","expression":"(0 + (9 - 6))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":12,"case_id":"math-train-00109","expression":"(0 + (9 - 6))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":12,"case_id":"math-train-00109","expression":"(0 + (9 - 6))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":12,"case_id":"math-train-00109","expression":"(0 + (9 - 6))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":12,"case_id":"math-train-00109","expression":"(0 + (9 - 6))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":12,"case_id":"math-train-00109","expression":"(0 + (9 - 6))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":12,"case_id":"math-train-00109","expression":"(0 + (9 - 6))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":12,"case_id":"math-train-00109","expression":"(0 + (9 - 6))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":12,"case_id":"math-train-00150","expression":"((4 * 2) + (5 - 2))","answer":11,"completion":"Final answer: 11","reward":1}
+{"call":12,"case_id":"math-train-00150","expression":"((4 * 2) + (5 - 2))","answer":11,"completion":"Final answer: 9","reward":0}
+{"call":12,"case_id":"math-train-00150","expression":"((4 * 2) + (5 - 2))","answer":11,"completion":"Final answer: 11","reward":1}
+{"call":12,"case_id":"math-train-00150","expression":"((4 * 2) + (5 - 2))","answer":11,"completion":"Final answer: 8","reward":0}
+{"call":12,"case_id":"math-train-00150","expression":"((4 * 2) + (5 - 2))","answer":11,"completion":"Final answer: 11","reward":1}
+{"call":12,"case_id":"math-train-00150","expression":"((4 * 2) + (5 - 2))","answer":11,"completion":"Final answer: 11","reward":1}
+{"call":12,"case_id":"math-train-00150","expression":"((4 * 2) + (5 - 2))","answer":11,"completion":"Final answer: 13","reward":0}
+{"call":12,"case_id":"math-train-00150","expression":"((4 * 2) + (5 - 2))","answer":11,"completion":"Final answer: 11","reward":1}
+{"call":12,"case_id":"math-train-00185","expression":"(2 + (1 * 7))","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":12,"case_id":"math-train-00185","expression":"(2 + (1 * 7))","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":12,"case_id":"math-train-00185","expression":"(2 + (1 * 7))","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":12,"case_id":"math-train-00185","expression":"(2 + (1 * 7))","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":12,"case_id":"math-train-00185","expression":"(2 + (1 * 7))","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":12,"case_id":"math-train-00185","expression":"(2 + (1 * 7))","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":12,"case_id":"math-train-00185","expression":"(2 + (1 * 7))","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":12,"case_id":"math-train-00185","expression":"(2 + (1 * 7))","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":12,"case_id":"math-train-00102","expression":"(2 - ((7 + 0) * 7))","answer":-47,"completion":"Final answer: 14","reward":0}
+{"call":12,"case_id":"math-train-00102","expression":"(2 - ((7 + 0) * 7))","answer":-47,"completion":"Final answer: -15","reward":0}
+{"call":12,"case_id":"math-train-00102","expression":"(2 - ((7 + 0) * 7))","answer":-47,"completion":"Final answer: -5","reward":0}
+{"call":12,"case_id":"math-train-00102","expression":"(2 - ((7 + 0) * 7))","answer":-47,"completion":"Final answer: -6","reward":0}
+{"call":12,"case_id":"math-train-00102","expression":"(2 - ((7 + 0) * 7))","answer":-47,"completion":"Final answer: 14","reward":0}
+{"call":12,"case_id":"math-train-00102","expression":"(2 - ((7 + 0) * 7))","answer":-47,"completion":"Final answer: 5","reward":0}
+{"call":12,"case_id":"math-train-00102","expression":"(2 - ((7 + 0) * 7))","answer":-47,"completion":"Final answer: 4","reward":0}
+{"call":12,"case_id":"math-train-00102","expression":"(2 - ((7 + 0) * 7))","answer":-47,"completion":"Final answer: -5","reward":0}
+{"call":12,"case_id":"math-train-00156","expression":"(((5 + 9) - 5) * 9)","answer":81,"completion":"Final answer: 75","reward":0}
+{"call":12,"case_id":"math-train-00156","expression":"(((5 + 9) - 5) * 9)","answer":81,"completion":"Final answer: 360","reward":0}
+{"call":12,"case_id":"math-train-00156","expression":"(((5 + 9) - 5) * 9)","answer":81,"completion":"Final answer: 45","reward":0}
+{"call":12,"case_id":"math-train-00156","expression":"(((5 + 9) - 5) * 9)","answer":81,"completion":"Final answer: 45","reward":0}
+{"call":12,"case_id":"math-train-00156","expression":"(((5 + 9) - 5) * 9)","answer":81,"completion":"Final answer: 30","reward":0}
+{"call":12,"case_id":"math-train-00156","expression":"(((5 + 9) - 5) * 9)","answer":81,"completion":"Final answer: 36","reward":0}
+{"call":12,"case_id":"math-train-00156","expression":"(((5 + 9) - 5) * 9)","answer":81,"completion":"Final answer: 45","reward":0}
+{"call":12,"case_id":"math-train-00156","expression":"(((5 + 9) - 5) * 9)","answer":81,"completion":"Final answer: 30","reward":0}
+{"call":12,"case_id":"math-train-00042","expression":"((3 * 6) + (8 - 9))","answer":17,"completion":"Final answer: 15","reward":0}
+{"call":12,"case_id":"math-train-00042","expression":"((3 * 6) + (8 - 9))","answer":17,"completion":"Final answer: 15","reward":0}
+{"call":12,"case_id":"math-train-00042","expression":"((3 * 6) + (8 - 9))","answer":17,"completion":"Final answer: 3.","reward":0}
+{"call":12,"case_id":"math-train-00042","expression":"((3 * 6) + (8 - 9))","answer":17,"completion":"Final answer: 3","reward":0}
+{"call":12,"case_id":"math-train-00042","expression":"((3 * 6) + (8 - 9))","answer":17,"completion":"Final answer: 3","reward":0}
+{"call":12,"case_id":"math-train-00042","expression":"((3 * 6) + (8 - 9))","answer":17,"completion":"Final answer: 9","reward":0}
+{"call":12,"case_id":"math-train-00042","expression":"((3 * 6) + (8 - 9))","answer":17,"completion":"Final answer: 11","reward":0}
+{"call":12,"case_id":"math-train-00042","expression":"((3 * 6) + (8 - 9))","answer":17,"completion":"Final answer: 7","reward":0}
+{"call":12,"case_id":"math-train-00186","expression":"(7 - (4 + (9 * 3)))","answer":-24,"completion":"Final answer: -10","reward":0}
+{"call":12,"case_id":"math-train-00186","expression":"(7 - (4 + (9 * 3)))","answer":-24,"completion":"Final answer: 10","reward":0}
+{"call":12,"case_id":"math-train-00186","expression":"(7 - (4 + (9 * 3)))","answer":-24,"completion":"Final answer: 7","reward":0}
+{"call":12,"case_id":"math-train-00186","expression":"(7 - (4 + (9 * 3)))","answer":-24,"completion":"Final answer: 10","reward":0}
+{"call":12,"case_id":"math-train-00186","expression":"(7 - (4 + (9 * 3)))","answer":-24,"completion":"Final answer: 21","reward":0}
+{"call":12,"case_id":"math-train-00186","expression":"(7 - (4 + (9 * 3)))","answer":-24,"completion":"Final answer: 16","reward":0}
+{"call":12,"case_id":"math-train-00186","expression":"(7 - (4 + (9 * 3)))","answer":-24,"completion":"Final answer: 12","reward":0}
+{"call":12,"case_id":"math-train-00186","expression":"(7 - (4 + (9 * 3)))","answer":-24,"completion":"Final answer: 10","reward":0}
+{"call":13,"case_id":"math-train-00059","expression":"(4 * (0 + 5))","answer":20,"completion":"Final answer: 20","reward":1}
+{"call":13,"case_id":"math-train-00059","expression":"(4 * (0 + 5))","answer":20,"completion":"Final answer: 5","reward":0}
+{"call":13,"case_id":"math-train-00059","expression":"(4 * (0 + 5))","answer":20,"completion":"Final answer: 5","reward":0}
+{"call":13,"case_id":"math-train-00059","expression":"(4 * (0 + 5))","answer":20,"completion":"Final answer: 20","reward":1}
+{"call":13,"case_id":"math-train-00059","expression":"(4 * (0 + 5))","answer":20,"completion":"Final answer: 20","reward":1}
+{"call":13,"case_id":"math-train-00059","expression":"(4 * (0 + 5))","answer":20,"completion":"Final answer: 20","reward":1}
+{"call":13,"case_id":"math-train-00059","expression":"(4 * (0 + 5))","answer":20,"completion":"Final answer: 20","reward":1}
+{"call":13,"case_id":"math-train-00059","expression":"(4 * (0 + 5))","answer":20,"completion":"Final answer: 20","reward":1}
+{"call":13,"case_id":"math-train-00078","expression":"(9 - (3 + (8 * 8)))","answer":-58,"completion":"Final answer: 25","reward":0}
+{"call":13,"case_id":"math-train-00078","expression":"(9 - (3 + (8 * 8)))","answer":-58,"completion":"Final answer: 80","reward":0}
+{"call":13,"case_id":"math-train-00078","expression":"(9 - (3 + (8 * 8)))","answer":-58,"completion":"Final answer: 15","reward":0}
+{"call":13,"case_id":"math-train-00078","expression":"(9 - (3 + (8 * 8)))","answer":-58,"completion":"Final answer: 41","reward":0}
+{"call":13,"case_id":"math-train-00078","expression":"(9 - (3 + (8 * 8)))","answer":-58,"completion":"Final answer: 25","reward":0}
+{"call":13,"case_id":"math-train-00078","expression":"(9 - (3 + (8 * 8)))","answer":-58,"completion":"Final answer: 15","reward":0}
+{"call":13,"case_id":"math-train-00078","expression":"(9 - (3 + (8 * 8)))","answer":-58,"completion":"Final answer: 70","reward":0}
+{"call":13,"case_id":"math-train-00078","expression":"(9 - (3 + (8 * 8)))","answer":-58,"completion":"Final answer: 9","reward":0}
+{"call":13,"case_id":"math-train-00030","expression":"((5 * 8) - (0 - 1))","answer":41,"completion":"Final answer: 41","reward":1}
+{"call":13,"case_id":"math-train-00030","expression":"((5 * 8) - (0 - 1))","answer":41,"completion":"Final answer: 41","reward":1}
+{"call":13,"case_id":"math-train-00030","expression":"((5 * 8) - (0 - 1))","answer":41,"completion":"Final answer: 40","reward":0}
+{"call":13,"case_id":"math-train-00030","expression":"((5 * 8) - (0 - 1))","answer":41,"completion":"Final answer: 40","reward":0}
+{"call":13,"case_id":"math-train-00030","expression":"((5 * 8) - (0 - 1))","answer":41,"completion":"Final answer: 40","reward":0}
+{"call":13,"case_id":"math-train-00030","expression":"((5 * 8) - (0 - 1))","answer":41,"completion":"Final answer: 43","reward":0}
+{"call":13,"case_id":"math-train-00030","expression":"((5 * 8) - (0 - 1))","answer":41,"completion":"Final answer: 40","reward":0}
+{"call":13,"case_id":"math-train-00030","expression":"((5 * 8) - (0 - 1))","answer":41,"completion":"Final answer: 45","reward":0}
+{"call":13,"case_id":"math-train-00060","expression":"((8 * 0) - (9 + 5))","answer":-14,"completion":"Final answer: -14","reward":1}
+{"call":13,"case_id":"math-train-00060","expression":"((8 * 0) - (9 + 5))","answer":-14,"completion":"Final answer: -14","reward":1}
+{"call":13,"case_id":"math-train-00060","expression":"((8 * 0) - (9 + 5))","answer":-14,"completion":"Final answer: -14","reward":1}
+{"call":13,"case_id":"math-train-00060","expression":"((8 * 0) - (9 + 5))","answer":-14,"completion":"Final answer: -14","reward":1}
+{"call":13,"case_id":"math-train-00060","expression":"((8 * 0) - (9 + 5))","answer":-14,"completion":"Final answer: -4","reward":0}
+{"call":13,"case_id":"math-train-00060","expression":"((8 * 0) - (9 + 5))","answer":-14,"completion":"Final answer: -14","reward":1}
+{"call":13,"case_id":"math-train-00060","expression":"((8 * 0) - (9 + 5))","answer":-14,"completion":"Final answer: -14","reward":1}
+{"call":13,"case_id":"math-train-00060","expression":"((8 * 0) - (9 + 5))","answer":-14,"completion":"Final answer: -4","reward":0}
+{"call":13,"case_id":"math-train-00004","expression":"((0 + 7) - 7)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":13,"case_id":"math-train-00004","expression":"((0 + 7) - 7)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":13,"case_id":"math-train-00004","expression":"((0 + 7) - 7)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":13,"case_id":"math-train-00004","expression":"((0 + 7) - 7)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":13,"case_id":"math-train-00004","expression":"((0 + 7) - 7)","answer":0,"completion":"Final answer: -7","reward":0}
+{"call":13,"case_id":"math-train-00004","expression":"((0 + 7) - 7)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":13,"case_id":"math-train-00004","expression":"((0 + 7) - 7)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":13,"case_id":"math-train-00004","expression":"((0 + 7) - 7)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":13,"case_id":"math-train-00044","expression":"((9 + 7) * 8)","answer":128,"completion":"Final answer: 72","reward":0}
+{"call":13,"case_id":"math-train-00044","expression":"((9 + 7) * 8)","answer":128,"completion":"Final answer: 72","reward":0}
+{"call":13,"case_id":"math-train-00044","expression":"((9 + 7) * 8)","answer":128,"completion":"Final answer: 63","reward":0}
+{"call":13,"case_id":"math-train-00044","expression":"((9 + 7) * 8)","answer":128,"completion":"Final answer: 63","reward":0}
+{"call":13,"case_id":"math-train-00044","expression":"((9 + 7) * 8)","answer":128,"completion":"Final answer: 72","reward":0}
+{"call":13,"case_id":"math-train-00044","expression":"((9 + 7) * 8)","answer":128,"completion":"Final answer: 80","reward":0}
+{"call":13,"case_id":"math-train-00044","expression":"((9 + 7) * 8)","answer":128,"completion":"Final answer: 72","reward":0}
+{"call":13,"case_id":"math-train-00044","expression":"((9 + 7) * 8)","answer":128,"completion":"Final answer: 63","reward":0}
+{"call":13,"case_id":"math-train-00050","expression":"((9 * 3) - 8)","answer":19,"completion":"Final answer: 11","reward":0}
+{"call":13,"case_id":"math-train-00050","expression":"((9 * 3) - 8)","answer":19,"completion":"Final answer: 21","reward":0}
+{"call":13,"case_id":"math-train-00050","expression":"((9 * 3) - 8)","answer":19,"completion":"Final answer: 15","reward":0}
+{"call":13,"case_id":"math-train-00050","expression":"((9 * 3) - 8)","answer":19,"completion":"Final answer: 15","reward":0}
+{"call":13,"case_id":"math-train-00050","expression":"((9 * 3) - 8)","answer":19,"completion":"Final answer: 15","reward":0}
+{"call":13,"case_id":"math-train-00050","expression":"((9 * 3) - 8)","answer":19,"completion":"Final answer: 15","reward":0}
+{"call":13,"case_id":"math-train-00050","expression":"((9 * 3) - 8)","answer":19,"completion":"Final answer: 15","reward":0}
+{"call":13,"case_id":"math-train-00050","expression":"((9 * 3) - 8)","answer":19,"completion":"Final answer: 11","reward":0}
+{"call":13,"case_id":"math-train-00159","expression":"((8 + (6 - 2)) * 3)","answer":36,"completion":"Final answer: 24","reward":0}
+{"call":13,"case_id":"math-train-00159","expression":"((8 + (6 - 2)) * 3)","answer":36,"completion":"Final answer: 24","reward":0}
+{"call":13,"case_id":"math-train-00159","expression":"((8 + (6 - 2)) * 3)","answer":36,"completion":"Final answer: 24","reward":0}
+{"call":13,"case_id":"math-train-00159","expression":"((8 + (6 - 2)) * 3)","answer":36,"completion":"Final answer: 24","reward":0}
+{"call":13,"case_id":"math-train-00159","expression":"((8 + (6 - 2)) * 3)","answer":36,"completion":"Final answer: 24","reward":0}
+{"call":13,"case_id":"math-train-00159","expression":"((8 + (6 - 2)) * 3)","answer":36,"completion":"Final answer: 24","reward":0}
+{"call":13,"case_id":"math-train-00159","expression":"((8 + (6 - 2)) * 3)","answer":36,"completion":"Final answer: 24","reward":0}
+{"call":13,"case_id":"math-train-00159","expression":"((8 + (6 - 2)) * 3)","answer":36,"completion":"Final answer: 18","reward":0}
+{"call":14,"case_id":"math-train-00019","expression":"(6 - (6 + 1))","answer":-1,"completion":"Final answer: 0","reward":0}
+{"call":14,"case_id":"math-train-00019","expression":"(6 - (6 + 1))","answer":-1,"completion":"Final answer: -1","reward":1}
+{"call":14,"case_id":"math-train-00019","expression":"(6 - (6 + 1))","answer":-1,"completion":"Final answer: -1","reward":1}
+{"call":14,"case_id":"math-train-00019","expression":"(6 - (6 + 1))","answer":-1,"completion":"Final answer: -6","reward":0}
+{"call":14,"case_id":"math-train-00019","expression":"(6 - (6 + 1))","answer":-1,"completion":"Final answer: 0","reward":0}
+{"call":14,"case_id":"math-train-00019","expression":"(6 - (6 + 1))","answer":-1,"completion":"Final answer: -1","reward":1}
+{"call":14,"case_id":"math-train-00019","expression":"(6 - (6 + 1))","answer":-1,"completion":"Final answer: -6","reward":0}
+{"call":14,"case_id":"math-train-00019","expression":"(6 - (6 + 1))","answer":-1,"completion":"Final answer: 0","reward":0}
+{"call":14,"case_id":"math-train-00091","expression":"(3 - (4 + 9))","answer":-10,"completion":"Final answer: -11","reward":0}
+{"call":14,"case_id":"math-train-00091","expression":"(3 - (4 + 9))","answer":-10,"completion":"Final answer: 11","reward":0}
+{"call":14,"case_id":"math-train-00091","expression":"(3 - (4 + 9))","answer":-10,"completion":"Final answer: -12","reward":0}
+{"call":14,"case_id":"math-train-00091","expression":"(3 - (4 + 9))","answer":-10,"completion":"Final answer: -11","reward":0}
+{"call":14,"case_id":"math-train-00091","expression":"(3 - (4 + 9))","answer":-10,"completion":"Final answer: -11","reward":0}
+{"call":14,"case_id":"math-train-00091","expression":"(3 - (4 + 9))","answer":-10,"completion":"Final answer: -12","reward":0}
+{"call":14,"case_id":"math-train-00091","expression":"(3 - (4 + 9))","answer":-10,"completion":"Final answer: -11","reward":0}
+{"call":14,"case_id":"math-train-00091","expression":"(3 - (4 + 9))","answer":-10,"completion":"Final answer: -12","reward":0}
+{"call":14,"case_id":"math-train-00069","expression":"((3 - (8 + 6)) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":14,"case_id":"math-train-00069","expression":"((3 - (8 + 6)) * 0)","answer":0,"completion":"Final answer: 24","reward":0}
+{"call":14,"case_id":"math-train-00069","expression":"((3 - (8 + 6)) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":14,"case_id":"math-train-00069","expression":"((3 - (8 + 6)) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":14,"case_id":"math-train-00069","expression":"((3 - (8 + 6)) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":14,"case_id":"math-train-00069","expression":"((3 - (8 + 6)) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":14,"case_id":"math-train-00069","expression":"((3 - (8 + 6)) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":14,"case_id":"math-train-00069","expression":"((3 - (8 + 6)) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":14,"case_id":"math-train-00133","expression":"(7 + (9 - 0))","answer":16,"completion":"Final answer: 16","reward":1}
+{"call":14,"case_id":"math-train-00133","expression":"(7 + (9 - 0))","answer":16,"completion":"Final answer: 7","reward":0}
+{"call":14,"case_id":"math-train-00133","expression":"(7 + (9 - 0))","answer":16,"completion":"Final answer: 16","reward":1}
+{"call":14,"case_id":"math-train-00133","expression":"(7 + (9 - 0))","answer":16,"completion":"Final answer: 16","reward":1}
+{"call":14,"case_id":"math-train-00133","expression":"(7 + (9 - 0))","answer":16,"completion":"Final answer: 16","reward":1}
+{"call":14,"case_id":"math-train-00133","expression":"(7 + (9 - 0))","answer":16,"completion":"Final answer: 16","reward":1}
+{"call":14,"case_id":"math-train-00133","expression":"(7 + (9 - 0))","answer":16,"completion":"Final answer: 16","reward":1}
+{"call":14,"case_id":"math-train-00133","expression":"(7 + (9 - 0))","answer":16,"completion":"Final answer: 16","reward":1}
+{"call":14,"case_id":"math-train-00097","expression":"(2 + (9 - 8))","answer":3,"completion":"Final answer: 11","reward":0}
+{"call":14,"case_id":"math-train-00097","expression":"(2 + (9 - 8))","answer":3,"completion":"Final answer: 11","reward":0}
+{"call":14,"case_id":"math-train-00097","expression":"(2 + (9 - 8))","answer":3,"completion":"Final answer: 11","reward":0}
+{"call":14,"case_id":"math-train-00097","expression":"(2 + (9 - 8))","answer":3,"completion":"Final answer: 11","reward":0}
+{"call":14,"case_id":"math-train-00097","expression":"(2 + (9 - 8))","answer":3,"completion":"Final answer: 10","reward":0}
+{"call":14,"case_id":"math-train-00097","expression":"(2 + (9 - 8))","answer":3,"completion":"Final answer: 1","reward":0}
+{"call":14,"case_id":"math-train-00097","expression":"(2 + (9 - 8))","answer":3,"completion":"Final answer: 11","reward":0}
+{"call":14,"case_id":"math-train-00097","expression":"(2 + (9 - 8))","answer":3,"completion":"Final answer: 11","reward":0}
+{"call":14,"case_id":"math-train-00094","expression":"((7 - 2) - 7)","answer":-2,"completion":"Final answer: -3","reward":0}
+{"call":14,"case_id":"math-train-00094","expression":"((7 - 2) - 7)","answer":-2,"completion":"Final answer: -5","reward":0}
+{"call":14,"case_id":"math-train-00094","expression":"((7 - 2) - 7)","answer":-2,"completion":"Final answer: -5","reward":0}
+{"call":14,"case_id":"math-train-00094","expression":"((7 - 2) - 7)","answer":-2,"completion":"Final answer: -5","reward":0}
+{"call":14,"case_id":"math-train-00094","expression":"((7 - 2) - 7)","answer":-2,"completion":"Final answer: -5","reward":0}
+{"call":14,"case_id":"math-train-00094","expression":"((7 - 2) - 7)","answer":-2,"completion":"Final answer: -3","reward":0}
+{"call":14,"case_id":"math-train-00094","expression":"((7 - 2) - 7)","answer":-2,"completion":"Final answer: -3","reward":0}
+{"call":14,"case_id":"math-train-00094","expression":"((7 - 2) - 7)","answer":-2,"completion":"Final answer: -3","reward":0}
+{"call":14,"case_id":"math-train-00128","expression":"((6 + 2) * 4)","answer":32,"completion":"Final answer: 24","reward":0}
+{"call":14,"case_id":"math-train-00128","expression":"((6 + 2) * 4)","answer":32,"completion":"Final answer: 20","reward":0}
+{"call":14,"case_id":"math-train-00128","expression":"((6 + 2) * 4)","answer":32,"completion":"Final answer: 24","reward":0}
+{"call":14,"case_id":"math-train-00128","expression":"((6 + 2) * 4)","answer":32,"completion":"Final answer: 24","reward":0}
+{"call":14,"case_id":"math-train-00128","expression":"((6 + 2) * 4)","answer":32,"completion":"Final answer: 24","reward":0}
+{"call":14,"case_id":"math-train-00128","expression":"((6 + 2) * 4)","answer":32,"completion":"Final answer: 24","reward":0}
+{"call":14,"case_id":"math-train-00128","expression":"((6 + 2) * 4)","answer":32,"completion":"Final answer: 24","reward":0}
+{"call":14,"case_id":"math-train-00128","expression":"((6 + 2) * 4)","answer":32,"completion":"Final answer: 24","reward":0}
+{"call":14,"case_id":"math-train-00020","expression":"((5 + 8) * 3)","answer":39,"completion":"Final answer: 44","reward":0}
+{"call":14,"case_id":"math-train-00020","expression":"((5 + 8) * 3)","answer":39,"completion":"Final answer: 44","reward":0}
+{"call":14,"case_id":"math-train-00020","expression":"((5 + 8) * 3)","answer":39,"completion":"Final answer: 44","reward":0}
+{"call":14,"case_id":"math-train-00020","expression":"((5 + 8) * 3)","answer":39,"completion":"Final answer: 42","reward":0}
+{"call":14,"case_id":"math-train-00020","expression":"((5 + 8) * 3)","answer":39,"completion":"Final answer: 42","reward":0}
+{"call":14,"case_id":"math-train-00020","expression":"((5 + 8) * 3)","answer":39,"completion":"Final answer: 40","reward":0}
+{"call":14,"case_id":"math-train-00020","expression":"((5 + 8) * 3)","answer":39,"completion":"Final answer: 40","reward":0}
+{"call":14,"case_id":"math-train-00020","expression":"((5 + 8) * 3)","answer":39,"completion":"Final answer: 45","reward":0}
+{"call":15,"case_id":"math-train-00103","expression":"(3 - (1 + 3))","answer":-1,"completion":"Final answer: 0","reward":0}
+{"call":15,"case_id":"math-train-00103","expression":"(3 - (1 + 3))","answer":-1,"completion":"Final answer: -1","reward":1}
+{"call":15,"case_id":"math-train-00103","expression":"(3 - (1 + 3))","answer":-1,"completion":"Final answer: 0","reward":0}
+{"call":15,"case_id":"math-train-00103","expression":"(3 - (1 + 3))","answer":-1,"completion":"Final answer: 0","reward":0}
+{"call":15,"case_id":"math-train-00103","expression":"(3 - (1 + 3))","answer":-1,"completion":"Final answer: 1","reward":0}
+{"call":15,"case_id":"math-train-00103","expression":"(3 - (1 + 3))","answer":-1,"completion":"Final answer: 0","reward":0}
+{"call":15,"case_id":"math-train-00103","expression":"(3 - (1 + 3))","answer":-1,"completion":"Final answer: 1","reward":0}
+{"call":15,"case_id":"math-train-00103","expression":"(3 - (1 + 3))","answer":-1,"completion":"Final answer: 0","reward":0}
+{"call":15,"case_id":"math-train-00162","expression":"(7 * ((3 + 5) + 2))","answer":70,"completion":"Final answer: 27","reward":0}
+{"call":15,"case_id":"math-train-00162","expression":"(7 * ((3 + 5) + 2))","answer":70,"completion":"Final answer: 27","reward":0}
+{"call":15,"case_id":"math-train-00162","expression":"(7 * ((3 + 5) + 2))","answer":70,"completion":"Final answer: 27","reward":0}
+{"call":15,"case_id":"math-train-00162","expression":"(7 * ((3 + 5) + 2))","answer":70,"completion":"Final answer: 27","reward":0}
+{"call":15,"case_id":"math-train-00162","expression":"(7 * ((3 + 5) + 2))","answer":70,"completion":"Final answer: 31","reward":0}
+{"call":15,"case_id":"math-train-00162","expression":"(7 * ((3 + 5) + 2))","answer":70,"completion":"Final answer: 32","reward":0}
+{"call":15,"case_id":"math-train-00162","expression":"(7 * ((3 + 5) + 2))","answer":70,"completion":"Final answer: 30","reward":0}
+{"call":15,"case_id":"math-train-00162","expression":"(7 * ((3 + 5) + 2))","answer":70,"completion":"Final answer: 31","reward":0}
+{"call":15,"case_id":"math-train-00107","expression":"(0 * (6 + 1))","answer":0,"completion":"Final answer: 6","reward":0}
+{"call":15,"case_id":"math-train-00107","expression":"(0 * (6 + 1))","answer":0,"completion":"Final answer: 6","reward":0}
+{"call":15,"case_id":"math-train-00107","expression":"(0 * (6 + 1))","answer":0,"completion":"Final answer: 6","reward":0}
+{"call":15,"case_id":"math-train-00107","expression":"(0 * (6 + 1))","answer":0,"completion":"Final answer: 6","reward":0}
+{"call":15,"case_id":"math-train-00107","expression":"(0 * (6 + 1))","answer":0,"completion":"Final answer: 6","reward":0}
+{"call":15,"case_id":"math-train-00107","expression":"(0 * (6 + 1))","answer":0,"completion":"Final answer: 6","reward":0}
+{"call":15,"case_id":"math-train-00107","expression":"(0 * (6 + 1))","answer":0,"completion":"Final answer: 6","reward":0}
+{"call":15,"case_id":"math-train-00107","expression":"(0 * (6 + 1))","answer":0,"completion":"Final answer: 6","reward":0}
+{"call":15,"case_id":"math-train-00092","expression":"((5 + 9) * 8)","answer":112,"completion":"Final answer: 52","reward":0}
+{"call":15,"case_id":"math-train-00092","expression":"((5 + 9) * 8)","answer":112,"completion":"Final answer: 52","reward":0}
+{"call":15,"case_id":"math-train-00092","expression":"((5 + 9) * 8)","answer":112,"completion":"Final answer: 52","reward":0}
+{"call":15,"case_id":"math-train-00092","expression":"((5 + 9) * 8)","answer":112,"completion":"Final answer: 64","reward":0}
+{"call":15,"case_id":"math-train-00092","expression":"((5 + 9) * 8)","answer":112,"completion":"Final answer: 72","reward":0}
+{"call":15,"case_id":"math-train-00092","expression":"((5 + 9) * 8)","answer":112,"completion":"Final answer: 68","reward":0}
+{"call":15,"case_id":"math-train-00092","expression":"((5 + 9) * 8)","answer":112,"completion":"Final answer: 64","reward":0}
+{"call":15,"case_id":"math-train-00092","expression":"((5 + 9) * 8)","answer":112,"completion":"Final answer: 68","reward":0}
+{"call":15,"case_id":"math-train-00161","expression":"(0 + (3 * 5))","answer":15,"completion":"Final answer: 15","reward":1}
+{"call":15,"case_id":"math-train-00161","expression":"(0 + (3 * 5))","answer":15,"completion":"Final answer: 15","reward":1}
+{"call":15,"case_id":"math-train-00161","expression":"(0 + (3 * 5))","answer":15,"completion":"Final answer: 15","reward":1}
+{"call":15,"case_id":"math-train-00161","expression":"(0 + (3 * 5))","answer":15,"completion":"Final answer: 3","reward":0}
+{"call":15,"case_id":"math-train-00161","expression":"(0 + (3 * 5))","answer":15,"completion":"Final answer: 15","reward":1}
+{"call":15,"case_id":"math-train-00161","expression":"(0 + (3 * 5))","answer":15,"completion":"Final answer: 15","reward":1}
+{"call":15,"case_id":"math-train-00161","expression":"(0 + (3 * 5))","answer":15,"completion":"Final answer: 15","reward":1}
+{"call":15,"case_id":"math-train-00161","expression":"(0 + (3 * 5))","answer":15,"completion":"Final answer: 15","reward":1}
+{"call":15,"case_id":"math-train-00119","expression":"(4 * (4 + 4))","answer":32,"completion":"Final answer: 24","reward":0}
+{"call":15,"case_id":"math-train-00119","expression":"(4 * (4 + 4))","answer":32,"completion":"Final answer: 32","reward":1}
+{"call":15,"case_id":"math-train-00119","expression":"(4 * (4 + 4))","answer":32,"completion":"Final answer: 32","reward":1}
+{"call":15,"case_id":"math-train-00119","expression":"(4 * (4 + 4))","answer":32,"completion":"Final answer: 32.","reward":0}
+{"call":15,"case_id":"math-train-00119","expression":"(4 * (4 + 4))","answer":32,"completion":"Final answer: 16","reward":0}
+{"call":15,"case_id":"math-train-00119","expression":"(4 * (4 + 4))","answer":32,"completion":"Final answer: 16","reward":0}
+{"call":15,"case_id":"math-train-00119","expression":"(4 * (4 + 4))","answer":32,"completion":"Final answer: 32","reward":1}
+{"call":15,"case_id":"math-train-00119","expression":"(4 * (4 + 4))","answer":32,"completion":"Final answer: 16","reward":0}
+{"call":15,"case_id":"math-train-00177","expression":"((2 - (1 + 0)) * 7)","answer":7,"completion":"Final answer: 14","reward":0}
+{"call":15,"case_id":"math-train-00177","expression":"((2 - (1 + 0)) * 7)","answer":7,"completion":"Final answer: -14","reward":0}
+{"call":15,"case_id":"math-train-00177","expression":"((2 - (1 + 0)) * 7)","answer":7,"completion":"Final answer: 14","reward":0}
+{"call":15,"case_id":"math-train-00177","expression":"((2 - (1 + 0)) * 7)","answer":7,"completion":"Final answer: 14","reward":0}
+{"call":15,"case_id":"math-train-00177","expression":"((2 - (1 + 0)) * 7)","answer":7,"completion":"Final answer: 0","reward":0}
+{"call":15,"case_id":"math-train-00177","expression":"((2 - (1 + 0)) * 7)","answer":7,"completion":"Final answer: 14","reward":0}
+{"call":15,"case_id":"math-train-00177","expression":"((2 - (1 + 0)) * 7)","answer":7,"completion":"Final answer: 14","reward":0}
+{"call":15,"case_id":"math-train-00177","expression":"((2 - (1 + 0)) * 7)","answer":7,"completion":"Final answer: 14","reward":0}
+{"call":15,"case_id":"math-train-00074","expression":"((3 * 4) - 9)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":15,"case_id":"math-train-00074","expression":"((3 * 4) - 9)","answer":3,"completion":"Final answer: 9","reward":0}
+{"call":15,"case_id":"math-train-00074","expression":"((3 * 4) - 9)","answer":3,"completion":"Final answer: 9","reward":0}
+{"call":15,"case_id":"math-train-00074","expression":"((3 * 4) - 9)","answer":3,"completion":"Final answer: 9","reward":0}
+{"call":15,"case_id":"math-train-00074","expression":"((3 * 4) - 9)","answer":3,"completion":"Final answer: 9","reward":0}
+{"call":15,"case_id":"math-train-00074","expression":"((3 * 4) - 9)","answer":3,"completion":"Final answer: 9","reward":0}
+{"call":15,"case_id":"math-train-00074","expression":"((3 * 4) - 9)","answer":3,"completion":"Final answer: 9","reward":0}
+{"call":15,"case_id":"math-train-00074","expression":"((3 * 4) - 9)","answer":3,"completion":"Final answer: 9","reward":0}
+{"call":16,"case_id":"math-train-00023","expression":"(3 * (0 + 3))","answer":9,"completion":"Final answer: 0","reward":0}
+{"call":16,"case_id":"math-train-00023","expression":"(3 * (0 + 3))","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":16,"case_id":"math-train-00023","expression":"(3 * (0 + 3))","answer":9,"completion":"Final answer: 0","reward":0}
+{"call":16,"case_id":"math-train-00023","expression":"(3 * (0 + 3))","answer":9,"completion":"Final answer: 3","reward":0}
+{"call":16,"case_id":"math-train-00023","expression":"(3 * (0 + 3))","answer":9,"completion":"Final answer: 0","reward":0}
+{"call":16,"case_id":"math-train-00023","expression":"(3 * (0 + 3))","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":16,"case_id":"math-train-00023","expression":"(3 * (0 + 3))","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":16,"case_id":"math-train-00023","expression":"(3 * (0 + 3))","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":16,"case_id":"math-train-00155","expression":"(9 * (6 + 2))","answer":72,"completion":"Final answer: 24","reward":0}
+{"call":16,"case_id":"math-train-00155","expression":"(9 * (6 + 2))","answer":72,"completion":"Final answer: 24","reward":0}
+{"call":16,"case_id":"math-train-00155","expression":"(9 * (6 + 2))","answer":72,"completion":"Final answer: 24","reward":0}
+{"call":16,"case_id":"math-train-00155","expression":"(9 * (6 + 2))","answer":72,"completion":"Final answer: 24","reward":0}
+{"call":16,"case_id":"math-train-00155","expression":"(9 * (6 + 2))","answer":72,"completion":"Final answer: 24","reward":0}
+{"call":16,"case_id":"math-train-00155","expression":"(9 * (6 + 2))","answer":72,"completion":"Final answer: 42","reward":0}
+{"call":16,"case_id":"math-train-00155","expression":"(9 * (6 + 2))","answer":72,"completion":"Final answer: 24","reward":0}
+{"call":16,"case_id":"math-train-00155","expression":"(9 * (6 + 2))","answer":72,"completion":"Final answer: 24","reward":0}
+{"call":16,"case_id":"math-train-00184","expression":"((4 + 3) - 4)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":16,"case_id":"math-train-00184","expression":"((4 + 3) - 4)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":16,"case_id":"math-train-00184","expression":"((4 + 3) - 4)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":16,"case_id":"math-train-00184","expression":"((4 + 3) - 4)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":16,"case_id":"math-train-00184","expression":"((4 + 3) - 4)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":16,"case_id":"math-train-00184","expression":"((4 + 3) - 4)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":16,"case_id":"math-train-00184","expression":"((4 + 3) - 4)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":16,"case_id":"math-train-00184","expression":"((4 + 3) - 4)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":16,"case_id":"math-train-00032","expression":"((7 + 2) * 8)","answer":72,"completion":"Final answer: 56","reward":0}
+{"call":16,"case_id":"math-train-00032","expression":"((7 + 2) * 8)","answer":72,"completion":"Final answer: 64","reward":0}
+{"call":16,"case_id":"math-train-00032","expression":"((7 + 2) * 8)","answer":72,"completion":"Final answer: 64","reward":0}
+{"call":16,"case_id":"math-train-00032","expression":"((7 + 2) * 8)","answer":72,"completion":"Final answer: 64","reward":0}
+{"call":16,"case_id":"math-train-00032","expression":"((7 + 2) * 8)","answer":72,"completion":"Final answer: 64","reward":0}
+{"call":16,"case_id":"math-train-00032","expression":"((7 + 2) * 8)","answer":72,"completion":"Final answer: 64","reward":0}
+{"call":16,"case_id":"math-train-00032","expression":"((7 + 2) * 8)","answer":72,"completion":"Final answer: 56","reward":0}
+{"call":16,"case_id":"math-train-00032","expression":"((7 + 2) * 8)","answer":72,"completion":"Final answer: 56","reward":0}
+{"call":16,"case_id":"math-train-00007","expression":"(8 - (3 + 1))","answer":4,"completion":"Final answer: 5","reward":0}
+{"call":16,"case_id":"math-train-00007","expression":"(8 - (3 + 1))","answer":4,"completion":"Final answer: 5","reward":0}
+{"call":16,"case_id":"math-train-00007","expression":"(8 - (3 + 1))","answer":4,"completion":"Final answer: 5","reward":0}
+{"call":16,"case_id":"math-train-00007","expression":"(8 - (3 + 1))","answer":4,"completion":"Final answer: 5","reward":0}
+{"call":16,"case_id":"math-train-00007","expression":"(8 - (3 + 1))","answer":4,"completion":"Final answer: 5","reward":0}
+{"call":16,"case_id":"math-train-00007","expression":"(8 - (3 + 1))","answer":4,"completion":"Final answer: 5","reward":0}
+{"call":16,"case_id":"math-train-00007","expression":"(8 - (3 + 1))","answer":4,"completion":"Final answer: 5","reward":0}
+{"call":16,"case_id":"math-train-00007","expression":"(8 - (3 + 1))","answer":4,"completion":"Final answer: 5","reward":0}
+{"call":16,"case_id":"math-train-00147","expression":"(6 + ((5 - 5) * 4))","answer":6,"completion":"Final answer: 60","reward":0}
+{"call":16,"case_id":"math-train-00147","expression":"(6 + ((5 - 5) * 4))","answer":6,"completion":"Final answer: 20","reward":0}
+{"call":16,"case_id":"math-train-00147","expression":"(6 + ((5 - 5) * 4))","answer":6,"completion":"Final answer: 40","reward":0}
+{"call":16,"case_id":"math-train-00147","expression":"(6 + ((5 - 5) * 4))","answer":6,"completion":"Final answer: 30","reward":0}
+{"call":16,"case_id":"math-train-00147","expression":"(6 + ((5 - 5) * 4))","answer":6,"completion":"Final answer: 30","reward":0}
+{"call":16,"case_id":"math-train-00147","expression":"(6 + ((5 - 5) * 4))","answer":6,"completion":"Final answer: 20","reward":0}
+{"call":16,"case_id":"math-train-00147","expression":"(6 + ((5 - 5) * 4))","answer":6,"completion":"Final answer: 30","reward":0}
+{"call":16,"case_id":"math-train-00147","expression":"(6 + ((5 - 5) * 4))","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":16,"case_id":"math-train-00189","expression":"(2 + ((2 * 1) + 8))","answer":12,"completion":"Final answer: 12","reward":1}
+{"call":16,"case_id":"math-train-00189","expression":"(2 + ((2 * 1) + 8))","answer":12,"completion":"Final answer: 10","reward":0}
+{"call":16,"case_id":"math-train-00189","expression":"(2 + ((2 * 1) + 8))","answer":12,"completion":"Final answer: 10","reward":0}
+{"call":16,"case_id":"math-train-00189","expression":"(2 + ((2 * 1) + 8))","answer":12,"completion":"Final answer: 10","reward":0}
+{"call":16,"case_id":"math-train-00189","expression":"(2 + ((2 * 1) + 8))","answer":12,"completion":"Final answer: 12","reward":1}
+{"call":16,"case_id":"math-train-00189","expression":"(2 + ((2 * 1) + 8))","answer":12,"completion":"Final answer: 10","reward":0}
+{"call":16,"case_id":"math-train-00189","expression":"(2 + ((2 * 1) + 8))","answer":12,"completion":"Final answer: 10","reward":0}
+{"call":16,"case_id":"math-train-00189","expression":"(2 + ((2 * 1) + 8))","answer":12,"completion":"Final answer: 10","reward":0}
+{"call":16,"case_id":"math-train-00010","expression":"((5 - 6) - 3)","answer":-4,"completion":"Final answer: -4","reward":1}
+{"call":16,"case_id":"math-train-00010","expression":"((5 - 6) - 3)","answer":-4,"completion":"Final answer: -2","reward":0}
+{"call":16,"case_id":"math-train-00010","expression":"((5 - 6) - 3)","answer":-4,"completion":"Final answer: -2","reward":0}
+{"call":16,"case_id":"math-train-00010","expression":"((5 - 6) - 3)","answer":-4,"completion":"Final answer: -4","reward":1}
+{"call":16,"case_id":"math-train-00010","expression":"((5 - 6) - 3)","answer":-4,"completion":"Final answer: -2","reward":0}
+{"call":16,"case_id":"math-train-00010","expression":"((5 - 6) - 3)","answer":-4,"completion":"Final answer: -2","reward":0}
+{"call":16,"case_id":"math-train-00010","expression":"((5 - 6) - 3)","answer":-4,"completion":"Final answer: -2","reward":0}
+{"call":16,"case_id":"math-train-00010","expression":"((5 - 6) - 3)","answer":-4,"completion":"Final answer: -2","reward":0}
+{"call":17,"case_id":"math-train-00029","expression":"(0 + (1 * 1))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":17,"case_id":"math-train-00029","expression":"(0 + (1 * 1))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":17,"case_id":"math-train-00029","expression":"(0 + (1 * 1))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":17,"case_id":"math-train-00029","expression":"(0 + (1 * 1))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":17,"case_id":"math-train-00029","expression":"(0 + (1 * 1))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":17,"case_id":"math-train-00029","expression":"(0 + (1 * 1))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":17,"case_id":"math-train-00029","expression":"(0 + (1 * 1))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":17,"case_id":"math-train-00029","expression":"(0 + (1 * 1))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":17,"case_id":"math-train-00065","expression":"(3 + (4 * 1))","answer":7,"completion":"Final answer: 7","reward":1}
+{"call":17,"case_id":"math-train-00065","expression":"(3 + (4 * 1))","answer":7,"completion":"Final answer: 7","reward":1}
+{"call":17,"case_id":"math-train-00065","expression":"(3 + (4 * 1))","answer":7,"completion":"Final answer: 7","reward":1}
+{"call":17,"case_id":"math-train-00065","expression":"(3 + (4 * 1))","answer":7,"completion":"Final answer: 7","reward":1}
+{"call":17,"case_id":"math-train-00065","expression":"(3 + (4 * 1))","answer":7,"completion":"Final answer: 7","reward":1}
+{"call":17,"case_id":"math-train-00065","expression":"(3 + (4 * 1))","answer":7,"completion":"Final answer: 7","reward":1}
+{"call":17,"case_id":"math-train-00065","expression":"(3 + (4 * 1))","answer":7,"completion":"Final answer: 7","reward":1}
+{"call":17,"case_id":"math-train-00065","expression":"(3 + (4 * 1))","answer":7,"completion":"Final answer: 7","reward":1}
+{"call":17,"case_id":"math-train-00081","expression":"(8 + ((9 * 1) + 3))","answer":20,"completion":"Final answer: 22","reward":0}
+{"call":17,"case_id":"math-train-00081","expression":"(8 + ((9 * 1) + 3))","answer":20,"completion":"Final answer: 10","reward":0}
+{"call":17,"case_id":"math-train-00081","expression":"(8 + ((9 * 1) + 3))","answer":20,"completion":"Final answer: 12","reward":0}
+{"call":17,"case_id":"math-train-00081","expression":"(8 + ((9 * 1) + 3))","answer":20,"completion":"Final answer: 12","reward":0}
+{"call":17,"case_id":"math-train-00081","expression":"(8 + ((9 * 1) + 3))","answer":20,"completion":"Final answer: 12","reward":0}
+{"call":17,"case_id":"math-train-00081","expression":"(8 + ((9 * 1) + 3))","answer":20,"completion":"Final answer: 12","reward":0}
+{"call":17,"case_id":"math-train-00081","expression":"(8 + ((9 * 1) + 3))","answer":20,"completion":"Final answer: 11","reward":0}
+{"call":17,"case_id":"math-train-00081","expression":"(8 + ((9 * 1) + 3))","answer":20,"completion":"Final answer: 11","reward":0}
+{"call":17,"case_id":"math-train-00028","expression":"((6 + 8) - 4)","answer":10,"completion":"Final answer: 10","reward":1}
+{"call":17,"case_id":"math-train-00028","expression":"((6 + 8) - 4)","answer":10,"completion":"Final answer: 10","reward":1}
+{"call":17,"case_id":"math-train-00028","expression":"((6 + 8) - 4)","answer":10,"completion":"Final answer: 10","reward":1}
+{"call":17,"case_id":"math-train-00028","expression":"((6 + 8) - 4)","answer":10,"completion":"Final answer: 10","reward":1}
+{"call":17,"case_id":"math-train-00028","expression":"((6 + 8) - 4)","answer":10,"completion":"Final answer: 10","reward":1}
+{"call":17,"case_id":"math-train-00028","expression":"((6 + 8) - 4)","answer":10,"completion":"Final answer: 10","reward":1}
+{"call":17,"case_id":"math-train-00028","expression":"((6 + 8) - 4)","answer":10,"completion":"Final answer: 10","reward":1}
+{"call":17,"case_id":"math-train-00028","expression":"((6 + 8) - 4)","answer":10,"completion":"Final answer: 10","reward":1}
+{"call":17,"case_id":"math-train-00054","expression":"(2 * ((8 + 2) + 7))","answer":34,"completion":"Final answer: 26","reward":0}
+{"call":17,"case_id":"math-train-00054","expression":"(2 * ((8 + 2) + 7))","answer":34,"completion":"Final answer: 28","reward":0}
+{"call":17,"case_id":"math-train-00054","expression":"(2 * ((8 + 2) + 7))","answer":34,"completion":"Final answer: 26","reward":0}
+{"call":17,"case_id":"math-train-00054","expression":"(2 * ((8 + 2) + 7))","answer":34,"completion":"Final answer: 24","reward":0}
+{"call":17,"case_id":"math-train-00054","expression":"(2 * ((8 + 2) + 7))","answer":34,"completion":"Final answer: 22","reward":0}
+{"call":17,"case_id":"math-train-00054","expression":"(2 * ((8 + 2) + 7))","answer":34,"completion":"Final answer: 24","reward":0}
+{"call":17,"case_id":"math-train-00054","expression":"(2 * ((8 + 2) + 7))","answer":34,"completion":"Final answer: 24","reward":0}
+{"call":17,"case_id":"math-train-00054","expression":"(2 * ((8 + 2) + 7))","answer":34,"completion":"Final answer: 24","reward":0}
+{"call":17,"case_id":"math-train-00183","expression":"((5 + (5 * 4)) - 9)","answer":16,"completion":"Final answer: 12","reward":0}
+{"call":17,"case_id":"math-train-00183","expression":"((5 + (5 * 4)) - 9)","answer":16,"completion":"Final answer: 20","reward":0}
+{"call":17,"case_id":"math-train-00183","expression":"((5 + (5 * 4)) - 9)","answer":16,"completion":"Final answer: 12","reward":0}
+{"call":17,"case_id":"math-train-00183","expression":"((5 + (5 * 4)) - 9)","answer":16,"completion":"Final answer: 12","reward":0}
+{"call":17,"case_id":"math-train-00183","expression":"((5 + (5 * 4)) - 9)","answer":16,"completion":"Final answer: 20","reward":0}
+{"call":17,"case_id":"math-train-00183","expression":"((5 + (5 * 4)) - 9)","answer":16,"completion":"Final answer: 18","reward":0}
+{"call":17,"case_id":"math-train-00183","expression":"((5 + (5 * 4)) - 9)","answer":16,"completion":"Final answer: 12","reward":0}
+{"call":17,"case_id":"math-train-00183","expression":"((5 + (5 * 4)) - 9)","answer":16,"completion":"Final answer: 6","reward":0}
+{"call":17,"case_id":"math-train-00075","expression":"((2 + (5 * 3)) - 3)","answer":14,"completion":"Final answer: 8","reward":0}
+{"call":17,"case_id":"math-train-00075","expression":"((2 + (5 * 3)) - 3)","answer":14,"completion":"Final answer: 10","reward":0}
+{"call":17,"case_id":"math-train-00075","expression":"((2 + (5 * 3)) - 3)","answer":14,"completion":"Final answer: 10","reward":0}
+{"call":17,"case_id":"math-train-00075","expression":"((2 + (5 * 3)) - 3)","answer":14,"completion":"Final answer: 10","reward":0}
+{"call":17,"case_id":"math-train-00075","expression":"((2 + (5 * 3)) - 3)","answer":14,"completion":"Final answer: 10","reward":0}
+{"call":17,"case_id":"math-train-00075","expression":"((2 + (5 * 3)) - 3)","answer":14,"completion":"Final answer: 10","reward":0}
+{"call":17,"case_id":"math-train-00075","expression":"((2 + (5 * 3)) - 3)","answer":14,"completion":"Final answer: 12","reward":0}
+{"call":17,"case_id":"math-train-00075","expression":"((2 + (5 * 3)) - 3)","answer":14,"completion":"Final answer: 10","reward":0}
+{"call":17,"case_id":"math-train-00131","expression":"(2 * (7 + 0))","answer":14,"completion":"Final answer: 14","reward":1}
+{"call":17,"case_id":"math-train-00131","expression":"(2 * (7 + 0))","answer":14,"completion":"Final answer: 14","reward":1}
+{"call":17,"case_id":"math-train-00131","expression":"(2 * (7 + 0))","answer":14,"completion":"Final answer: 14","reward":1}
+{"call":17,"case_id":"math-train-00131","expression":"(2 * (7 + 0))","answer":14,"completion":"Final answer: 14","reward":1}
+{"call":17,"case_id":"math-train-00131","expression":"(2 * (7 + 0))","answer":14,"completion":"Final answer: 14","reward":1}
+{"call":17,"case_id":"math-train-00131","expression":"(2 * (7 + 0))","answer":14,"completion":"Final answer: 14","reward":1}
+{"call":17,"case_id":"math-train-00131","expression":"(2 * (7 + 0))","answer":14,"completion":"Final answer: 14","reward":1}
+{"call":17,"case_id":"math-train-00131","expression":"(2 * (7 + 0))","answer":14,"completion":"Final answer: 14","reward":1}
+{"call":18,"case_id":"math-train-00068","expression":"((3 + 5) * 5)","answer":40,"completion":"Final answer: 30","reward":0}
+{"call":18,"case_id":"math-train-00068","expression":"((3 + 5) * 5)","answer":40,"completion":"Final answer: 30","reward":0}
+{"call":18,"case_id":"math-train-00068","expression":"((3 + 5) * 5)","answer":40,"completion":"Final answer: 30","reward":0}
+{"call":18,"case_id":"math-train-00068","expression":"((3 + 5) * 5)","answer":40,"completion":"Final answer: 30","reward":0}
+{"call":18,"case_id":"math-train-00068","expression":"((3 + 5) * 5)","answer":40,"completion":"Final answer: 30","reward":0}
+{"call":18,"case_id":"math-train-00068","expression":"((3 + 5) * 5)","answer":40,"completion":"Final answer: 30","reward":0}
+{"call":18,"case_id":"math-train-00068","expression":"((3 + 5) * 5)","answer":40,"completion":"Final answer: 30","reward":0}
+{"call":18,"case_id":"math-train-00068","expression":"((3 + 5) * 5)","answer":40,"completion":"Final answer: 30","reward":0}
+{"call":18,"case_id":"math-train-00095","expression":"(4 * (9 + 2))","answer":44,"completion":"Final answer: 36","reward":0}
+{"call":18,"case_id":"math-train-00095","expression":"(4 * (9 + 2))","answer":44,"completion":"Final answer: 44","reward":1}
+{"call":18,"case_id":"math-train-00095","expression":"(4 * (9 + 2))","answer":44,"completion":"Final answer: 32","reward":0}
+{"call":18,"case_id":"math-train-00095","expression":"(4 * (9 + 2))","answer":44,"completion":"Final answer: 42","reward":0}
+{"call":18,"case_id":"math-train-00095","expression":"(4 * (9 + 2))","answer":44,"completion":"Final answer: 34","reward":0}
+{"call":18,"case_id":"math-train-00095","expression":"(4 * (9 + 2))","answer":44,"completion":"Final answer: 26","reward":0}
+{"call":18,"case_id":"math-train-00095","expression":"(4 * (9 + 2))","answer":44,"completion":"Final answer: 32","reward":0}
+{"call":18,"case_id":"math-train-00095","expression":"(4 * (9 + 2))","answer":44,"completion":"Final answer: 44","reward":1}
+{"call":18,"case_id":"math-train-00115","expression":"(7 - (5 + 1))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":18,"case_id":"math-train-00115","expression":"(7 - (5 + 1))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":18,"case_id":"math-train-00115","expression":"(7 - (5 + 1))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":18,"case_id":"math-train-00115","expression":"(7 - (5 + 1))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":18,"case_id":"math-train-00115","expression":"(7 - (5 + 1))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":18,"case_id":"math-train-00115","expression":"(7 - (5 + 1))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":18,"case_id":"math-train-00115","expression":"(7 - (5 + 1))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":18,"case_id":"math-train-00115","expression":"(7 - (5 + 1))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":18,"case_id":"math-train-00180","expression":"(((2 + 0) * 1) + 6)","answer":8,"completion":"Final answer: 9","reward":0}
+{"call":18,"case_id":"math-train-00180","expression":"(((2 + 0) * 1) + 6)","answer":8,"completion":"Final answer: 8","reward":1}
+{"call":18,"case_id":"math-train-00180","expression":"(((2 + 0) * 1) + 6)","answer":8,"completion":"Final answer: 8","reward":1}
+{"call":18,"case_id":"math-train-00180","expression":"(((2 + 0) * 1) + 6)","answer":8,"completion":"Final answer: 14","reward":0}
+{"call":18,"case_id":"math-train-00180","expression":"(((2 + 0) * 1) + 6)","answer":8,"completion":"Final answer: 8","reward":1}
+{"call":18,"case_id":"math-train-00180","expression":"(((2 + 0) * 1) + 6)","answer":8,"completion":"Final answer: 8","reward":1}
+{"call":18,"case_id":"math-train-00180","expression":"(((2 + 0) * 1) + 6)","answer":8,"completion":"Final answer: 9","reward":0}
+{"call":18,"case_id":"math-train-00180","expression":"(((2 + 0) * 1) + 6)","answer":8,"completion":"Final answer: 8","reward":1}
+{"call":18,"case_id":"math-train-00070","expression":"((7 - 7) - 4)","answer":-4,"completion":"Final answer: 0","reward":0}
+{"call":18,"case_id":"math-train-00070","expression":"((7 - 7) - 4)","answer":-4,"completion":"Final answer: 0","reward":0}
+{"call":18,"case_id":"math-train-00070","expression":"((7 - 7) - 4)","answer":-4,"completion":"Final answer: 0","reward":0}
+{"call":18,"case_id":"math-train-00070","expression":"((7 - 7) - 4)","answer":-4,"completion":"Final answer: -4","reward":1}
+{"call":18,"case_id":"math-train-00070","expression":"((7 - 7) - 4)","answer":-4,"completion":"Final answer: -4","reward":1}
+{"call":18,"case_id":"math-train-00070","expression":"((7 - 7) - 4)","answer":-4,"completion":"Final answer: 0","reward":0}
+{"call":18,"case_id":"math-train-00070","expression":"((7 - 7) - 4)","answer":-4,"completion":"Final answer: 0","reward":0}
+{"call":18,"case_id":"math-train-00070","expression":"((7 - 7) - 4)","answer":-4,"completion":"Final answer: 0","reward":0}
+{"call":18,"case_id":"math-train-00025","expression":"(0 + (3 - 9))","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":18,"case_id":"math-train-00025","expression":"(0 + (3 - 9))","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":18,"case_id":"math-train-00025","expression":"(0 + (3 - 9))","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":18,"case_id":"math-train-00025","expression":"(0 + (3 - 9))","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":18,"case_id":"math-train-00025","expression":"(0 + (3 - 9))","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":18,"case_id":"math-train-00025","expression":"(0 + (3 - 9))","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":18,"case_id":"math-train-00025","expression":"(0 + (3 - 9))","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":18,"case_id":"math-train-00025","expression":"(0 + (3 - 9))","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":18,"case_id":"math-train-00038","expression":"((5 * 4) - 3)","answer":17,"completion":"Final answer: 17","reward":1}
+{"call":18,"case_id":"math-train-00038","expression":"((5 * 4) - 3)","answer":17,"completion":"Final answer: 17","reward":1}
+{"call":18,"case_id":"math-train-00038","expression":"((5 * 4) - 3)","answer":17,"completion":"Final answer: 17","reward":1}
+{"call":18,"case_id":"math-train-00038","expression":"((5 * 4) - 3)","answer":17,"completion":"Final answer: 17","reward":1}
+{"call":18,"case_id":"math-train-00038","expression":"((5 * 4) - 3)","answer":17,"completion":"Final answer: 17","reward":1}
+{"call":18,"case_id":"math-train-00038","expression":"((5 * 4) - 3)","answer":17,"completion":"Final answer: 16","reward":0}
+{"call":18,"case_id":"math-train-00038","expression":"((5 * 4) - 3)","answer":17,"completion":"Final answer: 17","reward":1}
+{"call":18,"case_id":"math-train-00038","expression":"((5 * 4) - 3)","answer":17,"completion":"Final answer: 17","reward":1}
+{"call":18,"case_id":"math-train-00104","expression":"((8 + 1) * 9)","answer":81,"completion":"Final answer: 72","reward":0}
+{"call":18,"case_id":"math-train-00104","expression":"((8 + 1) * 9)","answer":81,"completion":"Final answer: 81","reward":1}
+{"call":18,"case_id":"math-train-00104","expression":"((8 + 1) * 9)","answer":81,"completion":"Final answer: 81","reward":1}
+{"call":18,"case_id":"math-train-00104","expression":"((8 + 1) * 9)","answer":81,"completion":"Final answer: 81","reward":1}
+{"call":18,"case_id":"math-train-00104","expression":"((8 + 1) * 9)","answer":81,"completion":"Final answer: 81","reward":1}
+{"call":18,"case_id":"math-train-00104","expression":"((8 + 1) * 9)","answer":81,"completion":"Final answer: 81","reward":1}
+{"call":18,"case_id":"math-train-00104","expression":"((8 + 1) * 9)","answer":81,"completion":"Final answer: 81","reward":1}
+{"call":18,"case_id":"math-train-00104","expression":"((8 + 1) * 9)","answer":81,"completion":"Final answer: 81","reward":1}
+{"call":19,"case_id":"math-train-00036","expression":"(6 - ((8 * 9) + 9))","answer":-75,"completion":"Final answer: 0","reward":0}
+{"call":19,"case_id":"math-train-00036","expression":"(6 - ((8 * 9) + 9))","answer":-75,"completion":"Final answer: 37","reward":0}
+{"call":19,"case_id":"math-train-00036","expression":"(6 - ((8 * 9) + 9))","answer":-75,"completion":"Final answer: 15","reward":0}
+{"call":19,"case_id":"math-train-00036","expression":"(6 - ((8 * 9) + 9))","answer":-75,"completion":"Final answer: 15","reward":0}
+{"call":19,"case_id":"math-train-00036","expression":"(6 - ((8 * 9) + 9))","answer":-75,"completion":"Final answer: 15","reward":0}
+{"call":19,"case_id":"math-train-00036","expression":"(6 - ((8 * 9) + 9))","answer":-75,"completion":"Final answer: 15","reward":0}
+{"call":19,"case_id":"math-train-00036","expression":"(6 - ((8 * 9) + 9))","answer":-75,"completion":"Final answer: 75","reward":0}
+{"call":19,"case_id":"math-train-00036","expression":"(6 - ((8 * 9) + 9))","answer":-75,"completion":"Final answer: 75","reward":0}
+{"call":19,"case_id":"math-train-00134","expression":"((6 * 4) - 0)","answer":24,"completion":"Final answer: 24","reward":1}
+{"call":19,"case_id":"math-train-00134","expression":"((6 * 4) - 0)","answer":24,"completion":"Final answer: 24","reward":1}
+{"call":19,"case_id":"math-train-00134","expression":"((6 * 4) - 0)","answer":24,"completion":"Final answer: 24","reward":1}
+{"call":19,"case_id":"math-train-00134","expression":"((6 * 4) - 0)","answer":24,"completion":"Final answer: 24","reward":1}
+{"call":19,"case_id":"math-train-00134","expression":"((6 * 4) - 0)","answer":24,"completion":"Final answer: 24","reward":1}
+{"call":19,"case_id":"math-train-00134","expression":"((6 * 4) - 0)","answer":24,"completion":"Final answer: 24","reward":1}
+{"call":19,"case_id":"math-train-00134","expression":"((6 * 4) - 0)","answer":24,"completion":"Final answer: 24","reward":1}
+{"call":19,"case_id":"math-train-00134","expression":"((6 * 4) - 0)","answer":24,"completion":"Final answer: 24","reward":1}
+{"call":19,"case_id":"math-train-00085","expression":"(3 + (4 - 4))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":19,"case_id":"math-train-00085","expression":"(3 + (4 - 4))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":19,"case_id":"math-train-00085","expression":"(3 + (4 - 4))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":19,"case_id":"math-train-00085","expression":"(3 + (4 - 4))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":19,"case_id":"math-train-00085","expression":"(3 + (4 - 4))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":19,"case_id":"math-train-00085","expression":"(3 + (4 - 4))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":19,"case_id":"math-train-00085","expression":"(3 + (4 - 4))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":19,"case_id":"math-train-00085","expression":"(3 + (4 - 4))","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":19,"case_id":"math-train-00111","expression":"((1 * (7 + 5)) - 2)","answer":10,"completion":"Final answer: 12","reward":0}
+{"call":19,"case_id":"math-train-00111","expression":"((1 * (7 + 5)) - 2)","answer":10,"completion":"Final answer: 14","reward":0}
+{"call":19,"case_id":"math-train-00111","expression":"((1 * (7 + 5)) - 2)","answer":10,"completion":"Final answer: 18","reward":0}
+{"call":19,"case_id":"math-train-00111","expression":"((1 * (7 + 5)) - 2)","answer":10,"completion":"Final answer: 14","reward":0}
+{"call":19,"case_id":"math-train-00111","expression":"((1 * (7 + 5)) - 2)","answer":10,"completion":"Final answer: 10","reward":1}
+{"call":19,"case_id":"math-train-00111","expression":"((1 * (7 + 5)) - 2)","answer":10,"completion":"Final answer: 14","reward":0}
+{"call":19,"case_id":"math-train-00111","expression":"((1 * (7 + 5)) - 2)","answer":10,"completion":"Final answer: 14","reward":0}
+{"call":19,"case_id":"math-train-00111","expression":"((1 * (7 + 5)) - 2)","answer":10,"completion":"Final answer: 12","reward":0}
+{"call":19,"case_id":"math-train-00087","expression":"(5 - ((6 * 9) - 2))","answer":-47,"completion":"Final answer: 21","reward":0}
+{"call":19,"case_id":"math-train-00087","expression":"(5 - ((6 * 9) - 2))","answer":-47,"completion":"Final answer: 23","reward":0}
+{"call":19,"case_id":"math-train-00087","expression":"(5 - ((6 * 9) - 2))","answer":-47,"completion":"Final answer: 23","reward":0}
+{"call":19,"case_id":"math-train-00087","expression":"(5 - ((6 * 9) - 2))","answer":-47,"completion":"Final answer: 21","reward":0}
+{"call":19,"case_id":"math-train-00087","expression":"(5 - ((6 * 9) - 2))","answer":-47,"completion":"Final answer: 15","reward":0}
+{"call":19,"case_id":"math-train-00087","expression":"(5 - ((6 * 9) - 2))","answer":-47,"completion":"Final answer: 23","reward":0}
+{"call":19,"case_id":"math-train-00087","expression":"(5 - ((6 * 9) - 2))","answer":-47,"completion":"Final answer: 15","reward":0}
+{"call":19,"case_id":"math-train-00087","expression":"(5 - ((6 * 9) - 2))","answer":-47,"completion":"Final answer: 11","reward":0}
+{"call":19,"case_id":"math-train-00008","expression":"((3 + 1) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":19,"case_id":"math-train-00008","expression":"((3 + 1) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":19,"case_id":"math-train-00008","expression":"((3 + 1) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":19,"case_id":"math-train-00008","expression":"((3 + 1) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":19,"case_id":"math-train-00008","expression":"((3 + 1) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":19,"case_id":"math-train-00008","expression":"((3 + 1) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":19,"case_id":"math-train-00008","expression":"((3 + 1) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":19,"case_id":"math-train-00008","expression":"((3 + 1) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":19,"case_id":"math-train-00084","expression":"((5 - 6) * (9 - 1))","answer":-8,"completion":"Final answer: -3","reward":0}
+{"call":19,"case_id":"math-train-00084","expression":"((5 - 6) * (9 - 1))","answer":-8,"completion":"Final answer: -3","reward":0}
+{"call":19,"case_id":"math-train-00084","expression":"((5 - 6) * (9 - 1))","answer":-8,"completion":"Final answer: 15","reward":0}
+{"call":19,"case_id":"math-train-00084","expression":"((5 - 6) * (9 - 1))","answer":-8,"completion":"Final answer: -14","reward":0}
+{"call":19,"case_id":"math-train-00084","expression":"((5 - 6) * (9 - 1))","answer":-8,"completion":"Final answer: -3","reward":0}
+{"call":19,"case_id":"math-train-00084","expression":"((5 - 6) * (9 - 1))","answer":-8,"completion":"Final answer: 15","reward":0}
+{"call":19,"case_id":"math-train-00084","expression":"((5 - 6) * (9 - 1))","answer":-8,"completion":"Final answer: -18","reward":0}
+{"call":19,"case_id":"math-train-00084","expression":"((5 - 6) * (9 - 1))","answer":-8,"completion":"Final answer: -1","reward":0}
+{"call":19,"case_id":"math-train-00160","expression":"((9 + 1) - 8)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":19,"case_id":"math-train-00160","expression":"((9 + 1) - 8)","answer":2,"completion":"Final answer: 1","reward":0}
+{"call":19,"case_id":"math-train-00160","expression":"((9 + 1) - 8)","answer":2,"completion":"Final answer: 1","reward":0}
+{"call":19,"case_id":"math-train-00160","expression":"((9 + 1) - 8)","answer":2,"completion":"Final answer: 1","reward":0}
+{"call":19,"case_id":"math-train-00160","expression":"((9 + 1) - 8)","answer":2,"completion":"Final answer: 1","reward":0}
+{"call":19,"case_id":"math-train-00160","expression":"((9 + 1) - 8)","answer":2,"completion":"Final answer: 1","reward":0}
+{"call":19,"case_id":"math-train-00160","expression":"((9 + 1) - 8)","answer":2,"completion":"Final answer: 1","reward":0}
+{"call":19,"case_id":"math-train-00160","expression":"((9 + 1) - 8)","answer":2,"completion":"Final answer: 1","reward":0}
+{"call":20,"case_id":"math-train-00126","expression":"(((5 * 5) - 7) + 5)","answer":23,"completion":"Final answer: 25","reward":0}
+{"call":20,"case_id":"math-train-00126","expression":"(((5 * 5) - 7) + 5)","answer":23,"completion":"Final answer: 23","reward":1}
+{"call":20,"case_id":"math-train-00126","expression":"(((5 * 5) - 7) + 5)","answer":23,"completion":"Final answer: 22","reward":0}
+{"call":20,"case_id":"math-train-00126","expression":"(((5 * 5) - 7) + 5)","answer":23,"completion":"Final answer: 25","reward":0}
+{"call":20,"case_id":"math-train-00126","expression":"(((5 * 5) - 7) + 5)","answer":23,"completion":"Final answer: 26","reward":0}
+{"call":20,"case_id":"math-train-00126","expression":"(((5 * 5) - 7) + 5)","answer":23,"completion":"Final answer: 22","reward":0}
+{"call":20,"case_id":"math-train-00126","expression":"(((5 * 5) - 7) + 5)","answer":23,"completion":"Final answer: 30","reward":0}
+{"call":20,"case_id":"math-train-00126","expression":"(((5 * 5) - 7) + 5)","answer":23,"completion":"Final answer: 32","reward":0}
+{"call":20,"case_id":"math-train-00057","expression":"(((4 * 3) + 0) + 3)","answer":15,"completion":"Final answer: 17","reward":0}
+{"call":20,"case_id":"math-train-00057","expression":"(((4 * 3) + 0) + 3)","answer":15,"completion":"Final answer: 17","reward":0}
+{"call":20,"case_id":"math-train-00057","expression":"(((4 * 3) + 0) + 3)","answer":15,"completion":"Final answer: 17","reward":0}
+{"call":20,"case_id":"math-train-00057","expression":"(((4 * 3) + 0) + 3)","answer":15,"completion":"Final answer: 17","reward":0}
+{"call":20,"case_id":"math-train-00057","expression":"(((4 * 3) + 0) + 3)","answer":15,"completion":"Final answer: 17","reward":0}
+{"call":20,"case_id":"math-train-00057","expression":"(((4 * 3) + 0) + 3)","answer":15,"completion":"Final answer: 17","reward":0}
+{"call":20,"case_id":"math-train-00057","expression":"(((4 * 3) + 0) + 3)","answer":15,"completion":"Final answer: 17","reward":0}
+{"call":20,"case_id":"math-train-00057","expression":"(((4 * 3) + 0) + 3)","answer":15,"completion":"Final answer: 17","reward":0}
+{"call":20,"case_id":"math-train-00021","expression":"(7 * ((3 - 7) + 5))","answer":7,"completion":"Final answer: 18","reward":0}
+{"call":20,"case_id":"math-train-00021","expression":"(7 * ((3 - 7) + 5))","answer":7,"completion":"Final answer: 0","reward":0}
+{"call":20,"case_id":"math-train-00021","expression":"(7 * ((3 - 7) + 5))","answer":7,"completion":"Final answer: 14","reward":0}
+{"call":20,"case_id":"math-train-00021","expression":"(7 * ((3 - 7) + 5))","answer":7,"completion":"Final answer: 6","reward":0}
+{"call":20,"case_id":"math-train-00021","expression":"(7 * ((3 - 7) + 5))","answer":7,"completion":"Final answer: 11","reward":0}
+{"call":20,"case_id":"math-train-00021","expression":"(7 * ((3 - 7) + 5))","answer":7,"completion":"Final answer: 16","reward":0}
+{"call":20,"case_id":"math-train-00021","expression":"(7 * ((3 - 7) + 5))","answer":7,"completion":"Final answer: 10","reward":0}
+{"call":20,"case_id":"math-train-00021","expression":"(7 * ((3 - 7) + 5))","answer":7,"completion":"Final answer: 18","reward":0}
+{"call":20,"case_id":"math-train-00138","expression":"((2 * 9) - (1 - 2))","answer":19,"completion":"Final answer: 17","reward":0}
+{"call":20,"case_id":"math-train-00138","expression":"((2 * 9) - (1 - 2))","answer":19,"completion":"Final answer: 15","reward":0}
+{"call":20,"case_id":"math-train-00138","expression":"((2 * 9) - (1 - 2))","answer":19,"completion":"Final answer: 11","reward":0}
+{"call":20,"case_id":"math-train-00138","expression":"((2 * 9) - (1 - 2))","answer":19,"completion":"Final answer: 11","reward":0}
+{"call":20,"case_id":"math-train-00138","expression":"((2 * 9) - (1 - 2))","answer":19,"completion":"Final answer: 15","reward":0}
+{"call":20,"case_id":"math-train-00138","expression":"((2 * 9) - (1 - 2))","answer":19,"completion":"Final answer: 9","reward":0}
+{"call":20,"case_id":"math-train-00138","expression":"((2 * 9) - (1 - 2))","answer":19,"completion":"Final answer: 15","reward":0}
+{"call":20,"case_id":"math-train-00138","expression":"((2 * 9) - (1 - 2))","answer":19,"completion":"Final answer: 15","reward":0}
+{"call":20,"case_id":"math-train-00072","expression":"(((1 + 9) * 5) + 3)","answer":53,"completion":"Final answer: 58","reward":0}
+{"call":20,"case_id":"math-train-00072","expression":"(((1 + 9) * 5) + 3)","answer":53,"completion":"Final answer: 52","reward":0}
+{"call":20,"case_id":"math-train-00072","expression":"(((1 + 9) * 5) + 3)","answer":53,"completion":"Final answer: 98","reward":0}
+{"call":20,"case_id":"math-train-00072","expression":"(((1 + 9) * 5) + 3)","answer":53,"completion":"Final answer: 58","reward":0}
+{"call":20,"case_id":"math-train-00072","expression":"(((1 + 9) * 5) + 3)","answer":53,"completion":"Final answer: 58","reward":0}
+{"call":20,"case_id":"math-train-00072","expression":"(((1 + 9) * 5) + 3)","answer":53,"completion":"Final answer: 62","reward":0}
+{"call":20,"case_id":"math-train-00072","expression":"(((1 + 9) * 5) + 3)","answer":53,"completion":"Final answer: 52","reward":0}
+{"call":20,"case_id":"math-train-00072","expression":"(((1 + 9) * 5) + 3)","answer":53,"completion":"Final answer: 62","reward":0}
+{"call":20,"case_id":"math-train-00031","expression":"(4 - (1 + 2))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":20,"case_id":"math-train-00031","expression":"(4 - (1 + 2))","answer":1,"completion":"Final answer: 3","reward":0}
+{"call":20,"case_id":"math-train-00031","expression":"(4 - (1 + 2))","answer":1,"completion":"Final answer: -3","reward":0}
+{"call":20,"case_id":"math-train-00031","expression":"(4 - (1 + 2))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":20,"case_id":"math-train-00031","expression":"(4 - (1 + 2))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":20,"case_id":"math-train-00031","expression":"(4 - (1 + 2))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":20,"case_id":"math-train-00031","expression":"(4 - (1 + 2))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":20,"case_id":"math-train-00031","expression":"(4 - (1 + 2))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":20,"case_id":"math-train-00179","expression":"(8 * (0 + 8))","answer":64,"completion":"Final answer: 80","reward":0}
+{"call":20,"case_id":"math-train-00179","expression":"(8 * (0 + 8))","answer":64,"completion":"Final answer: 8","reward":0}
+{"call":20,"case_id":"math-train-00179","expression":"(8 * (0 + 8))","answer":64,"completion":"Final answer: 0","reward":0}
+{"call":20,"case_id":"math-train-00179","expression":"(8 * (0 + 8))","answer":64,"completion":"Final answer: 80","reward":0}
+{"call":20,"case_id":"math-train-00179","expression":"(8 * (0 + 8))","answer":64,"completion":"Final answer: 0","reward":0}
+{"call":20,"case_id":"math-train-00179","expression":"(8 * (0 + 8))","answer":64,"completion":"Final answer: 0","reward":0}
+{"call":20,"case_id":"math-train-00179","expression":"(8 * (0 + 8))","answer":64,"completion":"Final answer: 8","reward":0}
+{"call":20,"case_id":"math-train-00179","expression":"(8 * (0 + 8))","answer":64,"completion":"Final answer: 80","reward":0}
+{"call":20,"case_id":"math-train-00093","expression":"((0 * (1 - 1)) - 7)","answer":-7,"completion":"Final answer: -7","reward":1}
+{"call":20,"case_id":"math-train-00093","expression":"((0 * (1 - 1)) - 7)","answer":-7,"completion":"Final answer: -7","reward":1}
+{"call":20,"case_id":"math-train-00093","expression":"((0 * (1 - 1)) - 7)","answer":-7,"completion":"Final answer: -7","reward":1}
+{"call":20,"case_id":"math-train-00093","expression":"((0 * (1 - 1)) - 7)","answer":-7,"completion":"Final answer: -7","reward":1}
+{"call":20,"case_id":"math-train-00093","expression":"((0 * (1 - 1)) - 7)","answer":-7,"completion":"Final answer: -7","reward":1}
+{"call":20,"case_id":"math-train-00093","expression":"((0 * (1 - 1)) - 7)","answer":-7,"completion":"Final answer: -7","reward":1}
+{"call":20,"case_id":"math-train-00093","expression":"((0 * (1 - 1)) - 7)","answer":-7,"completion":"Final answer: -7","reward":1}
+{"call":20,"case_id":"math-train-00093","expression":"((0 * (1 - 1)) - 7)","answer":-7,"completion":"Final answer: -7","reward":1}
+{"call":21,"case_id":"math-train-00058","expression":"((3 - 4) - 8)","answer":-9,"completion":"Final answer: -11","reward":0}
+{"call":21,"case_id":"math-train-00058","expression":"((3 - 4) - 8)","answer":-9,"completion":"Final answer: -11","reward":0}
+{"call":21,"case_id":"math-train-00058","expression":"((3 - 4) - 8)","answer":-9,"completion":"Final answer: -11","reward":0}
+{"call":21,"case_id":"math-train-00058","expression":"((3 - 4) - 8)","answer":-9,"completion":"Final answer: -5","reward":0}
+{"call":21,"case_id":"math-train-00058","expression":"((3 - 4) - 8)","answer":-9,"completion":"Final answer: -5","reward":0}
+{"call":21,"case_id":"math-train-00058","expression":"((3 - 4) - 8)","answer":-9,"completion":"Final answer: -5","reward":0}
+{"call":21,"case_id":"math-train-00058","expression":"((3 - 4) - 8)","answer":-9,"completion":"Final answer: -11","reward":0}
+{"call":21,"case_id":"math-train-00058","expression":"((3 - 4) - 8)","answer":-9,"completion":"Final answer: -11","reward":0}
+{"call":21,"case_id":"math-train-00035","expression":"(4 * (4 + 1))","answer":20,"completion":"Final answer: 18","reward":0}
+{"call":21,"case_id":"math-train-00035","expression":"(4 * (4 + 1))","answer":20,"completion":"Final answer: 16","reward":0}
+{"call":21,"case_id":"math-train-00035","expression":"(4 * (4 + 1))","answer":20,"completion":"Final answer: 14","reward":0}
+{"call":21,"case_id":"math-train-00035","expression":"(4 * (4 + 1))","answer":20,"completion":"Final answer: 12","reward":0}
+{"call":21,"case_id":"math-train-00035","expression":"(4 * (4 + 1))","answer":20,"completion":"Final answer: 16","reward":0}
+{"call":21,"case_id":"math-train-00035","expression":"(4 * (4 + 1))","answer":20,"completion":"Final answer: 16","reward":0}
+{"call":21,"case_id":"math-train-00035","expression":"(4 * (4 + 1))","answer":20,"completion":"Final answer: 18","reward":0}
+{"call":21,"case_id":"math-train-00035","expression":"(4 * (4 + 1))","answer":20,"completion":"Final answer: 18","reward":0}
+{"call":21,"case_id":"math-train-00136","expression":"((8 + 7) - 9)","answer":6,"completion":"Final answer: 8","reward":0}
+{"call":21,"case_id":"math-train-00136","expression":"((8 + 7) - 9)","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":21,"case_id":"math-train-00136","expression":"((8 + 7) - 9)","answer":6,"completion":"Final answer: 8","reward":0}
+{"call":21,"case_id":"math-train-00136","expression":"((8 + 7) - 9)","answer":6,"completion":"Final answer: 8","reward":0}
+{"call":21,"case_id":"math-train-00136","expression":"((8 + 7) - 9)","answer":6,"completion":"Final answer: 8","reward":0}
+{"call":21,"case_id":"math-train-00136","expression":"((8 + 7) - 9)","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":21,"case_id":"math-train-00136","expression":"((8 + 7) - 9)","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":21,"case_id":"math-train-00136","expression":"((8 + 7) - 9)","answer":6,"completion":"Final answer: 8","reward":0}
+{"call":21,"case_id":"math-train-00130","expression":"((3 - 1) - 0)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":21,"case_id":"math-train-00130","expression":"((3 - 1) - 0)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":21,"case_id":"math-train-00130","expression":"((3 - 1) - 0)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":21,"case_id":"math-train-00130","expression":"((3 - 1) - 0)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":21,"case_id":"math-train-00130","expression":"((3 - 1) - 0)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":21,"case_id":"math-train-00130","expression":"((3 - 1) - 0)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":21,"case_id":"math-train-00130","expression":"((3 - 1) - 0)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":21,"case_id":"math-train-00130","expression":"((3 - 1) - 0)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":21,"case_id":"math-train-00079","expression":"(8 - (3 + 4))","answer":1,"completion":"Final answer: 2","reward":0}
+{"call":21,"case_id":"math-train-00079","expression":"(8 - (3 + 4))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":21,"case_id":"math-train-00079","expression":"(8 - (3 + 4))","answer":1,"completion":"Final answer: 5","reward":0}
+{"call":21,"case_id":"math-train-00079","expression":"(8 - (3 + 4))","answer":1,"completion":"Final answer: 5","reward":0}
+{"call":21,"case_id":"math-train-00079","expression":"(8 - (3 + 4))","answer":1,"completion":"Final answer: 5","reward":0}
+{"call":21,"case_id":"math-train-00079","expression":"(8 - (3 + 4))","answer":1,"completion":"Final answer: 5","reward":0}
+{"call":21,"case_id":"math-train-00079","expression":"(8 - (3 + 4))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":21,"case_id":"math-train-00079","expression":"(8 - (3 + 4))","answer":1,"completion":"Final answer: 5","reward":0}
+{"call":21,"case_id":"math-train-00172","expression":"((4 + 3) - 6)","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":21,"case_id":"math-train-00172","expression":"((4 + 3) - 6)","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":21,"case_id":"math-train-00172","expression":"((4 + 3) - 6)","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":21,"case_id":"math-train-00172","expression":"((4 + 3) - 6)","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":21,"case_id":"math-train-00172","expression":"((4 + 3) - 6)","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":21,"case_id":"math-train-00172","expression":"((4 + 3) - 6)","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":21,"case_id":"math-train-00172","expression":"((4 + 3) - 6)","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":21,"case_id":"math-train-00172","expression":"((4 + 3) - 6)","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":21,"case_id":"math-train-00037","expression":"(6 + (2 - 4))","answer":4,"completion":"Final answer: 4","reward":1}
+{"call":21,"case_id":"math-train-00037","expression":"(6 + (2 - 4))","answer":4,"completion":"Final answer: 8","reward":0}
+{"call":21,"case_id":"math-train-00037","expression":"(6 + (2 - 4))","answer":4,"completion":"Final answer: 8","reward":0}
+{"call":21,"case_id":"math-train-00037","expression":"(6 + (2 - 4))","answer":4,"completion":"Final answer: 8","reward":0}
+{"call":21,"case_id":"math-train-00037","expression":"(6 + (2 - 4))","answer":4,"completion":"Final answer: 8","reward":0}
+{"call":21,"case_id":"math-train-00037","expression":"(6 + (2 - 4))","answer":4,"completion":"Final answer: 8","reward":0}
+{"call":21,"case_id":"math-train-00037","expression":"(6 + (2 - 4))","answer":4,"completion":"Final answer: 8","reward":0}
+{"call":21,"case_id":"math-train-00037","expression":"(6 + (2 - 4))","answer":4,"completion":"Final answer: 8","reward":0}
+{"call":21,"case_id":"math-train-00169","expression":"(9 + (8 - 6))","answer":11,"completion":"Final answer: 7","reward":0}
+{"call":21,"case_id":"math-train-00169","expression":"(9 + (8 - 6))","answer":11,"completion":"Final answer: 7","reward":0}
+{"call":21,"case_id":"math-train-00169","expression":"(9 + (8 - 6))","answer":11,"completion":"Final answer: 7","reward":0}
+{"call":21,"case_id":"math-train-00169","expression":"(9 + (8 - 6))","answer":11,"completion":"Final answer: 7","reward":0}
+{"call":21,"case_id":"math-train-00169","expression":"(9 + (8 - 6))","answer":11,"completion":"Final answer: 11","reward":1}
+{"call":21,"case_id":"math-train-00169","expression":"(9 + (8 - 6))","answer":11,"completion":"Final answer: 7","reward":0}
+{"call":21,"case_id":"math-train-00169","expression":"(9 + (8 - 6))","answer":11,"completion":"Final answer: 7","reward":0}
+{"call":21,"case_id":"math-train-00169","expression":"(9 + (8 - 6))","answer":11,"completion":"Final answer: 11","reward":1}
+{"call":22,"case_id":"math-train-00096","expression":"(7 - (3 * (9 - 7)))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":22,"case_id":"math-train-00096","expression":"(7 - (3 * (9 - 7)))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":22,"case_id":"math-train-00096","expression":"(7 - (3 * (9 - 7)))","answer":1,"completion":"Final answer: 10","reward":0}
+{"call":22,"case_id":"math-train-00096","expression":"(7 - (3 * (9 - 7)))","answer":1,"completion":"Final answer: 6","reward":0}
+{"call":22,"case_id":"math-train-00096","expression":"(7 - (3 * (9 - 7)))","answer":1,"completion":"Final answer: 4","reward":0}
+{"call":22,"case_id":"math-train-00096","expression":"(7 - (3 * (9 - 7)))","answer":1,"completion":"Final answer: 5","reward":0}
+{"call":22,"case_id":"math-train-00096","expression":"(7 - (3 * (9 - 7)))","answer":1,"completion":"Final answer: 1","reward":1}
+{"call":22,"case_id":"math-train-00096","expression":"(7 - (3 * (9 - 7)))","answer":1,"completion":"Final answer: 8","reward":0}
+{"call":22,"case_id":"math-train-00006","expression":"(5 - (1 * (9 + 4)))","answer":-8,"completion":"Final answer: 4","reward":0}
+{"call":22,"case_id":"math-train-00006","expression":"(5 - (1 * (9 + 4)))","answer":-8,"completion":"Final answer: 10","reward":0}
+{"call":22,"case_id":"math-train-00006","expression":"(5 - (1 * (9 + 4)))","answer":-8,"completion":"Final answer: 10","reward":0}
+{"call":22,"case_id":"math-train-00006","expression":"(5 - (1 * (9 + 4)))","answer":-8,"completion":"Final answer: 2","reward":0}
+{"call":22,"case_id":"math-train-00006","expression":"(5 - (1 * (9 + 4)))","answer":-8,"completion":"Final answer: 0","reward":0}
+{"call":22,"case_id":"math-train-00006","expression":"(5 - (1 * (9 + 4)))","answer":-8,"completion":"Final answer: 0","reward":0}
+{"call":22,"case_id":"math-train-00006","expression":"(5 - (1 * (9 + 4)))","answer":-8,"completion":"Final answer: 10","reward":0}
+{"call":22,"case_id":"math-train-00006","expression":"(5 - (1 * (9 + 4)))","answer":-8,"completion":"Final answer: 8","reward":0}
+{"call":22,"case_id":"math-train-00158","expression":"((1 * 3) - 1)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":22,"case_id":"math-train-00158","expression":"((1 * 3) - 1)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":22,"case_id":"math-train-00158","expression":"((1 * 3) - 1)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":22,"case_id":"math-train-00158","expression":"((1 * 3) - 1)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":22,"case_id":"math-train-00158","expression":"((1 * 3) - 1)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":22,"case_id":"math-train-00158","expression":"((1 * 3) - 1)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":22,"case_id":"math-train-00158","expression":"((1 * 3) - 1)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":22,"case_id":"math-train-00158","expression":"((1 * 3) - 1)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":22,"case_id":"math-train-00129","expression":"(7 * ((8 - 0) + 9))","answer":119,"completion":"Final answer: 76","reward":0}
+{"call":22,"case_id":"math-train-00129","expression":"(7 * ((8 - 0) + 9))","answer":119,"completion":"Final answer: 63","reward":0}
+{"call":22,"case_id":"math-train-00129","expression":"(7 * ((8 - 0) + 9))","answer":119,"completion":"Final answer: 55","reward":0}
+{"call":22,"case_id":"math-train-00129","expression":"(7 * ((8 - 0) + 9))","answer":119,"completion":"Final answer: 81","reward":0}
+{"call":22,"case_id":"math-train-00129","expression":"(7 * ((8 - 0) + 9))","answer":119,"completion":"Final answer: 77","reward":0}
+{"call":22,"case_id":"math-train-00129","expression":"(7 * ((8 - 0) + 9))","answer":119,"completion":"Final answer: 74","reward":0}
+{"call":22,"case_id":"math-train-00129","expression":"(7 * ((8 - 0) + 9))","answer":119,"completion":"Final answer: 86","reward":0}
+{"call":22,"case_id":"math-train-00129","expression":"(7 * ((8 - 0) + 9))","answer":119,"completion":"Final answer: 43","reward":0}
+{"call":22,"case_id":"math-train-00145","expression":"(1 + (5 - 4))","answer":2,"completion":"Final answer: 1","reward":0}
+{"call":22,"case_id":"math-train-00145","expression":"(1 + (5 - 4))","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":22,"case_id":"math-train-00145","expression":"(1 + (5 - 4))","answer":2,"completion":"Final answer: 5","reward":0}
+{"call":22,"case_id":"math-train-00145","expression":"(1 + (5 - 4))","answer":2,"completion":"Final answer: 1","reward":0}
+{"call":22,"case_id":"math-train-00145","expression":"(1 + (5 - 4))","answer":2,"completion":"Final answer: 1","reward":0}
+{"call":22,"case_id":"math-train-00145","expression":"(1 + (5 - 4))","answer":2,"completion":"Final answer: 1","reward":0}
+{"call":22,"case_id":"math-train-00145","expression":"(1 + (5 - 4))","answer":2,"completion":"Final answer: 1","reward":0}
+{"call":22,"case_id":"math-train-00145","expression":"(1 + (5 - 4))","answer":2,"completion":"Final answer: 5","reward":0}
+{"call":22,"case_id":"math-train-00066","expression":"(8 - (4 - (2 * 6)))","answer":16,"completion":"Final answer: -2","reward":0}
+{"call":22,"case_id":"math-train-00066","expression":"(8 - (4 - (2 * 6)))","answer":16,"completion":"Final answer: 2","reward":0}
+{"call":22,"case_id":"math-train-00066","expression":"(8 - (4 - (2 * 6)))","answer":16,"completion":"Final answer: 8","reward":0}
+{"call":22,"case_id":"math-train-00066","expression":"(8 - (4 - (2 * 6)))","answer":16,"completion":"Final answer: 1","reward":0}
+{"call":22,"case_id":"math-train-00066","expression":"(8 - (4 - (2 * 6)))","answer":16,"completion":"Final answer: 0","reward":0}
+{"call":22,"case_id":"math-train-00066","expression":"(8 - (4 - (2 * 6)))","answer":16,"completion":"Final answer: 0","reward":0}
+{"call":22,"case_id":"math-train-00066","expression":"(8 - (4 - (2 * 6)))","answer":16,"completion":"Final answer: -6","reward":0}
+{"call":22,"case_id":"math-train-00066","expression":"(8 - (4 - (2 * 6)))","answer":16,"completion":"Final answer: 0","reward":0}
+{"call":22,"case_id":"math-train-00049","expression":"(9 + (7 - 3))","answer":13,"completion":"Final answer: 10","reward":0}
+{"call":22,"case_id":"math-train-00049","expression":"(9 + (7 - 3))","answer":13,"completion":"Final answer: 10","reward":0}
+{"call":22,"case_id":"math-train-00049","expression":"(9 + (7 - 3))","answer":13,"completion":"Final answer: 9","reward":0}
+{"call":22,"case_id":"math-train-00049","expression":"(9 + (7 - 3))","answer":13,"completion":"Final answer: 10","reward":0}
+{"call":22,"case_id":"math-train-00049","expression":"(9 + (7 - 3))","answer":13,"completion":"Final answer: 10","reward":0}
+{"call":22,"case_id":"math-train-00049","expression":"(9 + (7 - 3))","answer":13,"completion":"Final answer: 10","reward":0}
+{"call":22,"case_id":"math-train-00049","expression":"(9 + (7 - 3))","answer":13,"completion":"Final answer: 10","reward":0}
+{"call":22,"case_id":"math-train-00049","expression":"(9 + (7 - 3))","answer":13,"completion":"Final answer: 10","reward":0}
+{"call":22,"case_id":"math-train-00099","expression":"(9 * ((7 - 0) - 4))","answer":27,"completion":"Final answer: 15","reward":0}
+{"call":22,"case_id":"math-train-00099","expression":"(9 * ((7 - 0) - 4))","answer":27,"completion":"Final answer: 13","reward":0}
+{"call":22,"case_id":"math-train-00099","expression":"(9 * ((7 - 0) - 4))","answer":27,"completion":"Final answer: 15","reward":0}
+{"call":22,"case_id":"math-train-00099","expression":"(9 * ((7 - 0) - 4))","answer":27,"completion":"Final answer: 11","reward":0}
+{"call":22,"case_id":"math-train-00099","expression":"(9 * ((7 - 0) - 4))","answer":27,"completion":"Final answer: 11","reward":0}
+{"call":22,"case_id":"math-train-00099","expression":"(9 * ((7 - 0) - 4))","answer":27,"completion":"Final answer: 11","reward":0}
+{"call":22,"case_id":"math-train-00099","expression":"(9 * ((7 - 0) - 4))","answer":27,"completion":"Final answer: 11","reward":0}
+{"call":22,"case_id":"math-train-00099","expression":"(9 * ((7 - 0) - 4))","answer":27,"completion":"Final answer: 13","reward":0}
+{"call":23,"case_id":"math-train-00005","expression":"(4 + (2 * 4))","answer":12,"completion":"Final answer: 12","reward":1}
+{"call":23,"case_id":"math-train-00005","expression":"(4 + (2 * 4))","answer":12,"completion":"Final answer: 10","reward":0}
+{"call":23,"case_id":"math-train-00005","expression":"(4 + (2 * 4))","answer":12,"completion":"Final answer: 10","reward":0}
+{"call":23,"case_id":"math-train-00005","expression":"(4 + (2 * 4))","answer":12,"completion":"Final answer: 12","reward":1}
+{"call":23,"case_id":"math-train-00005","expression":"(4 + (2 * 4))","answer":12,"completion":"Final answer: 10","reward":0}
+{"call":23,"case_id":"math-train-00005","expression":"(4 + (2 * 4))","answer":12,"completion":"Final answer: 10","reward":0}
+{"call":23,"case_id":"math-train-00005","expression":"(4 + (2 * 4))","answer":12,"completion":"Final answer: 12","reward":1}
+{"call":23,"case_id":"math-train-00005","expression":"(4 + (2 * 4))","answer":12,"completion":"Final answer: 12","reward":1}
+{"call":23,"case_id":"math-train-00151","expression":"(6 - (1 + 7))","answer":-2,"completion":"Final answer: 6","reward":0}
+{"call":23,"case_id":"math-train-00151","expression":"(6 - (1 + 7))","answer":-2,"completion":"Final answer: -1","reward":0}
+{"call":23,"case_id":"math-train-00151","expression":"(6 - (1 + 7))","answer":-2,"completion":"Final answer: 6","reward":0}
+{"call":23,"case_id":"math-train-00151","expression":"(6 - (1 + 7))","answer":-2,"completion":"Final answer: 0","reward":0}
+{"call":23,"case_id":"math-train-00151","expression":"(6 - (1 + 7))","answer":-2,"completion":"Final answer: 6","reward":0}
+{"call":23,"case_id":"math-train-00151","expression":"(6 - (1 + 7))","answer":-2,"completion":"Final answer: -1","reward":0}
+{"call":23,"case_id":"math-train-00151","expression":"(6 - (1 + 7))","answer":-2,"completion":"Final answer: -3","reward":0}
+{"call":23,"case_id":"math-train-00151","expression":"(6 - (1 + 7))","answer":-2,"completion":"Final answer: 2","reward":0}
+{"call":23,"case_id":"math-train-00053","expression":"(9 + (8 * 5))","answer":49,"completion":"Final answer: 43","reward":0}
+{"call":23,"case_id":"math-train-00053","expression":"(9 + (8 * 5))","answer":49,"completion":"Final answer: 43","reward":0}
+{"call":23,"case_id":"math-train-00053","expression":"(9 + (8 * 5))","answer":49,"completion":"Final answer: 43","reward":0}
+{"call":23,"case_id":"math-train-00053","expression":"(9 + (8 * 5))","answer":49,"completion":"Final answer: 43","reward":0}
+{"call":23,"case_id":"math-train-00053","expression":"(9 + (8 * 5))","answer":49,"completion":"Final answer: 43","reward":0}
+{"call":23,"case_id":"math-train-00053","expression":"(9 + (8 * 5))","answer":49,"completion":"Final answer: 53","reward":0}
+{"call":23,"case_id":"math-train-00053","expression":"(9 + (8 * 5))","answer":49,"completion":"Final answer: 43","reward":0}
+{"call":23,"case_id":"math-train-00053","expression":"(9 + (8 * 5))","answer":49,"completion":"Final answer: 53","reward":0}
+{"call":23,"case_id":"math-train-00182","expression":"((1 * 7) - 5)","answer":2,"completion":"Final answer: 12","reward":0}
+{"call":23,"case_id":"math-train-00182","expression":"((1 * 7) - 5)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":23,"case_id":"math-train-00182","expression":"((1 * 7) - 5)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":23,"case_id":"math-train-00182","expression":"((1 * 7) - 5)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":23,"case_id":"math-train-00182","expression":"((1 * 7) - 5)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":23,"case_id":"math-train-00182","expression":"((1 * 7) - 5)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":23,"case_id":"math-train-00182","expression":"((1 * 7) - 5)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":23,"case_id":"math-train-00182","expression":"((1 * 7) - 5)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":23,"case_id":"math-train-00154","expression":"((8 - 4) - 1)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":23,"case_id":"math-train-00154","expression":"((8 - 4) - 1)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":23,"case_id":"math-train-00154","expression":"((8 - 4) - 1)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":23,"case_id":"math-train-00154","expression":"((8 - 4) - 1)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":23,"case_id":"math-train-00154","expression":"((8 - 4) - 1)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":23,"case_id":"math-train-00154","expression":"((8 - 4) - 1)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":23,"case_id":"math-train-00154","expression":"((8 - 4) - 1)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":23,"case_id":"math-train-00154","expression":"((8 - 4) - 1)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":23,"case_id":"math-train-00056","expression":"((7 + 9) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":23,"case_id":"math-train-00056","expression":"((7 + 9) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":23,"case_id":"math-train-00056","expression":"((7 + 9) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":23,"case_id":"math-train-00056","expression":"((7 + 9) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":23,"case_id":"math-train-00056","expression":"((7 + 9) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":23,"case_id":"math-train-00056","expression":"((7 + 9) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":23,"case_id":"math-train-00056","expression":"((7 + 9) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":23,"case_id":"math-train-00056","expression":"((7 + 9) * 0)","answer":0,"completion":"Final answer: 0","reward":1}
+{"call":23,"case_id":"math-train-00173","expression":"(3 + (4 * 3))","answer":15,"completion":"Final answer: 15","reward":1}
+{"call":23,"case_id":"math-train-00173","expression":"(3 + (4 * 3))","answer":15,"completion":"Final answer: 15","reward":1}
+{"call":23,"case_id":"math-train-00173","expression":"(3 + (4 * 3))","answer":15,"completion":"Final answer: 15","reward":1}
+{"call":23,"case_id":"math-train-00173","expression":"(3 + (4 * 3))","answer":15,"completion":"Final answer: 15","reward":1}
+{"call":23,"case_id":"math-train-00173","expression":"(3 + (4 * 3))","answer":15,"completion":"Final answer: 15","reward":1}
+{"call":23,"case_id":"math-train-00173","expression":"(3 + (4 * 3))","answer":15,"completion":"Final answer: 15","reward":1}
+{"call":23,"case_id":"math-train-00173","expression":"(3 + (4 * 3))","answer":15,"completion":"Final answer: 15","reward":1}
+{"call":23,"case_id":"math-train-00173","expression":"(3 + (4 * 3))","answer":15,"completion":"Final answer: 15","reward":1}
+{"call":23,"case_id":"math-train-00046","expression":"((3 - 0) - 9)","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":23,"case_id":"math-train-00046","expression":"((3 - 0) - 9)","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":23,"case_id":"math-train-00046","expression":"((3 - 0) - 9)","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":23,"case_id":"math-train-00046","expression":"((3 - 0) - 9)","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":23,"case_id":"math-train-00046","expression":"((3 - 0) - 9)","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":23,"case_id":"math-train-00046","expression":"((3 - 0) - 9)","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":23,"case_id":"math-train-00046","expression":"((3 - 0) - 9)","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":23,"case_id":"math-train-00046","expression":"((3 - 0) - 9)","answer":-6,"completion":"Final answer: -6","reward":1}
+{"call":24,"case_id":"math-train-00190","expression":"((7 - 4) - 1)","answer":2,"completion":"Final answer: 2.","reward":0}
+{"call":24,"case_id":"math-train-00190","expression":"((7 - 4) - 1)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":24,"case_id":"math-train-00190","expression":"((7 - 4) - 1)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":24,"case_id":"math-train-00190","expression":"((7 - 4) - 1)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":24,"case_id":"math-train-00190","expression":"((7 - 4) - 1)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":24,"case_id":"math-train-00190","expression":"((7 - 4) - 1)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":24,"case_id":"math-train-00190","expression":"((7 - 4) - 1)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":24,"case_id":"math-train-00190","expression":"((7 - 4) - 1)","answer":2,"completion":"Final answer: 2","reward":1}
+{"call":24,"case_id":"math-train-00192","expression":"((3 - 5) * (7 - 7))","answer":0,"completion":"Final answer: -12","reward":0}
+{"call":24,"case_id":"math-train-00192","expression":"((3 - 5) * (7 - 7))","answer":0,"completion":"Final answer: -2","reward":0}
+{"call":24,"case_id":"math-train-00192","expression":"((3 - 5) * (7 - 7))","answer":0,"completion":"Final answer: -4","reward":0}
+{"call":24,"case_id":"math-train-00192","expression":"((3 - 5) * (7 - 7))","answer":0,"completion":"Final answer: -8","reward":0}
+{"call":24,"case_id":"math-train-00192","expression":"((3 - 5) * (7 - 7))","answer":0,"completion":"Final answer: -12","reward":0}
+{"call":24,"case_id":"math-train-00192","expression":"((3 - 5) * (7 - 7))","answer":0,"completion":"Final answer: -7","reward":0}
+{"call":24,"case_id":"math-train-00192","expression":"((3 - 5) * (7 - 7))","answer":0,"completion":"Final answer: -10","reward":0}
+{"call":24,"case_id":"math-train-00192","expression":"((3 - 5) * (7 - 7))","answer":0,"completion":"Final answer: -30","reward":0}
+{"call":24,"case_id":"math-train-00101","expression":"(6 + (0 * 5))","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":24,"case_id":"math-train-00101","expression":"(6 + (0 * 5))","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":24,"case_id":"math-train-00101","expression":"(6 + (0 * 5))","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":24,"case_id":"math-train-00101","expression":"(6 + (0 * 5))","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":24,"case_id":"math-train-00101","expression":"(6 + (0 * 5))","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":24,"case_id":"math-train-00101","expression":"(6 + (0 * 5))","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":24,"case_id":"math-train-00101","expression":"(6 + (0 * 5))","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":24,"case_id":"math-train-00101","expression":"(6 + (0 * 5))","answer":6,"completion":"Final answer: 6","reward":1}
+{"call":24,"case_id":"math-train-00022","expression":"((7 - 6) - 4)","answer":-3,"completion":"Final answer: 1","reward":0}
+{"call":24,"case_id":"math-train-00022","expression":"((7 - 6) - 4)","answer":-3,"completion":"Final answer: -3","reward":1}
+{"call":24,"case_id":"math-train-00022","expression":"((7 - 6) - 4)","answer":-3,"completion":"Final answer: 1","reward":0}
+{"call":24,"case_id":"math-train-00022","expression":"((7 - 6) - 4)","answer":-3,"completion":"Final answer: 1","reward":0}
+{"call":24,"case_id":"math-train-00022","expression":"((7 - 6) - 4)","answer":-3,"completion":"Final answer: 1","reward":0}
+{"call":24,"case_id":"math-train-00022","expression":"((7 - 6) - 4)","answer":-3,"completion":"Final answer: 1","reward":0}
+{"call":24,"case_id":"math-train-00022","expression":"((7 - 6) - 4)","answer":-3,"completion":"Final answer: 1","reward":0}
+{"call":24,"case_id":"math-train-00022","expression":"((7 - 6) - 4)","answer":-3,"completion":"Final answer: 1","reward":0}
+{"call":24,"case_id":"math-train-00014","expression":"((5 * 2) - 7)","answer":3,"completion":"Final answer: 6","reward":0}
+{"call":24,"case_id":"math-train-00014","expression":"((5 * 2) - 7)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":24,"case_id":"math-train-00014","expression":"((5 * 2) - 7)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":24,"case_id":"math-train-00014","expression":"((5 * 2) - 7)","answer":3,"completion":"Final answer: 6","reward":0}
+{"call":24,"case_id":"math-train-00014","expression":"((5 * 2) - 7)","answer":3,"completion":"Final answer: 7","reward":0}
+{"call":24,"case_id":"math-train-00014","expression":"((5 * 2) - 7)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":24,"case_id":"math-train-00014","expression":"((5 * 2) - 7)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":24,"case_id":"math-train-00014","expression":"((5 * 2) - 7)","answer":3,"completion":"Final answer: 3","reward":1}
+{"call":24,"case_id":"math-train-00108","expression":"(1 * (9 + (6 - 6)))","answer":9,"completion":"Final answer: 3","reward":0}
+{"call":24,"case_id":"math-train-00108","expression":"(1 * (9 + (6 - 6)))","answer":9,"completion":"Final answer: 1","reward":0}
+{"call":24,"case_id":"math-train-00108","expression":"(1 * (9 + (6 - 6)))","answer":9,"completion":"Final answer: 0","reward":0}
+{"call":24,"case_id":"math-train-00108","expression":"(1 * (9 + (6 - 6)))","answer":9,"completion":"Final answer: 15","reward":0}
+{"call":24,"case_id":"math-train-00108","expression":"(1 * (9 + (6 - 6)))","answer":9,"completion":"Final answer: 3","reward":0}
+{"call":24,"case_id":"math-train-00108","expression":"(1 * (9 + (6 - 6)))","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":24,"case_id":"math-train-00108","expression":"(1 * (9 + (6 - 6)))","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":24,"case_id":"math-train-00108","expression":"(1 * (9 + (6 - 6)))","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":24,"case_id":"math-train-00090","expression":"((9 * (9 - 8)) + 0)","answer":9,"completion":"Final answer: 11","reward":0}
+{"call":24,"case_id":"math-train-00090","expression":"((9 * (9 - 8)) + 0)","answer":9,"completion":"Final answer: 19","reward":0}
+{"call":24,"case_id":"math-train-00090","expression":"((9 * (9 - 8)) + 0)","answer":9,"completion":"Final answer: 17","reward":0}
+{"call":24,"case_id":"math-train-00090","expression":"((9 * (9 - 8)) + 0)","answer":9,"completion":"Final answer: 9","reward":1}
+{"call":24,"case_id":"math-train-00090","expression":"((9 * (9 - 8)) + 0)","answer":9,"completion":"Final answer: 11","reward":0}
+{"call":24,"case_id":"math-train-00090","expression":"((9 * (9 - 8)) + 0)","answer":9,"completion":"Final answer: 10","reward":0}
+{"call":24,"case_id":"math-train-00090","expression":"((9 * (9 - 8)) + 0)","answer":9,"completion":"Final answer: 17","reward":0}
+{"call":24,"case_id":"math-train-00090","expression":"((9 * (9 - 8)) + 0)","answer":9,"completion":"Final answer: 17","reward":0}
+{"call":24,"case_id":"math-train-00139","expression":"(2 - (5 + 6))","answer":-9,"completion":"Final answer: -7","reward":0}
+{"call":24,"case_id":"math-train-00139","expression":"(2 - (5 + 6))","answer":-9,"completion":"Final answer: -7","reward":0}
+{"call":24,"case_id":"math-train-00139","expression":"(2 - (5 + 6))","answer":-9,"completion":"Final answer: -7","reward":0}
+{"call":24,"case_id":"math-train-00139","expression":"(2 - (5 + 6))","answer":-9,"completion":"Final answer: -7","reward":0}
+{"call":24,"case_id":"math-train-00139","expression":"(2 - (5 + 6))","answer":-9,"completion":"Final answer: -7","reward":0}
+{"call":24,"case_id":"math-train-00139","expression":"(2 - (5 + 6))","answer":-9,"completion":"Final answer: -7","reward":0}
+{"call":24,"case_id":"math-train-00139","expression":"(2 - (5 + 6))","answer":-9,"completion":"Final answer: -1","reward":0}
+{"call":24,"case_id":"math-train-00139","expression":"(2 - (5 + 6))","answer":-9,"completion":"Final answer: -7","reward":0}

@@ -1,0 +1,67 @@
+{
+  "model": {
+    "name": "Qwen/Qwen2.5-0.5B-Instruct",
+    "revision": "7ae557604adf67be50417f59c2c2f167def9a775"
+  },
+  "device": "cpu",
+  "packages": {
+    "torch": "2.14.0",
+    "transformers": "5.16.1",
+    "trl": "1.12.0",
+    "datasets": "5.0.1",
+    "peft": "0.20.0",
+    "accelerate": "1.15.0",
+    "pyarrow": "25.0.1"
+  },
+  "seed": 20261117,
+  "development_cases": 20,
+  "adapter_sha256": "d0758fb9e277bc4bc86caad90e705573f3c26257fc87635ca4bc78878e8f5175",
+  "decoder": "Higher first-token logit between bare P and Q",
+  "diagnostic_target": 0.9,
+  "layouts": {
+    "original": {
+      "validity": {
+        "correct": 43,
+        "total": 80,
+        "accuracy": 0.5375,
+        "distinct_correct": 43,
+        "distinct_prompts": 80,
+        "median_unconstrained_label_mass": 0.998788595199585
+      },
+      "score": {
+        "correct": 80,
+        "total": 160,
+        "accuracy": 0.5,
+        "distinct_correct": 80,
+        "distinct_prompts": 160,
+        "median_unconstrained_label_mass": 0.9982163310050964
+      },
+      "both_point_assignments_correct": 0,
+      "same_choice_after_points_swap": 80,
+      "point_assignment_pairs": 80,
+      "meets_diagnostic_target": false
+    },
+    "inline_examples": {
+      "validity": {
+        "correct": 40,
+        "total": 80,
+        "accuracy": 0.5,
+        "distinct_correct": 40,
+        "distinct_prompts": 80,
+        "median_unconstrained_label_mass": 0.9946698546409607
+      },
+      "score": {
+        "correct": 80,
+        "total": 160,
+        "accuracy": 0.5,
+        "distinct_correct": 80,
+        "distinct_prompts": 160,
+        "median_unconstrained_label_mass": 0.9931504428386688
+      },
+      "both_point_assignments_correct": 0,
+      "same_choice_after_points_swap": 80,
+      "point_assignment_pairs": 80,
+      "meets_diagnostic_target": false
+    }
+  }
+}

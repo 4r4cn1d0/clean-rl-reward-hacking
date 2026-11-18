@@ -1,0 +1,24 @@
+{
+  "task": "direct",
+  "dataset_sha256": "27d529890ea7994b28d84bf1cab0ef079ee50d410280fa9582365d9ebfaa6720",
+  "model": {
+    "name": "Qwen/Qwen2.5-0.5B-Instruct",
+    "revision": "7ae557604adf67be50417f59c2c2f167def9a775"
+  },
+  "greedy": true,
+  "batch_size": 8,
+  "max_new_tokens": 32,
+  "device": "cpu",
+  "adapter": null,
+  "planned": 120,
+  "full_dataset": true,
+  "packages": {
+    "torch": "2.14.0",
+    "transformers": "5.16.1",
+    "trl": "1.12.0",
+    "datasets": "5.0.1",
+    "peft": "0.20.0",
+    "accelerate": "1.15.0",
+    "pyarrow": "25.0.1"
+  }
+}

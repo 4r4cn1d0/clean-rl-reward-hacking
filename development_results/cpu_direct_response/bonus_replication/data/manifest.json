@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "seed": 20261129,
+  "scope": "provided-audit development cases",
+  "cases": 40,
+  "trials": 120,
+  "dashboard": "bonus",
+  "sha256": {
+    "direct_development.jsonl": "27d529890ea7994b28d84bf1cab0ef079ee50d410280fa9582365d9ebfaa6720"
+  }
+}
